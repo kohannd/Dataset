@@ -1,0 +1,501 @@
+PlayerName,Position,Age,MarketValue,Matches,Goals,OwnGoals,Assists,Yellow,2ndYellow,Red,SubsOn,SubsOff,NationalTeam,Height
+Jude Bellingham,Attacking Midfield,20,180,44,25,0,13,11,0,1,1,16,England,186
+Erling Haaland,Centre-Forward,23,180,48,38,0,6,1,0,0,3,18,Norway,195
+Kylian Mbappé,Centre-Forward,25,180,51,45,0,12,6,0,0,5,6,France,178
+Phil Foden,Right Winger,24,150,57,28,0,12,3,0,0,6,21,England,171
+Vinicius Junior,Left Winger,23,150,40,23,0,11,10,0,0,4,22,Brazil,176
+Bukayo Saka,Right Winger,22,140,48,20,0,14,4,0,0,2,23,England,178
+Declan Rice,Defensive Midfield,25,120,54,7,0,10,7,0,0,3,11,England,188
+Rodri,Defensive Midfield,27,120,51,11,0,14,10,0,1,0,11,Spain,191
+Florian Wirtz,Attacking Midfield,21,110,57,19,0,22,7,0,0,11,35,Germany,177
+Jamal Musiala,Attacking Midfield,21,110,42,13,0,10,3,0,0,5,25,Germany,184
+Lautaro Martínez,Centre-Forward,26,110,46,28,0,8,8,0,0,6,18,Argentina,174
+Victor Osimhen,Centre-Forward,25,110,40,18,0,7,5,1,0,5,16,Nigeria,186
+Martin Ødegaard,Attacking Midfield,25,110,51,11,0,11,2,0,0,3,18,Norway,178
+Harry Kane,Centre-Forward,30,110,46,45,0,12,3,0,0,1,9,England,188
+Rodrygo,Right Winger,23,100,52,18,0,9,2,0,0,8,33,Brazil,174
+Federico Valverde,Central Midfield,25,100,54,3,0,8,2,0,0,6,17,Uruguay,182
+Gavi,Central Midfield,19,90,15,2,0,1,6,1,0,2,3,Spain,173
+Eduardo Camavinga,Central Midfield,21,90,49,0,0,5,13,0,0,15,22,France,182
+Julián Álvarez,Centre-Forward,24,90,55,19,0,13,5,0,0,15,20,Argentina,170
+Aurélien Tchouaméni,Defensive Midfield,24,90,42,3,0,1,10,0,0,7,9,Not Called,182
+Rafael Leão,Left Winger,24,90,48,16,0,14,8,0,0,6,20,Portugal,188
+Bruno Guimarães,Defensive Midfield,26,85,52,7,0,10,15,0,0,2,8,Brazil,182
+Pedri,Central Midfield,21,80,34,4,0,5,3,0,0,13,17,Spain,174
+Cole Palmer,Attacking Midfield,22,80,50,28,0,16,8,0,0,7,21,England,189
+Xavi Simons,Attacking Midfield,21,80,45,10,0,15,10,1,0,3,27,Netherlands,179
+Khvicha Kvaratskhelia,Left Winger,23,80,47,12,0,9,8,0,0,4,25,Georgia,183
+William Saliba,Centre-Back,23,80,52,2,0,1,6,0,0,0,1,France,192
+Rúben Dias,Centre-Back,27,80,46,0,2,0,3,0,0,3,3,Portugal,187
+Lamine Yamal,Right Winger,16,75,52,7,0,12,6,0,0,21,16,Spain,178
+Moisés Caicedo,Defensive Midfield,22,75,49,1,0,4,15,0,0,4,11,Ecuador,178
+Enzo Fernández,Central Midfield,23,75,42,8,0,3,10,0,0,4,16,Argentina,178
+Alexis Mac Allister,Central Midfield,25,75,48,8,0,7,10,0,1,7,18,Argentina,176
+Luis Díaz,Left Winger,27,75,53,13,0,6,4,0,0,9,27,Colombia,180
+Josko Gvardiol,Left-Back,22,75,44,5,0,3,5,0,0,4,6,Croatia,185
+Dominik Szoboszlai,Central Midfield,23,75,48,9,0,4,1,0,0,15,17,Hungary,187
+Alexander Isak,Centre-Forward,24,75,42,25,0,2,1,0,0,4,18,Sweden,192
+Nicolò Barella,Central Midfield,27,75,50,3,0,7,10,0,0,9,21,Italy,175
+Gabriel Martinelli,Left Winger,22,70,44,8,0,5,1,0,0,13,25,Brazil,178
+Darwin Núñez,Centre-Forward,24,70,54,18,0,13,10,0,0,21,20,Uruguay,187
+Ronald Araujo,Centre-Back,25,70,37,1,0,2,8,1,1,4,1,Uruguay,192
+Douglas Luiz,Central Midfield,26,70,55,10,0,10,16,0,0,6,13,Brazil,177
+Gabriel Magalhães,Centre-Back,26,70,50,4,1,0,5,0,0,2,3,Brazil,190
+Éder Militão,Centre-Back,26,70,12,0,0,0,0,0,0,6,3,Brazil,186
+Frenkie de Jong,Central Midfield,27,70,30,2,0,0,10,0,0,0,6,Netherlands,181
+Alessandro Bastoni,Centre-Back,25,70,38,1,0,4,5,0,0,1,18,Italy,190
+Trent Alexander-Arnold,Right-Back,25,70,38,3,0,9,7,0,0,8,14,England,180
+Kai Havertz,Attacking Midfield,24,70,58,16,0,8,14,0,0,10,21,Germany,193
+James Maddison,Attacking Midfield,27,70,32,4,0,10,6,0,0,5,23,England,175
+Bernardo Silva,Attacking Midfield,29,70,50,11,0,11,9,0,0,6,12,Portugal,173
+Bruno Fernandes,Attacking Midfield,29,70,49,16,0,14,12,0,0,1,2,Portugal,179
+Leroy Sané,Right Winger,28,70,48,12,0,14,5,0,1,4,21,Germany,183
+Rasmus Højlund,Centre-Forward,21,65,45,16,0,2,2,0,0,9,24,Denmark,191
+Jérémy Doku,Left Winger,22,65,47,7,0,10,4,0,0,25,14,Belgium,173
+Lucas Paquetá,Attacking Midfield,26,65,45,9,0,7,15,0,0,2,23,Brazil,180
+Achraf Hakimi,Right-Back,25,65,50,6,0,8,11,0,0,5,5,Morocco,181
+Gabriel Jesus,Centre-Forward,27,65,36,8,0,8,8,0,0,15,16,Brazil,175
+Dušan Vlahović,Centre-Forward,24,65,39,18,0,3,7,1,0,8,22,Serbia,190
+Christopher Nkunku,Attacking Midfield,26,65,14,3,0,0,0,0,0,12,2,France,177
+Matthijs de Ligt,Centre-Back,24,65,31,2,0,1,5,0,0,7,6,Netherlands,189
+Ollie Watkins,Centre-Forward,28,65,56,28,0,13,7,0,0,6,15,England,180
+Kingsley Coman,Left Winger,27,65,29,6,0,3,1,0,0,7,19,Not Called,182
+Warren Zaïre-Emery,Central Midfield,18,60,48,3,0,7,6,0,0,7,12,France,178
+Nuno Mendes,Left-Back,21,60,15,1,0,2,4,0,0,4,5,Portugal,183
+Bremer,Centre-Back,27,60,41,3,0,0,10,0,0,1,1,Brazil,188
+Anthony Gordon,Left Winger,23,60,50,12,0,11,12,1,0,4,26,England,182
+Randal Kolo Muani,Centre-Forward,25,60,48,13,0,7,2,0,0,21,21,France,187
+Manuel Ugarte,Defensive Midfield,23,60,38,0,0,3,8,0,0,10,10,Uruguay,182
+Alphonso Davies,Left-Back,23,60,46,4,1,7,3,0,0,8,11,Canada,185
+Takefusa Kubo,Right Winger,22,60,45,8,0,9,4,0,0,9,18,Japan,173
+Loïs Openda,Centre-Forward,24,60,48,28,0,7,5,0,0,4,29,Belgium,177
+Cristian Romero,Centre-Back,26,60,36,6,1,0,7,0,1,0,3,Argentina,185
+Theo Hernández,Left-Back,26,60,50,5,0,12,13,0,1,2,4,France,184
+Marcus Thuram,Centre-Forward,26,60,50,15,0,14,3,0,0,8,28,France,192
+Ousmane Dembélé,Right Winger,27,60,45,6,0,14,7,0,0,10,23,France,178
+Marcus Rashford,Left Winger,26,60,46,8,0,5,2,0,1,10,19,England,185
+Jack Grealish,Left Winger,28,60,37,3,0,4,8,0,0,10,13,England,180
+Joshua Kimmich,Right-Back,29,60,48,2,0,10,4,0,1,2,13,Germany,177
+Endrick,Centre-Forward,17,55,30,8,0,3,10,0,0,4,19,Brazil,173
+Michael Olise,Right Winger,22,55,19,10,0,6,0,0,0,5,6,France U21,184
+Micky van de Ven,Centre-Back,23,55,29,3,1,0,6,0,0,0,4,Netherlands,193
+Min-jae Kim,Centre-Back,27,55,45,2,0,3,5,0,0,7,5,South Korea,190
+Pedro Neto,Right Winger,24,55,24,3,0,11,5,0,0,5,7,Portugal,172
+Eberechi Eze,Attacking Midfield,25,55,32,11,0,6,4,0,0,6,13,England,178
+Dejan Kulusevski,Right Winger,24,55,41,8,0,5,8,0,0,6,10,Sweden,186
+Moussa Diaby,Right Winger,24,55,55,10,0,9,4,0,0,19,30,France,171
+Ben White,Right-Back,26,55,51,4,1,5,11,0,0,5,9,England,186
+Viktor Gyökeres,Centre-Forward,25,55,51,44,0,15,5,0,1,3,7,Sweden,187
+João Palhinha,Defensive Midfield,28,55,40,4,0,1,13,0,0,3,13,Portugal,190
+Marquinhos,Centre-Back,30,55,36,0,0,2,3,0,0,3,7,Brazil,183
+Mohamed Salah,Right Winger,31,55,52,30,0,17,2,0,0,10,12,Egypt,175
+Kobbie Mainoo,Central Midfield,19,50,40,5,0,3,4,0,0,5,22,England,175
+Nico Williams,Left Winger,21,50,39,8,0,17,5,1,0,5,23,Spain,181
+Evan Ferguson,Centre-Forward,19,50,39,6,0,1,2,0,0,19,15,Ireland,188
+Levi Colwill,Centre-Back,21,50,33,1,0,1,4,0,0,5,7,England,187
+Matheus Nunes,Central Midfield,25,50,32,1,0,5,1,1,0,15,8,Portugal,183
+Gonçalo Ramos,Centre-Forward,22,50,41,15,0,2,2,0,0,19,17,Portugal,185
+Mohammed Kudus,Attacking Midfield,23,50,55,21,0,7,8,0,0,7,21,Ghana,177
+Jonathan David,Centre-Forward,24,50,51,27,0,10,5,0,0,7,21,Canada,180
+Conor Gallagher,Central Midfield,24,50,53,7,0,9,9,1,0,5,11,England,182
+Amadou Onana,Defensive Midfield,22,50,39,3,0,2,5,0,0,8,9,Belgium,195
+Jeremie Frimpong,Right Midfield,23,50,48,14,0,12,7,0,0,9,30,Netherlands,172
+Cody Gakpo,Left Winger,25,50,55,16,0,8,2,0,0,22,22,Netherlands,193
+Martín Zubimendi,Defensive Midfield,25,50,46,4,0,1,5,0,0,4,4,Spain,181
+Jules Koundé,Centre-Back,25,50,51,2,0,4,5,0,0,5,3,France,180
+Raphinha,Right Winger,27,50,39,10,0,13,5,0,1,12,21,Brazil,176
+Benjamin Pavard,Centre-Back,28,50,35,2,0,3,8,0,0,3,10,France,186
+Mikel Oyarzabal,Centre-Forward,27,50,46,14,0,3,3,0,0,12,21,Spain,181
+Dayot Upamecano,Centre-Back,25,50,34,1,0,0,2,1,1,7,6,France,186
+Diogo Jota,Left Winger,27,50,32,15,0,4,1,1,0,13,11,Portugal,178
+Mikel Merino,Central Midfield,27,50,46,8,0,5,14,0,0,6,9,Spain,189
+Jarrod Bowen,Right Winger,27,50,47,20,0,10,4,0,0,2,6,England,175
+Dani Olmo,Attacking Midfield,26,50,26,9,0,5,1,0,0,5,13,Spain,179
+Ivan Toney,Centre-Forward,28,50,18,5,0,2,5,0,0,1,1,England,185
+Federico Dimarco,Left-Back,26,50,41,6,0,8,0,0,0,5,34,Italy,175
+Kevin De Bruyne,Attacking Midfield,32,50,26,6,0,18,3,0,0,6,12,Belgium,181
+Brennan Johnson,Right Winger,23,48,41,6,0,10,4,0,0,10,23,Wales,186
+Alejandro Garnacho,Left Winger,19,45,52,10,0,5,4,0,0,10,25,Argentina,180
+João Neves,Defensive Midfield,19,45,59,3,0,3,4,0,0,8,15,Portugal,174
+António Silva,Centre-Back,20,45,52,2,0,0,9,0,2,3,4,Portugal,187
+João Pedro,Centre-Forward,22,45,41,20,0,3,4,0,0,14,15,Brazil,182
+Giorgio Scalvini,Centre-Back,20,45,44,1,0,3,6,0,0,7,16,Italy,194
+Pape Matar Sarr,Central Midfield,21,45,43,4,0,4,9,0,0,8,30,Senegal,184
+Destiny Udogie,Left-Back,21,45,31,2,0,3,6,1,0,0,6,Italy,188
+Pedro Porro,Right-Back,24,45,38,4,0,7,4,0,0,0,4,Spain,173
+Santiago Gimenez,Centre-Forward,23,45,48,26,1,9,7,0,0,6,24,Mexico,183
+Matheus Cunha,Centre-Forward,25,45,36,14,0,8,9,0,0,4,18,Brazil,183
+Kaoru Mitoma,Left Winger,27,45,27,3,0,5,6,0,0,4,7,Japan,178
+Vitinha,Central Midfield,24,45,47,9,0,5,3,0,0,7,10,Portugal,172
+Lisandro Martínez,Centre-Back,26,45,14,0,1,1,4,0,0,3,8,Argentina,175
+Pau Torres,Centre-Back,27,45,39,2,0,1,1,0,0,3,5,Spain,192
+Sven Botman,Centre-Back,24,45,22,2,2,2,2,0,0,2,5,Netherlands,195
+Diogo Costa,Goalkeeper,24,45,46,0,0,0,0,0,1,0,0,Portugal,186
+Ibrahima Konaté,Centre-Back,25,45,39,0,0,1,5,1,0,8,9,France,194
+Manuel Akanji,Centre-Back,28,45,49,4,0,0,7,1,0,5,6,Switzerland,188
+Lucas Hernández,Left-Back,28,45,42,2,0,2,9,0,0,5,15,France,184
+Alejandro Grimaldo,Left-Back,28,45,52,12,0,19,3,0,0,6,12,Spain,171
+Serge Gnabry,Right Winger,28,45,24,5,0,2,0,0,0,11,13,Germany,176
+Heung-min Son,Left Winger,31,45,44,23,1,12,1,0,0,3,16,South Korea,184
+Neymar,Left Winger,32,45,5,1,0,3,1,0,0,1,0,Brazil,175
+Jarrad Branthwaite,Centre-Back,21,42,45,3,0,0,9,0,0,0,3,England,195
+Leon Bailey,Left Winger,26,42,58,15,0,14,8,0,0,18,31,Jamaica,178
+Samu Omorodion,Centre-Forward,20,40,43,11,0,1,5,0,0,17,22,Spain U21,193
+Ousmane Diomande,Centre-Back,20,40,44,4,0,1,6,1,0,3,10,Ivory Coast,190
+Vitor Roque,Centre-Forward,19,40,17,2,0,0,2,1,0,14,3,Brazil U23,172
+Leny Yoro,Centre-Back,18,40,49,3,1,0,5,0,0,5,3,France U23,190
+Mathys Tel,Left Winger,19,40,49,14,0,7,2,0,0,34,9,France U21,183
+Sávio,Left Winger,20,40,42,11,0,10,6,0,0,5,20,Brazil,176
+Bradley Barcola,Left Winger,21,40,49,7,0,12,2,1,0,15,27,France,182
+Victor Boniface,Centre-Forward,23,40,38,22,0,10,3,0,0,12,20,Nigeria,190
+Alejandro Balde,Left-Back,20,40,28,1,0,1,2,0,0,6,4,Spain,175
+Benjamin Sesko,Centre-Forward,20,40,44,19,0,3,1,0,0,20,20,Slovenia,195
+Castello Lukeba,Centre-Back,21,40,47,1,0,0,5,0,0,10,5,France U23,184
+Johan Bakayoko,Right Winger,21,40,50,14,0,14,2,0,0,4,26,Belgium,179
+Edmond Tapsoba,Centre-Back,25,40,54,3,1,1,9,0,0,7,9,Burkina Faso,194
+Gonçalo Inácio,Centre-Back,22,40,50,4,0,1,9,1,0,7,8,Portugal,186
+Nicolás González,Right Winger,26,40,44,15,0,5,4,0,0,9,12,Argentina,180
+Reece James,Right-Back,24,40,11,0,0,2,0,1,1,5,5,England,180
+Joshua Zirkzee,Centre-Forward,23,40,37,12,0,7,8,0,0,4,17,Netherlands U21,193
+Morgan Gibbs-White,Attacking Midfield,24,40,42,6,0,10,9,0,0,4,8,England U21,171
+Bryan Mbeumo,Right Winger,24,40,31,10,0,6,3,0,0,5,5,Cameroon,171
+Exequiel Palacios,Central Midfield,25,40,36,6,0,5,8,0,0,6,14,Argentina,177
+Axel Disasi,Centre-Back,26,40,44,3,2,0,6,0,0,3,3,France,190
+Teun Koopmeiners,Attacking Midfield,26,40,51,15,0,7,7,0,0,9,13,Netherlands,184
+Robin Le Normand,Centre-Back,27,40,44,2,1,0,18,0,0,2,8,Spain,187
+Federico Chiesa,Left Winger,26,40,38,10,0,3,1,0,0,8,21,Italy,175
+Joelinton,Central Midfield,27,40,27,3,0,4,9,0,0,5,10,Brazil,186
+Donyell Malen,Right Winger,25,40,39,16,0,5,5,0,0,10,18,Netherlands,176
+Gianluigi Donnarumma,Goalkeeper,25,40,43,0,0,0,5,0,1,0,0,Italy,196
+Brais Méndez,Attacking Midfield,27,40,44,8,0,9,8,0,0,6,19,Spain,184
+Fikayo Tomori,Centre-Back,26,40,36,4,0,0,10,1,0,3,7,England,185
+Serhou Guirassy,Centre-Forward,28,40,38,31,0,3,0,0,0,7,13,Guinea,187
+Dominic Solanke,Centre-Forward,26,40,42,21,0,4,5,0,0,3,11,England,186
+Gregor Kobel,Goalkeeper,26,40,41,0,0,0,1,0,0,0,1,Switzerland,196
+Rúben Neves,Defensive Midfield,27,40,48,7,0,12,10,0,0,3,15,Portugal,180
+Milan Skriniar,Centre-Back,29,40,32,1,0,0,3,0,0,8,4,Slovakia,188
+Andreas Christensen,Centre-Back,28,40,42,3,0,2,8,0,0,5,26,Denmark,187
+Julian Brandt,Attacking Midfield,28,40,51,10,0,16,2,0,0,13,22,Germany,185
+Adrien Rabiot,Central Midfield,29,40,37,5,0,3,9,0,0,1,3,France,188
+Mike Maignan,Goalkeeper,28,40,45,0,0,1,3,0,1,0,2,France,191
+Nathan Aké,Centre-Back,29,40,46,3,0,2,0,0,0,9,9,Netherlands,180
+Hakan Çalhanoğlu,Defensive Midfield,30,40,43,16,0,3,10,0,0,1,26,Türkiye,178
+Rico Lewis,Right-Back,19,38,31,2,0,5,2,0,0,10,6,England,169
+Jurrien Timber,Centre-Back,22,38,5,1,0,0,3,0,0,1,4,Netherlands,179
+Sandro Tonali,Defensive Midfield,24,38,12,1,0,0,3,0,0,4,7,Italy,181
+Boubacar Kamara,Defensive Midfield,24,38,31,1,0,1,7,0,1,2,14,France,184
+Marc Guéhi,Centre-Back,23,38,30,0,0,1,2,0,0,4,5,England,182
+Richarlison,Centre-Forward,27,38,31,12,0,4,3,0,0,10,14,Brazil,184
+Oleksandr Zinchenko,Left-Back,27,38,37,1,0,2,4,0,0,12,18,Ukraine,175
+John Stones,Centre-Back,30,38,31,1,0,2,2,0,0,7,10,England,188
+Murillo,Centre-Back,21,35,36,0,1,2,6,0,0,0,5,Not Called,184
+Nicolas Jackson,Centre-Forward,22,35,53,17,0,6,10,0,0,12,20,Senegal,188
+João Gomes,Central Midfield,23,35,40,2,0,1,11,0,1,3,16,Brazil,176
+Mohamed Simakan,Centre-Back,24,35,42,3,0,4,12,0,0,11,11,France U21,187
+Piero Hincapié,Centre-Back,22,35,44,1,0,1,3,0,0,14,9,Ecuador,184
+Elye Wahi,Centre-Forward,21,35,45,14,0,6,9,1,0,12,29,France U23,181
+Odilon Kossounou,Centre-Back,23,35,39,1,0,0,5,2,0,8,7,Ivory Coast,191
+Roméo Lavia,Defensive Midfield,20,35,1,0,0,0,0,0,0,1,0,Belgium,181
+Malo Gusto,Right-Back,21,35,39,0,0,10,7,0,1,11,14,France,178
+Jean-Clair Todibo,Centre-Back,24,35,34,0,1,3,3,0,1,0,3,France,190
+Rayan Aït-Nouri,Left-Back,22,35,45,3,0,2,9,0,0,6,21,Algeria,180
+Oihan Sancet,Attacking Midfield,24,35,39,6,0,6,5,1,1,8,25,Spain,188
+Harvey Elliott,Attacking Midfield,21,35,60,11,0,15,5,0,0,26,13,England U21,170
+Cheick Doucouré,Defensive Midfield,24,35,13,0,0,0,2,0,0,0,4,Mali,180
+Mykhaylo Mudryk,Left Winger,23,35,43,8,0,2,7,0,0,18,21,Ukraine,175
+Tino Livramento,Right-Back,21,35,39,1,0,1,1,0,0,18,6,England U21,182
+Jacob Ramsey,Attacking Midfield,23,35,21,1,0,2,2,0,0,11,4,England U21,180
+Giorgi Mamardashvili,Goalkeeper,23,35,39,0,0,0,3,0,1,0,0,Georgia,197
+Ryan Gravenberch,Central Midfield,22,35,39,4,0,2,2,0,0,18,19,Netherlands,190
+Khéphren Thuram,Central Midfield,23,35,31,1,0,1,8,0,0,4,9,France U23,192
+Curtis Jones,Central Midfield,23,35,36,5,0,3,3,0,1,12,15,England,185
+Nahuel Molina,Right-Back,26,35,48,2,0,5,6,0,1,14,20,Argentina,175
+Ezri Konsa,Centre-Back,26,35,52,1,0,0,7,1,0,1,8,England,183
+Yves Bissouma,Defensive Midfield,27,35,33,0,0,0,8,1,1,4,18,Mali,182
+Dávid Hancko,Centre-Back,26,35,50,7,0,3,3,0,0,1,1,Slovakia,188
+Edson Álvarez,Defensive Midfield,26,35,50,4,0,2,20,0,0,5,19,Mexico,190
+Ferran Torres,Left Winger,24,35,42,11,0,4,5,0,0,22,12,Spain,184
+Harvey Barnes,Left Winger,26,35,23,5,0,3,3,0,0,16,6,England,182
+Nayef Aguerd,Centre-Back,28,35,38,2,0,2,1,1,0,1,2,Morocco,190
+Diogo Dalot,Right-Back,25,35,51,3,0,5,5,1,0,2,2,Portugal,184
+Rodrigo Bentancur,Central Midfield,26,35,26,1,0,1,7,0,0,11,14,Uruguay,187
+Ismaël Bennacer,Defensive Midfield,26,35,27,2,0,2,3,0,0,9,14,Algeria,175
+Mason Mount,Attacking Midfield,25,35,20,1,0,1,2,0,0,12,7,England,181
+Tammy Abraham,Centre-Forward,26,35,12,1,0,1,1,0,0,10,2,England,194
+Takehiro Tomiyasu,Right-Back,25,35,35,2,0,3,0,1,0,15,7,Japan,188
+Brahim Díaz,Attacking Midfield,24,35,46,12,0,9,2,0,0,22,21,Morocco,170
+Guglielmo Vicario,Goalkeeper,27,35,41,0,0,0,2,0,0,0,0,Italy,194
+Sergej Milinković-Savić,Central Midfield,29,35,46,13,0,17,7,0,2,6,12,Serbia,192
+David Raya,Goalkeeper,28,35,42,0,0,0,2,0,0,0,1,Spain,183
+Joachim Andersen,Centre-Back,27,35,41,2,0,3,9,0,0,0,2,Denmark,192
+Ederson,Goalkeeper,30,35,43,0,0,0,5,0,0,0,4,Brazil,188
+André Onana,Goalkeeper,28,35,54,0,0,0,6,0,0,0,1,Cameroon,190
+Fabinho,Defensive Midfield,30,35,30,1,0,4,4,1,0,2,4,Brazil,188
+Leandro Trossard,Left Winger,29,35,49,17,0,2,2,0,0,22,23,Belgium,172
+Raheem Sterling,Left Winger,29,35,43,10,0,8,8,0,0,12,19,England,170
+Manuel Locatelli,Defensive Midfield,26,33,42,1,0,6,8,0,0,3,7,Italy,185
+Ilya Zabarnyi,Centre-Back,21,32,44,1,0,0,5,0,0,1,0,Ukraine,189
+Max Kilman,Centre-Back,27,32,44,2,0,1,8,0,0,0,1,Not Called,194
+Lutsharel Geertruida,Right-Back,23,32,48,9,1,5,5,0,0,0,3,Netherlands,184
+Joey Veerman,Central Midfield,25,32,43,8,0,20,3,0,0,2,15,Netherlands,185
+Scott McTominay,Defensive Midfield,27,32,47,10,0,3,5,0,0,16,6,Scotland,191
+Christian Pulisic,Right Winger,25,32,56,18,0,12,3,0,0,6,33,USA,177
+Luke Shaw,Left-Back,28,32,15,0,0,1,7,0,0,0,7,England,178
+Alisson,Goalkeeper,31,32,32,0,0,0,1,0,0,0,0,Brazil,193
+Arthur Vermeeren,Central Midfield,19,30,40,2,0,7,5,0,0,3,5,Belgium,180
+Kenan Yıldız,Second Striker,19,30,44,8,0,2,4,0,0,22,17,Türkiye,187
+Adam Wharton,Central Midfield,20,30,49,2,0,6,8,0,0,7,22,England,182
+Evanilson,Centre-Forward,24,30,42,25,0,7,6,0,1,7,30,Brazil,183
+Gabri Veiga,Central Midfield,22,30,26,6,0,5,4,0,0,5,16,Spain U21,185
+Willian Pacho,Centre-Back,22,30,45,0,0,2,8,0,0,0,1,Ecuador,187
+Simon Adingra,Right Winger,22,30,50,9,0,6,4,0,0,13,20,Ivory Coast,175
+Éderson,Central Midfield,24,30,52,7,0,1,10,0,0,6,13,Brazil,183
+Enzo Millot,Attacking Midfield,21,30,36,6,0,11,5,0,0,6,22,France U23,174
+Yéremy Pino,Right Winger,21,30,10,0,0,0,5,0,0,2,7,Spain,172
+Malick Thiaw,Centre-Back,22,30,31,0,1,1,6,0,1,6,5,Germany,194
+Folarin Balogun,Centre-Forward,22,30,40,10,0,9,2,0,0,11,20,USA,178
+Ian Maatsen,Left-Back,22,30,41,3,0,3,11,0,0,14,10,Netherlands,178
+Kiernan Dewsbury-Hall,Central Midfield,25,30,49,12,0,15,6,0,0,6,12,Not Called,178
+Benoît Badiashile,Centre-Back,23,30,22,1,1,1,1,0,0,3,4,France,194
+João Félix,Left Winger,24,30,45,10,0,6,5,0,0,20,21,Portugal,181
+Morten Hjulmand,Defensive Midfield,24,30,51,4,0,4,15,0,0,7,25,Denmark,185
+Orkun Kökçü,Central Midfield,23,30,46,7,0,11,13,0,0,11,27,Türkiye,175
+Charles De Ketelaere,Attacking Midfield,23,30,49,14,1,10,1,0,0,14,32,Belgium,192
+Pedro Gonçalves,Attacking Midfield,25,30,49,18,0,17,6,0,0,4,30,Portugal,173
+Jakub Kiwior,Left-Back,24,30,32,1,1,3,2,0,0,12,7,Poland,189
+Ademola Lookman,Second Striker,26,30,57,20,0,10,6,0,0,17,31,Nigeria,174
+Davide Frattesi,Central Midfield,24,30,44,8,0,7,3,0,0,32,6,Italy,178
+Nico Schlotterbeck,Centre-Back,24,30,48,2,1,5,9,0,0,3,5,Germany,191
+Alessandro Buongiorno,Centre-Back,24,30,32,3,0,1,7,0,0,0,3,Italy,190
+Ibrahim Sangaré,Defensive Midfield,26,30,34,3,0,1,7,0,0,6,14,Ivory Coast,191
+Frank Anguissa,Central Midfield,28,30,48,1,0,3,4,0,0,2,9,Cameroon,184
+Fabián Ruiz,Central Midfield,28,30,36,3,0,7,5,0,0,9,13,Spain,189
+Pervis Estupiñán,Left-Back,26,30,28,3,1,4,7,0,0,6,8,Ecuador,175
+Artem Dovbyk,Centre-Forward,26,30,43,26,0,10,2,0,0,8,23,Ukraine,189
+Noussair Mazraoui,Right-Back,26,30,33,0,0,4,5,0,0,5,12,Morocco,183
+Joe Willock,Central Midfield,24,30,14,2,0,0,1,0,0,5,9,England U21,186
+Eddie Nketiah,Centre-Forward,24,30,38,6,0,3,4,0,0,25,9,England,175
+Malcom,Right Winger,27,30,49,23,0,13,5,0,0,1,22,Brazil,171
+Tomas Soucek,Defensive Midfield,29,30,55,10,0,5,10,0,0,6,9,Czechia,192
+Marcos Llorente,Central Midfield,29,30,52,6,0,6,6,0,0,14,16,Spain,184
+Aleksandr Golovin,Attacking Midfield,27,30,30,7,0,7,9,0,1,0,12,Russia,178
+Rodrigo de Paul,Central Midfield,30,30,50,4,0,7,9,1,0,11,28,Argentina,180
+Andrew Robertson,Left-Back,30,30,33,3,0,3,2,0,0,7,8,Scotland,178
+Otávio,Attacking Midfield,29,30,46,11,0,8,7,0,0,2,23,Portugal,172
+José Gayà,Left-Back,29,30,27,2,0,3,3,0,0,5,9,Spain,172
+Jonathan Tah,Centre-Back,28,30,55,6,0,1,10,0,0,3,5,Germany,195
+John McGinn,Central Midfield,29,30,57,9,0,7,12,0,1,4,20,Scotland,178
+Stanislav Lobotka,Defensive Midfield,29,30,51,0,0,1,4,0,0,2,17,Slovakia,168
+João Cancelo,Right-Back,30,30,43,4,0,5,9,0,0,4,12,Portugal,182
+James Ward-Prowse,Central Midfield,29,30,52,7,0,12,5,0,0,6,9,England,177
+Leon Goretzka,Central Midfield,29,30,46,6,0,11,5,0,0,10,11,Germany,189
+Virgil van Dijk,Centre-Back,32,30,50,4,0,2,4,0,1,3,2,Netherlands,195
+Jan Oblak,Goalkeeper,31,30,56,0,1,0,1,0,0,0,1,Slovenia,188
+Thibaut Courtois,Goalkeeper,32,30,4,0,0,0,0,0,0,0,1,Belgium,200
+Romelu Lukaku,Centre-Forward,31,30,48,21,0,5,5,0,1,2,14,Belgium,191
+Marc-André Ter Stegen,Goalkeeper,32,30,42,0,0,0,3,0,0,0,0,Germany,187
+Mateo Kovacic,Central Midfield,30,30,48,3,0,1,5,0,0,17,16,Croatia,177
+Lionel Messi,Right Winger,36,30,13,12,0,11,0,0,0,1,1,Argentina,170
+Hugo Larsson,Central Midfield,19,28,40,2,0,2,1,0,0,12,9,Sweden,187
+Danilo,Central Midfield,23,28,34,3,0,2,5,0,0,9,14,Brazil,177
+Jamie Bynoe-Gittens,Left Winger,19,28,40,3,0,9,2,0,0,19,19,England U21,177
+Aaron Hickey,Right-Back,21,28,12,0,0,0,5,0,0,1,9,Scotland,185
+Youssouf Fofana,Central Midfield,25,28,39,5,1,4,3,0,0,4,7,France,185
+Noni Madueke,Right Winger,22,28,41,14,0,7,2,0,0,15,20,England U21,182
+Karim Adeyemi,Left Winger,22,28,34,5,0,3,5,1,0,15,14,Germany U21,180
+Matty Cash,Right-Back,26,28,47,5,1,3,11,0,0,13,11,Poland,185
+Amine Gouiri,Left Winger,24,28,46,12,0,3,4,0,0,11,26,Algeria,181
+Giacomo Raspadori,Second Striker,24,28,49,6,0,3,1,0,0,31,13,Italy,172
+Vitaliy Mykolenko,Left-Back,24,28,36,2,1,0,0,0,0,0,5,Ukraine,180
+Yoane Wissa,Left Winger,27,28,48,15,0,4,8,0,0,7,29,DR Congo,176
+Ermedin Demirovic,Centre-Forward,26,28,35,15,0,9,7,0,0,0,11,Bosnia,185
+Mathias Jensen,Central Midfield,28,28,38,4,0,3,5,0,0,8,25,Denmark,180
+Ben Chilwell,Left-Back,27,28,23,0,0,1,6,0,0,8,9,England,180
+Taiwo Awoniyi,Centre-Forward,26,28,24,6,0,3,2,0,0,10,12,Nigeria,183
+Viktor Tsygankov,Right Winger,26,28,35,9,0,7,0,0,0,5,26,Ukraine,178
+Joe Gomez,Centre-Back,27,28,53,0,0,3,8,0,0,22,9,England,188
+Xaver Schlager,Central Midfield,26,28,44,2,0,8,10,0,0,4,12,Austria,174
+Konrad Laimer,Central Midfield,27,28,47,1,0,5,5,0,0,15,13,Austria,180
+Emiliano Martínez,Goalkeeper,31,28,48,0,2,0,6,0,0,0,2,Argentina,195
+Aleksandar Mitrovic,Centre-Forward,29,28,46,39,0,8,7,0,0,7,19,Serbia,189
+Thiago Almada,Attacking Midfield,23,27,26,11,0,3,4,0,0,3,4,Argentina U23,171
+Mats Wieffer,Defensive Midfield,24,27,44,6,0,4,6,0,0,2,4,Netherlands,188
+Denzel Dumfries,Right Midfield,28,27,38,4,0,6,3,0,1,14,17,Netherlands,188
+Olivier Boscagli,Centre-Back,26,27,47,3,1,4,5,0,0,1,12,France U21,181
+Pau Cubarsí,Centre-Back,17,25,37,0,0,1,9,0,0,8,5,Spain,184
+Oscar Gloukh,Attacking Midfield,20,25,41,9,0,18,5,0,0,6,25,Israel,170
+Karim Konaté,Centre-Forward,20,25,47,24,0,12,7,0,0,18,21,Ivory Coast,178
+André,Defensive Midfield,22,25,18,0,0,0,4,0,1,3,1,Brazil,176
+Aleksandar Pavlovic,Defensive Midfield,20,25,27,2,0,2,9,0,0,7,10,Germany,188
+Pablo Barrios,Central Midfield,20,25,41,1,0,2,5,0,0,15,16,Spain U21,181
+Alan Varela,Defensive Midfield,22,25,46,2,0,3,9,0,0,3,19,Argentina U23,177
+Igor Thiago,Centre-Forward,22,25,55,29,0,6,12,1,0,7,23,Not Called,191
+Tyrick Mitchell,Left-Back,24,25,41,2,1,3,6,0,0,0,7,England,175
+Lesley Ugochukwu,Defensive Midfield,20,25,21,0,0,0,5,0,0,9,4,France U21,190
+Samuel Lino,Left Winger,24,25,46,8,0,8,3,0,0,10,27,Not Called,170
+Matías Soulé,Right Winger,21,25,41,12,1,3,5,0,0,4,20,Argentina U23,182
+Marcos Leonardo,Centre-Forward,21,25,22,7,0,1,1,0,0,18,4,Brazil U23,177
+Oscar Bobb,Right Winger,20,25,31,5,0,5,1,0,0,19,6,Norway,175
+Bilal El Khannouss,Attacking Midfield,20,25,58,3,0,8,10,0,0,12,24,Morocco,180
+Manu Koné,Central Midfield,23,25,27,2,0,2,4,0,1,6,11,France U23,185
+Georgiy Sudakov,Attacking Midfield,21,25,36,10,0,8,7,0,0,3,8,Ukraine,177
+Rayan Cherki,Attacking Midfield,20,25,47,8,0,13,0,0,0,18,23,France U23,177
+Antony,Right Winger,24,25,38,3,0,2,6,0,0,17,16,Brazil,172
+Pierre Kalulu,Centre-Back,23,25,11,0,0,0,1,0,0,6,2,France U21,182
+Strahinja Pavlovic,Centre-Back,23,25,39,4,0,3,12,0,1,0,2,Serbia,194
+Radu Drăgușin,Centre-Back,22,25,33,2,0,1,2,0,0,6,2,Romania,191
+Álex Baena,Attacking Midfield,22,25,46,5,0,18,15,0,1,7,25,Spain,174
+Mohamed Camara,Defensive Midfield,24,25,25,1,0,3,4,0,0,7,14,Mali,173
+Terem Moffi,Centre-Forward,25,25,38,12,0,2,4,0,0,12,20,Nigeria,188
+Anatoliy Trubin,Goalkeeper,22,25,48,0,0,0,2,0,0,0,0,Ukraine,199
+Amine Adli,Left Winger,24,25,50,10,0,14,7,0,0,23,17,Morocco,174
+Roger Ibañez,Centre-Back,25,25,32,3,1,1,11,2,0,0,1,Brazil,185
+Dani Vivian,Centre-Back,24,25,41,0,0,1,8,0,0,3,3,Spain,184
+Pepê,Left Winger,27,25,50,8,0,10,7,0,0,3,15,Brazil,175
+Jesper Lindstrøm,Attacking Midfield,24,25,32,0,0,1,2,0,0,27,5,Denmark,182
+Riccardo Calafiori,Centre-Back,22,25,42,2,1,7,6,1,0,7,7,Italy,188
+Wesley Fofana,Centre-Back,23,25,0,0,0,0,0,0,0,0,0,France,186
+Facundo Medina,Centre-Back,25,25,39,1,0,4,15,0,0,1,2,Argentina,184
+Brian Brobbey,Centre-Forward,22,25,43,22,0,12,7,0,0,2,22,Netherlands,182
+David Neres,Right Winger,27,25,35,5,0,10,2,0,0,14,18,Brazil,176
+Nathan Collins,Centre-Back,23,25,37,2,0,1,3,0,0,3,1,Ireland,193
+Youssoufa Moukoko,Centre-Forward,19,25,33,12,0,0,1,0,0,21,7,Germany U21,179
+Ansu Fati,Left Winger,21,25,30,4,0,1,3,0,0,21,8,Spain,178
+Mattéo Guendouzi,Central Midfield,25,25,51,3,0,4,6,0,1,15,11,France,185
+Rodrigo Riquelme,Left Winger,24,25,47,4,0,6,1,0,0,27,15,Spain,174
+Andrea Cambiaso,Left-Back,24,25,41,3,0,7,11,0,0,8,29,Italy,182
+Galeno,Left Winger,26,25,49,16,1,13,6,0,0,9,19,Brazil,179
+Martin Terrier,Left Winger,27,25,36,9,0,4,2,0,1,8,19,France U21,184
+Aaron Ramsdale,Goalkeeper,26,25,12,0,0,0,0,0,0,0,0,England,190
+Perr Schuurs,Centre-Back,24,25,10,1,0,0,2,0,0,0,1,Netherlands,191
+Felix Nmecha,Central Midfield,23,25,29,2,0,2,4,0,0,16,8,Germany,190
+Jadon Sancho,Left Winger,24,25,23,3,0,3,1,0,0,6,13,England,180
+Lovro Majer,Attacking Midfield,26,25,37,6,0,6,6,0,0,11,21,Croatia,178
+Hiroki Ito,Centre-Back,25,25,33,0,0,2,3,0,0,1,5,Japan,188
+Kalvin Phillips,Defensive Midfield,28,25,22,1,0,0,4,1,0,16,2,England,179
+Antonee Robinson,Left-Back,26,25,49,2,2,8,6,0,0,2,6,USA,183
+Sean Longstaff,Central Midfield,26,25,46,8,0,2,8,0,0,6,7,Not Called,187
+Denis Zakaria,Defensive Midfield,27,25,30,4,0,0,10,2,0,2,6,Switzerland,190
+Weston McKennie,Central Midfield,25,25,45,0,0,12,7,0,0,6,16,USA,185
+Gianluca Scamacca,Centre-Forward,25,25,43,19,0,8,5,0,0,16,24,Italy,195
+Marcus Edwards,Right Winger,25,25,44,6,0,9,8,0,1,19,18,England U20,168
+Hee-chan Hwang,Centre-Forward,28,25,38,15,0,4,8,0,0,6,17,South Korea,177
+Lorenzo Pellegrini,Attacking Midfield,27,25,43,11,0,5,10,0,0,13,19,Italy,186
+Marc Cucurella,Left-Back,25,25,27,1,1,2,10,0,0,1,6,Spain,173
+Mario Hermoso,Centre-Back,28,25,45,2,1,2,15,0,0,3,5,Spain,184
+Chris Führich,Left Winger,26,25,41,9,0,7,2,0,0,4,31,Germany,181
+Kevin Danso,Centre-Back,25,25,42,1,0,0,9,0,0,1,3,Austria,190
+Unai Simón,Goalkeeper,26,25,37,0,1,0,2,0,0,0,2,Spain,190
+Aleix García,Central Midfield,26,25,40,3,0,6,4,0,1,3,2,Spain,173
+Iñaki Williams,Right Winger,29,25,47,15,1,5,4,0,0,7,19,Ghana,186
+José María Giménez,Centre-Back,29,25,33,0,0,1,8,0,0,9,7,Uruguay,185
+Youri Tielemans,Central Midfield,27,25,49,5,0,7,6,0,0,17,19,Belgium,177
+Alex Iwobi,Attacking Midfield,28,25,49,6,0,3,2,0,0,9,22,Nigeria,183
+Álex Remiro,Goalkeeper,29,25,50,0,0,0,2,0,1,1,0,Spain,191
+Paulo Dybala,Second Striker,30,25,39,16,0,10,3,0,0,6,27,Argentina,177
+Ruben Loftus-Cheek,Central Midfield,28,25,40,10,0,2,6,0,0,4,22,England,191
+Piotr Zieliński,Central Midfield,30,25,37,5,0,3,2,0,0,6,26,Poland,180
+Aymeric Laporte,Centre-Back,30,25,42,4,0,1,5,0,2,1,3,Spain,191
+Kurt Zouma,Centre-Back,29,25,39,3,0,0,4,0,0,1,3,France,190
+Antoine Griezmann,Centre-Forward,33,25,50,25,0,9,7,0,0,3,19,France,176
+Antonio Rüdiger,Centre-Back,31,25,55,3,1,3,9,0,0,4,2,Germany,190
+David Alaba,Centre-Back,31,25,19,0,1,2,3,0,0,1,4,Austria,180
+Maximilian Beier,Centre-Forward,21,24,39,17,0,3,1,0,0,5,24,Germany,185
+Lewis Ferguson,Attacking Midfield,24,24,37,6,0,5,9,0,0,3,6,Scotland,181
+Eljif Elmas,Attacking Midfield,24,24,35,2,0,3,3,0,0,26,7,North Macedonia,184
+Evan Ndicka,Centre-Back,24,24,46,0,0,3,13,0,0,1,4,Ivory Coast,192
+Jerdy Schouten,Defensive Midfield,27,24,41,4,0,0,5,0,0,2,9,Netherlands,185
+Guido Rodríguez,Defensive Midfield,30,24,29,2,0,1,9,0,0,3,7,Argentina,185
+Quilindschy Hartman,Left-Back,22,23,38,0,0,7,4,0,0,0,12,Netherlands,183
+Yunus Musah,Central Midfield,21,23,48,0,0,2,11,0,0,19,13,USA,178
+Tijjani Reijnders,Central Midfield,25,23,52,5,0,5,9,0,0,6,16,Netherlands,185
+Nathan Tella,Right Winger,24,23,43,7,0,6,4,0,0,22,16,Nigeria,173
+Carlos Baleba,Defensive Midfield,20,22,39,0,0,0,8,0,0,22,10,Cameroon,179
+Lewis Miley,Central Midfield,18,22,33,2,0,4,2,0,0,8,14,England U20,189
+Jorrel Hato,Centre-Back,18,22,52,1,1,3,7,0,0,1,2,Netherlands U21,182
+Julio Enciso,Attacking Midfield,20,22,15,0,0,2,2,0,0,8,7,Paraguay,173
+Jarell Quansah,Centre-Back,21,22,38,3,0,3,3,0,0,8,4,England,190
+Dwight McNeil,Left Winger,24,22,41,3,0,7,3,0,0,3,12,England U21,183
+Anthony Elanga,Left Winger,22,22,42,5,0,9,2,0,0,13,12,Sweden,178
+Armando Broja,Centre-Forward,22,22,29,2,0,1,0,0,0,20,9,Albania,191
+Kang-in Lee,Attacking Midfield,23,22,43,9,0,9,3,1,0,14,19,South Korea,173
+Fábio Vieira,Attacking Midfield,23,22,17,2,0,3,0,0,1,13,2,Portugal U21,170
+James Garner,Defensive Midfield,23,22,44,2,0,2,7,0,0,3,5,England U21,182
+Taylor Harwood-Bellis,Centre-Back,22,22,50,2,0,4,5,0,0,1,5,England U21,188
+Wendel,Central Midfield,26,22,34,4,0,10,6,0,0,3,15,Brazil U23,180
+Sacha Boey,Right-Back,23,22,33,2,0,0,8,0,0,1,1,France U21,178
+Kevin Schade,Right Winger,22,22,13,2,0,1,0,0,0,9,4,Germany,185
+Marcos Senesi,Centre-Back,27,22,36,4,0,5,15,0,0,5,10,Argentina,185
+Lucas Chevalier,Goalkeeper,22,22,45,0,0,0,1,0,0,0,1,France U23,189
+Omar Marmoush,Centre-Forward,25,22,53,18,0,6,10,0,0,10,25,Egypt,183
+Pedro,Centre-Forward,26,22,24,18,0,2,1,0,0,2,10,Brazil,185
+Quinten Timber,Central Midfield,22,22,45,8,0,10,8,0,0,2,17,Netherlands,179
+Angel Gomes,Attacking Midfield,23,22,45,2,0,10,7,0,0,8,18,England U21,168
+Emile Smith Rowe,Attacking Midfield,23,22,19,0,0,2,0,0,0,15,4,England U21,182
+Sergiño Dest,Left-Back,23,22,44,2,0,8,1,1,0,1,10,USA,173
+Igor Zubeldia,Centre-Back,27,22,43,0,0,2,15,0,1,1,7,Spain U21,181
+Deniz Undav,Centre-Forward,27,22,34,19,0,10,5,0,0,8,17,Germany,179
+Konstantinos Tsimikas,Left-Back,28,22,28,0,0,5,0,0,0,8,7,Greece,179
+Vangelis Pavlidis,Centre-Forward,25,22,47,33,0,6,5,0,0,1,7,Greece,186
+Emiliano Buendía,Right Winger,27,22,0,0,0,0,0,0,0,0,0,Argentina,172
+Philip Billing,Central Midfield,27,22,33,2,0,4,4,0,1,16,9,Denmark,193
+Dominic Calvert-Lewin,Centre-Forward,27,22,38,8,0,3,3,0,1,6,27,England,189
+Albert Gudmundsson,Second Striker,26,22,39,20,0,5,4,0,0,2,8,Iceland,177
+Saïd Benrahma,Left Winger,28,22,40,3,0,6,3,0,1,12,21,Algeria,172
+Orel Mangala,Central Midfield,26,22,36,3,0,0,6,0,0,6,17,Belgium,178
+Sofyan Amrabat,Defensive Midfield,27,22,37,0,0,0,11,0,1,13,11,Morocco,185
+Mattia Zaccagni,Left Winger,28,22,37,7,0,2,9,0,0,5,27,Italy,177
+Vitaly Janelt,Defensive Midfield,26,22,42,1,0,3,8,0,0,2,21,Germany U21,184
+Patrik Schick,Centre-Forward,28,22,35,13,0,3,2,0,0,15,17,Czechia,191
+Niklas Süle,Centre-Back,28,22,35,1,0,0,2,0,0,12,3,Germany,195
+Jordan Pickford,Goalkeeper,30,22,44,0,1,0,5,0,0,0,0,England,185
+Désiré Doué,Attacking Midfield,18,20,51,7,0,8,5,1,0,19,21,France U23,181
+Lucas Beraldo,Centre-Back,20,20,26,2,0,0,7,0,1,3,5,Brazil,182
+Alex Scott,Central Midfield,20,20,29,2,0,6,6,0,0,13,12,England U21,178
+Javi Guerra,Central Midfield,21,20,48,4,0,2,3,0,1,17,13,Spain U21,187
+Dango Ouattara,Left Winger,22,20,40,2,0,2,4,0,0,19,9,Burkina Faso,177
+Vanderson,Right-Back,22,20,23,3,0,1,4,1,0,0,8,Brazil,173
+Rodrigo Muniz,Centre-Forward,23,20,33,10,0,1,2,0,0,10,15,Not Called,186
+Milos Kerkez,Left-Back,20,20,35,0,1,2,7,0,1,8,12,Hungary,180
+Jhon Durán,Centre-Forward,20,20,37,8,0,0,8,0,0,27,7,Colombia,185
+El Bilal Touré,Centre-Forward,22,20,18,5,0,1,2,0,0,13,2,Mali,185
+Wilfried Singo,Right-Back,23,20,39,1,1,3,8,0,1,7,3,Ivory Coast,190
+Enzo Le Fée,Central Midfield,24,20,35,0,0,5,3,0,0,9,17,France U21,173
+Ander Barrenetxea,Left Winger,22,20,39,5,0,2,2,0,0,11,28,Spain U21,175
+Toti,Centre-Back,25,20,43,2,0,3,7,0,0,5,9,Portugal,187
+Beto,Centre-Forward,26,20,39,6,0,3,2,0,0,27,10,Not Called,194
+Carlos Augusto,Left Midfield,25,20,46,1,0,3,2,0,0,26,4,Brazil,184
+Arnaud Kalimuendo,Centre-Forward,22,20,48,19,0,8,7,0,0,9,28,France U23,178
+Lazar Samardžić,Central Midfield,22,20,37,6,0,3,3,0,0,7,16,Serbia,184
+Miguel Gutiérrez,Left-Back,22,20,40,2,0,9,4,0,0,1,7,Spain U21,180
+Amar Dedic,Right-Back,21,20,32,5,0,6,5,0,0,3,5,Bosnia,180
+Aaron Wan-Bissaka,Right-Back,26,20,30,0,0,3,5,0,0,4,6,England U21,183
+Renan Lodi,Left-Back,26,20,36,0,0,2,9,0,0,3,14,Brazil,173
+Crysencio Summerville,Left Winger,22,20,49,21,0,10,8,0,0,4,32,Netherlands U21,174
+Samuele Ricci,Defensive Midfield,22,20,33,1,0,4,6,1,0,4,10,Italy,181
+Djordje Petrovic,Goalkeeper,24,20,32,0,0,0,4,0,0,1,0,Serbia,194
+Maxence Lacroix,Centre-Back,24,20,31,4,0,1,4,1,2,1,1,France U20,190
+Jørgen Strand Larsen,Centre-Forward,24,20,43,15,0,5,5,0,0,5,27,Norway,193
+Caio Henrique,Left-Back,26,20,9,0,0,5,0,0,0,2,3,Brazil,178
+Jean-Philippe Mateta,Centre-Forward,26,20,39,19,0,5,5,0,0,11,12,France U21,192
+Konstantinos Mavropanos,Centre-Back,26,20,36,1,2,0,3,0,0,3,3,Greece,194
+Ismaïla Sarr,Right Winger,26,20,42,6,0,8,5,0,0,14,17,Senegal,185
+Robert Sánchez,Goalkeeper,26,20,21,0,0,0,1,0,0,0,1,Spain,197
+Samuel Chukwueze,Right Winger,25,20,40,3,0,3,1,0,0,20,17,Nigeria,172
+Dodô,Right-Back,25,20,18,0,0,0,2,0,0,3,6,Brazil U23,166
+Marcus Tavernier,Left Midfield,25,20,35,4,0,4,3,0,0,9,18,England U20,178
+Maxence Caqueret,Central Midfield,24,20,40,2,0,3,2,0,0,0,5,France U21,174
+Nicolò Zaniolo,Attacking Midfield,24,20,42,3,0,0,13,0,0,27,14,Italy,190
+Jonas Wind,Centre-Forward,25,20,38,12,0,8,4,0,0,5,15,Denmark,190
+Yangel Herrera,Central Midfield,26,20,31,5,0,0,9,0,0,2,20,Venezuela,184
+Carlos Soler,Central Midfield,27,20,28,2,0,4,1,0,0,14,9,Spain,180
+Ferdi Kadıoğlu,Left-Back,24,20,52,4,0,5,3,0,0,5,5,Türkiye,174
+Arthur Theate,Centre-Back,24,20,42,3,0,0,6,0,0,2,6,Belgium,185
+Florentino,Defensive Midfield,24,20,45,0,0,0,10,0,0,19,15,Portugal U21,184
+Noah Okafor,Left Winger,24,20,38,6,0,3,1,0,0,31,7,Switzerland,185
+Kyle Walker-Peters,Right-Back,27,20,47,3,0,3,4,0,0,1,3,Not Called,182
+Caoimhín Kelleher,Goalkeeper,25,20,28,0,0,0,2,0,0,0,1,Ireland,188
+Rico Henry,Left-Back,26,20,5,0,0,1,1,0,0,0,1,England U20,170
+Noa Lang,Left Winger,24,20,19,5,0,2,2,0,0,5,12,Netherlands,170
+Sander Berge,Defensive Midfield,26,20,44,2,0,2,9,1,0,4,8,Norway,195
+Christoph Baumgartner,Attacking Midfield,24,20,44,8,0,4,3,0,0,30,14,Austria,180
