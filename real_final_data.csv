@@ -1,0 +1,257 @@
+player,apps,mins,goals,assists,yellow,red,spg,ps,aerialswon,motm,rating,club,position,age,league,MarketValue,Height
+Harry Kane,32,2844.0,36,8,2,0,4.6,73.6,0.9,8,7.82,Bayern,AM(C),30,German Bundesliga,110,188
+Jude Bellingham,27,2324.0,19,6,5,1,2.3,89.8,0.9,7,7.81,Real Madrid,M(CLR),20,Spanish La Liga,180,186
+Serhou Guirassy,25,2214.0,28,2,0,0,3.3,81.4,2.3,8,7.73,Stuttgart,AM(L),28,German Bundesliga,40,187
+Kylian Mbappé,24,2160.0,27,7,4,0,4.1,85.2,0.0,8,7.71,PSG,AM(CLR),25,Other,180,178
+Leroy Sané,25,2142.0,8,11,4,0,2.7,84.4,0.1,2,7.68,Bayern,M(CLR),28,German Bundesliga,70,183
+Bukayo Saka,35,2937.0,16,9,4,0,3.1,83.0,0.7,6,7.67,Arsenal,D(L),22,English Premier League,140,178
+Jamal Musiala,20,1767.0,10,6,2,0,2.4,81.9,0.3,4,7.65,Bayern,M(CLR),21,German Bundesliga,110,184
+Rodri,34,2937.0,8,9,8,1,1.8,92.5,1.6,5,7.62,Man City,D(C),27,English Premier League,120,191
+Rodri,9,1043.0,0,0,0,0,0.6,82.8,0.0,0,6.31,Real Betis,AM(CLR),24,Spanish La Liga,120,191
+Michael Olise,14,1277.0,10,6,0,0,3.0,83.1,0.4,6,7.61,Crystal Palace,AM(CLR),22,English Premier League,55,184
+Kevin De Bruyne,15,1228.0,4,10,2,0,2.4,83.8,0.3,2,7.6,Man City,M(CLR),32,English Premier League,50,181
+Xavi Simons,32,2675.0,8,11,9,1,2.5,82.0,0.6,6,7.58,RBL,AM(CLR),21,Spanish La Liga,80,179
+Phil Foden,33,2869.0,19,8,2,0,3.0,89.1,0.2,10,7.55,Man City,AM(CLR),24,English Premier League,150,171
+Lautaro Martínez,31,2668.0,24,3,5,0,3.3,79.1,1.2,9,7.53,Inter,FW,26,Italian Serie A,110,174
+Khvicha Kvaratskhelia,32,2752.0,11,6,8,0,3.8,85.7,0.4,10,7.5,Napoli,AM(CLR),23,Italian Serie A,80,183
+Florian Wirtz,26,2384.0,11,11,3,0,2.2,84.6,0.3,5,7.5,Leverkusen,AM(CL),21,Other,110,177
+Victor Boniface,18,1554.0,14,8,2,0,3.5,73.0,1.2,3,7.49,Leverkusen,FW,23,Other,40,190
+Cole Palmer,29,2618.0,22,11,7,0,3.3,83.3,0.0,5,7.48,Chelsea,AM(CR),22,English Premier League,80,189
+Eberechi Eze,24,2064.0,11,4,3,0,3.1,83.7,0.4,5,7.45,Crystal Palace,AM(CLR),25,English Premier League,55,178
+Deniz Undav,23,2100.0,18,9,5,0,3.6,75.4,0.6,5,7.45,Stuttgart,AM(C),27,German Bundesliga,22,179
+Loïs Openda,33,2716.0,24,7,4,0,3.6,69.2,0.7,6,7.32,RBL,FW,24,Spanish La Liga,60,177
+Rafael Leão,29,2524.0,9,9,5,0,2.1,80.0,0.7,8,7.31,AC Milan,AM(CL),24,Italian Serie A,90,188
+Aleksandr Golovin,25,2155.0,6,6,9,1,1.8,80.7,0.5,3,7.3,Monaco,M(CLR),28,French Ligue 1,30,178
+Anthony Gordon,34,2906.0,11,10,10,1,2.3,81.8,0.3,4,7.29,Newcastle,AM(CLR),23,English Premier League,60,182
+Marcus Thuram,34,2707.0,13,7,3,0,2.2,73.9,2.1,2,7.29,Inter,AM(L),26,Italian Serie A,60,192
+Ousmane Dembélé,17,1510.0,3,8,0,0,1.7,81.8,0.1,4,7.28,PSG,AM(CLR),27,Other,60,178
+Ollie Watkins,37,3227.0,19,13,4,0,2.9,76.8,1.4,7,7.27,Aston Villa,AM(LR),28,English Premier League,65,180
+Jérémy Doku,18,1596.0,3,8,3,0,1.9,86.0,0.1,5,7.24,Man City,M(LR),22,English Premier League,65,173
+Mohamed Salah,28,2536.0,18,10,2,0,3.6,75.7,0.2,4,7.24,Liverpool,AM(CLR),31,English Premier League,55,175
+Vitinha,23,2130.0,7,4,0,0,1.6,91.3,0.1,1,7.23,PSG,M(C),24,Other,45,172
+Mohammed Kudus,27,2488.0,8,6,6,0,2.0,84.5,0.5,6,7.23,West Ham,M(CLR),23,English Premier League,50,177
+Antoine Griezmann,31,2654.0,16,6,5,0,2.4,82.7,0.4,6,7.23,Atletico,AM(CLR),33,Spanish La Liga,25,176
+Iñaki Williams,32,2856.0,12,3,4,0,2.7,73.7,0.9,4,7.15,Athletic Club,AM(CLR),29,Spanish La Liga,25,186
+Chris Führich,33,2595.0,8,7,2,0,1.6,86.0,0.1,2,7.15,Stuttgart,M(CLR),26,German Bundesliga,25,181
+Manuel Ugarte,21,1935.0,0,2,5,0,0.4,91.5,0.6,0,7.15,PSG,DMC,23,Other,60,182
+Wilfried Singo,24,2187.0,1,1,8,1,0.8,87.2,2.6,2,7.15,Monaco,D(CR),23,French Ligue 1,20,190
+Bernardo Silva,29,2582.0,6,9,8,0,1.0,89.4,0.1,2,7.15,Man City,M(CLR),29,English Premier League,70,173
+Virgil van Dijk,36,3178.0,2,2,3,1,1.3,91.5,3.9,1,7.15,Liverpool,D(C),32,English Premier League,30,195
+Alessandro Buongiorno,29,2530.0,3,0,7,0,0.4,85.4,2.8,6,7.14,Torino,D(C),24,Italian Serie A,30,190
+Matías Soulé,36,3141.0,11,3,4,0,2.3,81.5,0.3,3,7.14,Frosinone,AM(CR),21,Other,25,182
+Rodrygo,28,2391.0,10,5,2,0,2.6,89.9,0.1,3,7.14,Real Madrid,AM(CLR),23,Spanish La Liga,100,174
+Gianluigi Donnarumma,25,2170.0,0,0,3,1,0.0,87.1,0.1,2,7.14,PSG,GK,25,Other,40,196
+Alexander Isak,27,2267.0,21,2,1,0,2.6,80.0,0.3,3,7.14,Newcastle,AM(L),24,English Premier League,75,192
+Alphonso Davies,24,2067.0,2,5,0,0,0.4,88.9,0.5,1,7.13,Bayern,D(L),23,German Bundesliga,60,185
+Joshua Kimmich,27,2186.0,1,6,1,1,0.9,91.3,0.2,2,7.13,Bayern,D(CR),29,German Bundesliga,60,177
+Conor Gallagher,37,3137.0,5,7,7,1,1.3,91.5,0.7,1,7.13,Chelsea,M(CL),24,English Premier League,50,182
+Matheus Cunha,29,2454.0,12,7,9,0,2.3,81.6,0.5,5,7.13,Wolves,AM(CL),25,English Premier League,45,183
+Federico Dimarco,29,2105.0,5,6,0,0,1.7,85.2,0.2,2,7.12,Inter,D(CL),26,Italian Serie A,50,175
+Paulo Dybala,25,1977.0,13,9,3,0,2.1,84.3,0.3,6,7.12,Roma,AM(CR),30,Italian Serie A,25,177
+Frenkie de Jong,20,1644.0,2,0,7,0,0.4,93.1,1.2,2,7.12,Barcelona,D(C),27,Spanish La Liga,70,181
+Trent Alexander-Arnold,25,2161.0,3,4,6,0,1.7,79.6,0.3,3,7.12,Liverpool,D(R),25,English Premier League,70,180
+Federico Valverde,33,2911.0,2,7,2,0,1.5,91.2,0.6,3,7.12,Real Madrid,M(CLR),25,Spanish La Liga,100,182
+Omar Marmoush,27,2311.0,12,6,7,0,2.7,73.4,1.0,4,7.11,Eintracht Frankfurt,AM(CL),25,German Bundesliga,22,183
+Yangel Herrera,27,2121.0,5,0,9,0,1.8,87.4,2.1,1,7.11,Girona,M(C),26,Spanish La Liga,20,184
+Lamine Yamal,22,2200.0,5,5,3,0,1.6,84.1,0.1,4,7.11,Barcelona,AM(R),16,Spanish La Liga,75,178
+Takefusa Kubo,24,2155.0,7,4,2,0,1.5,80.6,0.4,3,7.11,Real Sociedad,AM(CLR),22,Spanish La Liga,60,173
+Julián Álvarez,31,2660.0,11,9,2,0,2.7,87.9,0.1,1,7.1,Man City,AM(CR),24,English Premier League,90,170
+Jarrod Bowen,34,3021.0,16,6,2,0,2.5,75.1,1.0,2,7.1,West Ham,AM(CLR),27,English Premier League,50,175
+Donyell Malen,21,1786.0,13,1,5,0,2.7,79.6,0.3,4,7.1,Borussia Dortmund,AM(LR),25,German Bundesliga,40,176
+Albert Gudmundsson,34,3024.0,14,4,4,0,1.6,81.6,0.1,6,7.1,Genoa,AM(CLR),26,Italian Serie A,22,177
+João Cancelo,29,2506.0,2,4,7,0,1.0,84.6,0.8,4,7.09,Barcelona,D(LR),30,Spanish La Liga,30,182
+Nicolas Jackson,31,2810.0,14,5,10,0,2.3,78.0,1.0,3,7.07,Chelsea,FW,22,English Premier League,35,188
+Brahim Díaz,18,1553.0,8,6,0,0,1.2,87.1,0.1,4,7.06,Real Madrid,AM(CLR),24,Spanish La Liga,35,170
+Alessandro Bastoni,28,2283.0,1,3,5,0,0.5,89.8,1.4,0,7.06,Inter,D(C),25,Italian Serie A,70,190
+Jonathan David,30,2641.0,19,4,4,0,2.3,82.7,0.6,3,7.05,Lille,AM(C),24,French Ligue 1,50,180
+Lucas Paquetá,31,2638.0,4,6,10,0,1.4,75.2,2.0,0,7.04,West Ham,M(CLR),26,English Premier League,65,180
+Pedro Porro,35,3093.0,3,7,3,0,1.5,79.6,0.5,3,7.04,Tottenham,D(R),24,English Premier League,45,173
+Teun Koopmeiners,28,2543.0,12,5,5,0,1.6,81.4,0.8,2,7.04,Atalanta,D(C),26,Italian Serie A,40,184
+Nicolás González,20,1826.0,11,2,1,0,3.0,74.2,2.3,2,7.04,Fiorentina,M(CLR),26,Italian Serie A,40,180
+João Palhinha,31,2711.0,4,1,13,0,1.4,83.0,1.2,2,7.04,Fulham,DMC,28,English Premier League,55,190
+Dominic Solanke,37,3333.0,19,3,3,0,2.9,73.7,2.6,3,7.03,Bournemouth,FW,26,English Premier League,40,186
+Julian Brandt,26,2232.0,7,11,2,0,1.0,87.2,0.3,4,7.03,Borussia Dortmund,M(CLR),28,German Bundesliga,40,185
+Josko Gvardiol,26,2330.0,4,1,3,0,1.1,88.3,1.1,1,7.03,Man City,D(CL),22,English Premier League,75,185
+Joshua Zirkzee,32,2772.0,11,4,8,0,2.5,78.0,0.9,5,7.03,Bologna,FW,23,Other,40,193
+Charles De Ketelaere,24,1971.0,10,7,1,0,1.3,76.1,1.1,3,7.01,Atalanta,M(CLR),23,Italian Serie A,30,192
+Aurélien Tchouaméni,22,1987.0,3,1,7,0,1.0,92.0,1.9,1,7.0,Real Madrid,D(C),24,Spanish La Liga,90,182
+Achraf Hakimi,20,1931.0,4,5,3,0,1.7,88.7,0.4,1,7.0,PSG,D(LR),25,Other,65,181
+Morgan Gibbs-White,35,3164.0,5,10,9,0,1.9,76.9,1.6,2,7.0,Nottingham Forest,AM(CLR),24,Other,40,171
+James Ward-Prowse,34,3006.0,7,7,4,0,1.2,89.6,0.7,4,6.99,West Ham,M(CR),29,English Premier League,30,177
+Raphinha,17,1373.0,6,9,4,1,2.1,80.9,0.3,3,0.0,RBL,D(LR),27,Spanish La Liga,50,176
+John McGinn,35,3010.0,6,4,9,1,1.1,82.7,0.3,3,6.98,Aston Villa,M(CLR),29,English Premier League,30,178
+Ermedin Demirovic,33,2881.0,15,9,7,0,2.5,66.5,1.6,3,6.98,Augsburg,AM(CL),26,German Bundesliga,28,185
+Maximilian Beier,29,2434.0,16,1,0,0,2.5,73.5,0.6,2,6.98,Hoffenheim,AM(LR),21,German Bundesliga,24,185
+Ademola Lookman,21,1847.0,10,6,4,0,2.2,80.9,0.6,5,6.98,Atalanta,AM(CLR),26,Italian Serie A,30,174
+Victor Osimhen,22,1990.0,15,3,4,1,3.6,71.0,1.5,2,6.98,Napoli,FW,25,Italian Serie A,110,186
+Federico Chiesa,25,2207.0,9,2,1,0,2.3,77.3,0.0,2,6.98,Juventus,M(CLR),26,Italian Serie A,40,175
+Álex Baena,33,2599.0,2,14,11,1,2.1,78.5,0.2,2,6.97,Villarreal,AM(CL),22,Spanish La Liga,25,174
+Dwight McNeil,33,2900.0,3,6,2,0,1.6,78.3,0.5,3,6.97,Everton,M(CLR),24,Other,22,183
+Gianluca Scamacca,17,1425.0,12,6,1,0,2.1,69.0,0.8,3,6.97,Atalanta,FW,25,Italian Serie A,25,195
+Leon Bailey,22,2080.0,10,9,5,0,1.5,78.2,0.4,3,6.96,Aston Villa,M(CLR),26,English Premier League,42,178
+Jonathan Tah,30,2633.0,4,1,6,0,0.8,94.7,2.0,0,6.96,Leverkusen,D(C),28,Other,30,195
+Dejan Kulusevski,31,2767.0,8,3,7,0,1.6,81.9,0.2,3,6.96,Tottenham,AM(CR),24,English Premier League,55,186
+Diogo Dalot,35,3174.0,2,3,4,1,0.8,83.8,0.9,1,6.96,Man Utd,D(LR),25,English Premier League,35,184
+Douglas Luiz,35,3003.0,9,5,12,0,1.4,89.4,0.7,3,6.95,Aston Villa,M(C),26,English Premier League,70,177
+João Pedro,19,2046.0,9,3,2,0,2.4,82.7,1.3,3,6.93,Brighton,AM(CL),22,English Premier League,45,182
+Ben White,35,2995.0,4,4,8,0,0.4,86.7,1.0,0,6.93,Arsenal,D(CR),26,English Premier League,55,186
+Lorenzo Pellegrini,20,1867.0,8,3,7,0,1.6,82.6,0.4,2,6.93,Roma,M(CL),27,Italian Serie A,25,186
+Xaver Schlager,29,2482.0,0,5,7,0,0.7,88.9,0.8,0,6.93,RBL,M(C),26,Spanish La Liga,28,174
+Éderson,31,2785.0,6,1,8,0,1.1,84.3,1.0,1,6.92,Atalanta,M(C),24,Italian Serie A,30,183
+Antonee Robinson,37,3269.0,0,6,6,0,0.4,75.9,1.1,1,6.92,Fulham,D(L),26,English Premier League,25,183
+Giorgio Scalvini,30,2472.0,0,3,3,0,0.6,81.9,2.5,0,6.92,Atalanta,D(C),20,Italian Serie A,45,194
+Odilon Kossounou,21,1813.0,1,0,3,0,0.2,89.1,1.0,0,6.92,Leverkusen,D(CR),23,Other,35,191
+Samuel Lino,25,2092.0,4,5,0,0,1.6,83.3,0.3,0,6.91,Atletico,D(L),24,Spanish La Liga,25,170
+Jarrad Branthwaite,35,3117.0,3,0,8,0,0.4,80.1,2.7,0,6.9,Everton,D(C),21,Other,42,195
+Gabriel Jesus,17,1482.0,4,5,6,0,2.0,81.0,0.6,2,6.89,Arsenal,AM(LR),27,English Premier League,65,175
+Gabriel Martinelli,24,2031.0,6,4,1,0,1.7,85.0,0.5,1,6.89,Arsenal,AM(LR),22,English Premier League,70,178
+Benjamin Pavard,21,1679.0,0,2,6,0,0.7,91.6,1.5,1,6.89,Inter,D(CLR),28,Italian Serie A,50,186
+Darwin Núñez,22,2050.0,11,8,9,0,3.0,71.6,0.9,0,6.89,Liverpool,AM(CL),24,English Premier League,70,187
+Ruben Loftus-Cheek,26,2081.0,6,1,5,0,1.4,85.8,1.5,3,6.88,AC Milan,M(CLR),28,Italian Serie A,25,191
+Kaoru Mitoma,15,1488.0,3,4,4,0,1.8,83.4,0.6,1,6.88,Brighton,M(L),27,English Premier League,45,178
+Angel Gomes,29,2583.0,0,8,5,0,1.1,91.3,0.2,0,6.88,Lille,M(CL),23,French Ligue 1,22,168
+Martín Zubimendi,29,2655.0,4,1,5,0,0.7,86.4,1.4,3,6.88,Real Sociedad,DMC,25,Spanish La Liga,50,181
+Jean-Philippe Mateta,25,2285.0,16,5,3,0,1.3,73.8,1.4,2,6.88,Crystal Palace,FW,26,English Premier League,20,192
+Joachim Andersen,38,3418.0,2,3,7,0,0.6,79.5,2.4,4,6.88,Crystal Palace,D(C),28,English Premier League,35,192
+Jules Koundé,32,2899.0,1,2,4,0,0.7,90.8,2.0,2,6.86,Barcelona,D(CR),25,Spanish La Liga,50,180
+Marcus Tavernier,25,2134.0,3,4,3,0,1.8,79.3,0.4,1,6.86,Bournemouth,M(CLR),25,English Premier League,20,178
+Simon Adingra,25,2233.0,6,1,3,0,1.7,81.1,0.3,3,6.86,Brighton,M(LR),22,English Premier League,30,175
+Gregor Kobel,27,2366.0,0,0,1,0,0.0,81.9,0.2,1,6.84,Borussia Dortmund,GK,26,German Bundesliga,40,196
+André Onana,38,3420.0,0,0,5,0,0.0,70.4,0.4,2,6.84,Man Utd,GK,28,English Premier League,35,190
+Noni Madueke,13,1057.0,5,2,2,0,1.4,88.5,0.3,2,6.84,Chelsea,AM(R),22,English Premier League,28,182
+James Garner,34,3006.0,1,2,7,0,1.1,82.8,0.7,0,6.84,Everton,M(CR),23,Other,22,182
+Marquinhos,18,1540.0,0,1,1,0,0.2,94.5,1.1,0,6.84,PSG,D(CR),30,Other,55,183
+Ibrahima Konaté,17,1571.0,0,0,3,1,0.5,88.0,3.5,0,6.84,Liverpool,D(C),25,English Premier League,45,194
+Romelu Lukaku,30,2648.0,13,3,5,1,2.0,72.4,1.6,4,6.83,Roma,AM(R),31,Italian Serie A,30,191
+Richarlison,18,1493.0,11,4,3,0,2.2,70.9,0.9,1,6.83,Tottenham,AM(CLR),27,English Premier League,38,184
+Rúben Dias,28,2558.0,0,0,0,0,0.7,94.1,1.6,0,6.83,Man City,D(C),27,English Premier League,80,187
+Benjamin Sesko,17,1532.0,14,2,0,0,1.5,66.6,1.2,2,6.83,RBL,FW,21,Spanish La Liga,40,195
+Rayan Cherki,19,1723.0,1,6,0,0,1.7,81.1,0.1,1,6.83,Lyon,AM(CLR),20,Other,25,177
+Martin Terrier,19,1533.0,7,3,2,1,1.6,80.2,1.4,2,6.83,Rennes,AM(CL),27,French Ligue 1,25,184
+Warren Zaïre-Emery,21,1963.0,2,3,4,0,0.5,92.4,0.3,0,6.83,PSG,DMC,18,Other,60,178
+Levi Colwill,20,1800.0,1,1,2,0,0.5,83.4,1.9,2,6.82,Chelsea,D(CL),21,English Premier League,50,187
+Jørgen Strand Larsen,36,2889.0,13,3,5,0,2.2,70.1,2.0,1,6.82,Celta Vigo,FW,24,Spanish La Liga,20,193
+Marc Cucurella,20,1786.0,0,2,10,0,0.4,86.7,1.2,0,6.81,Chelsea,D(CL),25,English Premier League,25,173
+Dominik Szoboszlai,25,2110.0,3,2,1,0,1.8,87.3,0.4,1,6.81,Liverpool,AM(CLR),23,English Premier League,75,187
+Oleksandr Zinchenko,20,1727.0,1,2,2,0,0.6,89.4,1.0,3,6.81,Arsenal,D(L),27,English Premier League,38,175
+Raheem Sterling,22,1983.0,8,4,7,0,1.6,79.3,0.1,2,6.8,Chelsea,M(CLR),29,English Premier League,35,170
+Kobbie Mainoo,24,1942.0,3,1,3,0,0.5,86.7,0.8,0,6.8,Man Utd,DMC,19,English Premier League,50,175
+Lucas Chevalier,33,2970.0,0,0,1,0,0.0,74.9,0.2,3,6.8,Lille,GK,22,French Ligue 1,22,189
+Guido Rodríguez,22,1852.0,2,0,6,0,0.8,85.9,0.9,1,6.8,Real Betis,DMC,30,Spanish La Liga,24,185
+Pablo Barrios,17,1559.0,0,1,5,0,0.7,85.9,0.6,0,6.79,Atletico,M(C),20,Spanish La Liga,25,181
+Boubacar Kamara,20,1662.0,0,1,7,1,0.3,89.3,1.0,0,6.79,Aston Villa,D(CL),24,English Premier League,38,184
+Mohamed Simakan,23,2140.0,2,3,8,0,0.9,86.3,1.9,1,6.79,RBL,D(CR),24,Spanish La Liga,35,187
+Micky van de Ven,27,2344.0,3,0,5,0,0.3,94.3,1.4,1,6.79,Tottenham,D(CL),23,English Premier League,55,193
+Facundo Medina,30,2714.0,1,3,11,0,0.6,87.0,1.2,1,6.79,Lens,D(CL),25,French Ligue 1,25,184
+Rodrigo Muniz,18,1598.0,9,1,1,0,2.8,62.1,2.9,2,6.79,Fulham,FW,23,English Premier League,20,186
+Giorgi Mamardashvili,37,3289.0,0,0,3,1,0.0,46.9,0.3,4,6.79,Valencia,GK,23,Spanish La Liga,35,197
+Fabián Ruiz,14,1195.0,1,3,3,0,0.9,90.1,0.2,1,6.78,PSG,M(CL),28,Other,30,189
+Kevin Danso,30,2656.0,1,0,6,0,0.7,88.1,1.9,0,6.78,Lens,D(C),25,French Ligue 1,25,190
+Weston McKennie,29,2603.0,0,7,6,0,0.7,80.8,1.1,1,6.78,Juventus,D(C),25,Italian Serie A,25,185
+Amine Adli,8,892.0,4,4,5,0,1.2,82.9,0.9,1,6.78,Leverkusen,AM(CLR),24,Other,25,174
+Tyrick Mitchell,37,3209.0,2,3,6,0,0.3,74.2,0.6,0,6.78,Crystal Palace,D(L),24,English Premier League,25,175
+Edmond Tapsoba,23,2085.0,0,1,4,0,0.4,91.4,1.4,0,6.78,Leverkusen,D(C),25,Other,40,194
+Robin Le Normand,28,2473.0,2,0,13,0,0.3,88.6,3.9,1,6.77,Real Sociedad,D(C),27,Spanish La Liga,40,187
+Pau Cubarsí,18,1563.0,0,0,4,0,0.2,91.7,1.5,0,6.77,Barcelona,D(C),17,Spanish La Liga,25,184
+Alex Iwobi,25,2205.0,5,2,2,0,1.7,81.8,0.2,2,6.77,Fulham,M(CLR),28,English Premier League,25,183
+Alejandro Garnacho,30,2578.0,7,4,4,0,2.8,79.4,0.2,2,6.76,Man Utd,AM(LR),19,English Premier League,45,180
+Mathys Tel,6,1031.0,7,5,2,0,1.4,85.0,0.5,0,6.76,Bayern,Forward,19,German Bundesliga,40,183
+Rayan Aït-Nouri,29,2347.0,2,1,7,0,0.7,86.6,0.6,1,6.76,Wolves,D(L),22,English Premier League,35,180
+Patrik Schick,12,1065.0,7,0,1,0,2.0,79.8,1.2,1,6.76,Leverkusen,AM(R),28,Other,22,191
+Edson Álvarez,28,2385.0,1,1,11,0,0.5,86.1,1.0,0,6.76,West Ham,D(C),26,English Premier League,35,190
+Fikayo Tomori,24,2125.0,4,0,6,1,0.7,91.3,1.1,1,6.75,AC Milan,D(CR),26,Italian Serie A,40,185
+Konrad Laimer,18,1770.0,0,3,3,0,0.6,90.2,0.4,0,6.75,Bayern,D(R),27,German Bundesliga,28,180
+Joelinton,15,1281.0,2,1,6,0,1.0,83.9,0.9,1,6.75,Newcastle,AM(CLR),27,English Premier League,40,186
+Guglielmo Vicario,38,3420.0,0,0,2,0,0.0,83.7,0.6,0,6.75,Tottenham,GK,27,English Premier League,35,194
+Piero Hincapié,16,1484.0,1,2,2,0,0.7,91.8,1.4,0,6.74,Leverkusen,D(CL),22,Other,35,184
+Mario Hermoso,29,2558.0,0,1,9,0,0.5,87.1,1.5,1,6.74,Atletico,D(CL),28,Spanish La Liga,25,184
+José Gayà,22,1799.0,1,2,2,0,0.4,79.2,0.5,0,6.74,Valencia,D(L),29,Spanish La Liga,30,172
+Ismaïla Sarr,15,1449.0,3,4,1,0,1.1,80.9,1.0,0,6.73,Marseille,AM(CLR),26,Other,20,185
+Nathan Aké,24,2044.0,2,2,0,0,0.7,92.8,1.6,0,6.73,Man City,D(CL),29,English Premier League,40,180
+Pervis Estupiñán,15,1248.0,2,3,4,0,0.6,88.7,0.6,1,6.73,Brighton,D(L),26,English Premier League,30,175
+Álex Remiro,37,3276.0,0,0,2,1,0.0,74.9,0.2,0,6.72,Real Sociedad,GK,29,Spanish La Liga,25,191
+Ismaël Bennacer,13,1151.0,2,2,2,0,0.6,90.0,0.7,0,6.72,AC Milan,M(C),26,Italian Serie A,35,175
+Jack Grealish,10,1004.0,3,1,7,0,1.1,87.7,0.2,0,6.72,Man City,AM(CL),28,English Premier League,60,180
+Frank Anguissa,32,2792.0,0,2,2,0,1.0,88.0,1.4,0,6.72,Napoli,M(C),28,Italian Serie A,30,184
+Mathias Jensen,27,2220.0,3,3,5,0,0.4,78.6,0.2,1,6.71,Brentford,M(C),28,Other,28,180
+Maxence Lacroix,27,2365.0,4,1,3,3,0.4,85.2,2.3,0,6.71,Wolfsburg,D(C),24,German Bundesliga,20,190
+Scott McTominay,18,1893.0,7,1,2,0,1.4,81.5,1.2,2,6.71,Man Utd,D(C),27,English Premier League,32,191
+Destiny Udogie,28,2398.0,2,3,5,1,0.3,87.5,0.8,0,6.71,Tottenham,D(L),21,English Premier League,45,188
+Manu Koné,18,1567.0,1,0,4,1,1.1,85.4,1.0,0,6.7,Borussia M.Gladbach,DMC,23,Other,25,185
+Jamie Bynoe-Gittens,14,1061.0,1,4,1,0,1.7,80.3,0.2,1,6.7,Borussia Dortmund,AM(L),19,German Bundesliga,28,177
+Rasmus Højlund,25,2172.0,10,2,2,0,1.3,77.0,0.8,1,6.7,Man Utd,FW,21,English Premier League,65,191
+Carlos Augusto,14,1705.0,0,3,1,0,0.0,84.0,0.3,1,6.69,Marseille,M(C),31,Other,20,184
+Marcus Rashford,26,2279.0,7,2,2,0,1.9,79.2,0.5,0,6.69,Man Utd,AM(CLR),26,English Premier League,60,185
+Matthijs de Ligt,16,1391.0,2,0,5,0,0.6,94.0,1.9,0,6.68,Bayern,D(C),24,German Bundesliga,65,189
+Vitaly Janelt,37,3072.0,1,3,8,0,0.6,79.9,0.9,1,6.68,Brentford,D(L),26,Other,22,184
+Sean Longstaff,30,2748.0,6,2,7,0,1.2,80.9,0.5,0,6.67,Newcastle,DMC,26,English Premier League,25,187
+Antonio Rüdiger,30,2708.0,1,0,7,0,0.6,90.0,1.5,0,6.66,Real Madrid,D(CLR),31,Spanish La Liga,25,190
+Matty Cash,23,2144.0,2,2,8,0,1.1,84.0,0.5,1,6.66,Aston Villa,D(R),26,English Premier League,28,185
+Nathan Collins,29,2650.0,1,1,3,0,0.3,81.5,2.3,0,6.66,Brentford,D(CR),23,Other,25,193
+Terem Moffi,23,1961.0,11,2,4,0,1.6,73.1,0.7,2,6.65,Nice,AM(R),25,French Ligue 1,25,188
+Andreas Christensen,27,1999.0,2,2,4,0,0.4,94.3,1.8,0,6.65,Barcelona,D(C),28,Spanish La Liga,40,187
+Marcos Llorente,29,2573.0,6,4,5,0,0.8,83.3,0.5,2,6.65,Atletico,D(R),29,Spanish La Liga,30,184
+Dani Vivian,31,2879.0,0,0,6,0,0.3,84.4,1.0,0,6.65,Athletic Club,D(C),24,Spanish La Liga,25,184
+Lovro Majer,25,2121.0,5,5,5,0,1.2,78.1,0.4,3,6.65,Wolfsburg,AM(CR),26,German Bundesliga,25,178
+Moussa Diaby,25,2188.0,6,8,1,0,1.4,82.6,0.1,2,6.65,Aston Villa,M(CLR),24,English Premier League,55,171
+Evan Ndicka,25,2171.0,0,3,6,0,0.4,91.1,1.6,0,6.65,Roma,D(CL),24,Italian Serie A,24,192
+Igor Zubeldia,29,2524.0,0,2,11,1,0.4,85.0,2.8,0,6.64,Real Sociedad,D(C),27,Spanish La Liga,22,181
+Andrea Cambiaso,28,2389.0,2,3,10,0,0.9,87.6,0.4,2,6.64,Juventus,D(LR),24,Italian Serie A,25,182
+Ezri Konsa,35,3074.0,1,0,5,0,0.5,92.2,0.9,0,6.64,Aston Villa,D(CR),26,English Premier League,35,183
+Oihan Sancet,25,1993.0,4,5,3,2,1.4,82.8,0.8,1,6.64,Athletic Club,M(C),24,Spanish La Liga,35,188
+Mateo Kovacic,16,1549.0,1,0,4,0,0.7,94.1,0.1,0,6.63,Man City,M(CL),30,English Premier League,30,177
+Ederson,33,2789.0,0,0,5,0,0.0,85.9,0.3,0,6.63,Man City,GK,30,English Premier League,35,188
+Youri Tielemans,17,1622.0,2,6,3,0,0.4,86.0,0.4,1,6.63,Aston Villa,M(C),27,English Premier League,25,177
+Djordje Petrovic,22,1986.0,0,0,2,0,0.0,76.4,0.3,0,6.62,Chelsea,GK,24,English Premier League,20,194
+Anthony Elanga,25,2434.0,5,9,1,0,1.5,75.3,0.5,1,6.62,Nottingham Forest,AM(LR),22,Other,22,178
+Dayot Upamecano,19,1765.0,1,0,1,1,0.4,92.7,1.7,0,6.62,Bayern,D(C),25,German Bundesliga,50,186
+Nathan Tella,8,811.0,5,2,2,0,0.9,83.2,0.2,1,6.62,Leverkusen,M(CLR),24,Other,23,173
+Harvey Barnes,7,795.0,5,3,2,0,1.3,79.1,0.2,0,6.61,Newcastle,AM(CL),26,English Premier League,35,182
+Stanislav Lobotka,38,3295.0,0,1,4,0,0.4,91.7,0.3,0,6.61,Napoli,DMC,29,Italian Serie A,30,168
+Pau Torres,27,2464.0,2,0,1,0,0.4,87.8,0.8,1,6.61,Aston Villa,D(C),27,English Premier League,45,192
+Dango Ouattara,12,1222.0,1,2,3,0,1.0,67.6,1.2,2,6.61,Bournemouth,D(L),22,English Premier League,20,177
+Joe Gomez,17,1779.0,0,1,5,0,0.6,86.2,1.0,0,6.6,Liverpool,D(CLR),27,English Premier League,28,188
+Takehiro Tomiyasu,10,1144.0,2,1,0,1,0.8,85.5,1.2,0,6.6,Arsenal,D(CLR),25,English Premier League,35,188
+Mikel Oyarzabal,23,2160.0,9,3,3,0,1.2,75.6,0.8,1,6.59,Real Sociedad,AM(CLR),27,Spanish La Liga,50,181
+Malick Thiaw,19,1621.0,0,1,5,1,0.2,91.6,1.8,1,6.59,AC Milan,D(C),22,Italian Serie A,30,194
+Felix Nmecha,10,1016.0,1,2,3,0,1.2,84.1,1.1,0,6.59,Borussia Dortmund,M(C),23,German Bundesliga,25,190
+Jakub Kiwior,11,946.0,1,3,1,0,0.3,85.8,0.8,0,6.58,Arsenal,D(CL),24,English Premier League,30,189
+Taiwo Awoniyi,12,1047.0,6,3,2,0,1.1,73.8,1.1,0,6.58,Nottingham Forest,FW,26,Other,28,183
+Sander Berge,34,3009.0,1,2,8,1,0.7,88.8,1.8,1,6.58,Burnley,M(C),26,English Premier League,20,195
+Castello Lukeba,24,2186.0,1,0,3,0,0.2,91.7,1.0,0,6.57,RBL,D(C),21,Spanish La Liga,40,184
+Samuele Ricci,28,2407.0,1,2,6,1,0.9,88.5,0.6,1,6.56,Torino,AM(C),22,Italian Serie A,20,181
+Ander Barrenetxea,20,1440.0,4,1,1,0,1.3,72.5,0.5,0,6.55,Real Sociedad,M(LR),22,Spanish La Liga,20,175
+Konstantinos Mavropanos,16,1501.0,1,0,2,0,0.6,76.7,2.3,0,6.55,West Ham,D(CR),26,English Premier League,20,194
+Marc Guéhi,23,2023.0,0,1,2,0,0.2,87.2,1.2,0,6.55,Crystal Palace,D(C),23,English Premier League,38,182
+Danilo,20,1801.0,2,2,4,0,0.8,80.6,0.5,0,6.55,Nottingham Forest,M(C),23,Other,28,177
+Giacomo Raspadori,14,1574.0,5,3,0,0,1.6,79.9,0.2,1,6.54,Napoli,AM(CL),24,Italian Serie A,28,172
+Javi Guerra,28,2505.0,4,1,3,1,1.2,74.1,0.7,0,6.54,Valencia,DMC,21,Spanish La Liga,20,187
+Antony,15,1324.0,1,1,5,0,1.5,80.0,0.1,1,6.54,Man Utd,AM(R),24,English Premier League,25,172
+David Raya,32,2880.0,0,0,2,0,0.0,70.8,0.2,0,6.54,Arsenal,GK,28,English Premier League,35,183
+Elye Wahi,20,1704.0,9,3,8,1,2.2,75.4,0.4,0,6.54,Lens,AM(L),21,French Ligue 1,35,181
+Rodrigo Riquelme,17,1527.0,3,5,1,0,1.1,79.3,0.1,1,6.52,Atletico,D(L),24,Spanish La Liga,25,174
+Kurt Zouma,32,2841.0,3,0,3,0,0.5,83.9,1.8,1,6.52,West Ham,D(CR),29,English Premier League,25,190
+Tino Livramento,12,1306.0,1,0,1,0,0.2,86.8,0.5,0,6.5,Newcastle,D(LR),21,English Premier League,35,182
+Mattéo Guendouzi,27,2371.0,2,3,3,1,0.8,85.5,0.4,2,6.5,Lazio,M(C),25,Italian Serie A,25,185
+Samuel Chukwueze,12,1015.0,1,3,1,0,1.2,81.7,0.4,0,6.5,AC Milan,AM(CR),25,Italian Serie A,20,172
+Ryan Gravenberch,12,1122.0,1,0,0,0,0.9,83.4,0.4,0,6.49,Liverpool,DMC,22,English Premier League,35,190
+Evan Ferguson,15,1366.0,6,0,1,0,1.2,81.3,0.5,1,6.49,Brighton,FW,19,English Premier League,50,188
+Benoît Badiashile,15,1338.0,0,1,3,0,0.3,90.9,1.6,0,6.48,Chelsea,D(C),23,English Premier League,30,194
+Hugo Larsson,21,1886.0,2,1,1,0,0.3,87.1,0.3,0,6.47,Eintracht Frankfurt,M(C),19,German Bundesliga,28,187
+Curtis Jones,14,1168.0,1,1,3,1,0.8,91.5,0.3,0,6.47,Liverpool,AM(CL),23,English Premier League,35,185
+Christoph Baumgartner,11,1152.0,5,1,3,0,1.0,76.8,0.7,0,6.46,RBL,AM(CLR),24,Spanish La Liga,20,180
+Alex Scott,11,1013.0,1,1,3,0,0.7,81.0,0.7,1,6.46,Bournemouth,M(CR),20,English Premier League,20,178
+Orel Mangala,19,1571.0,1,0,6,0,0.5,88.6,0.5,0,6.45,Nottingham Forest,M(C),26,Other,22,178
+Samu Omorodion,21,1922.0,8,1,6,0,1.9,72.5,1.8,1,6.42,Deportivo Alaves,FW,20,Spanish La Liga,40,193
+Milos Kerkez,22,1976.0,0,1,4,1,0.6,77.2,0.6,0,6.42,Bournemouth,D(L),20,English Premier League,20,180
+Nayef Aguerd,21,1859.0,1,0,1,1,0.7,80.5,2.3,0,6.42,West Ham,D(C),28,English Premier League,35,190
+Youssoufa Moukoko,4,615.0,5,0,1,0,0.7,84.3,0.3,0,6.41,Borussia Dortmund,FW,19,German Bundesliga,25,179
+Noah Okafor,6,872.0,6,2,1,0,0.8,69.9,0.3,0,6.41,AC Milan,AM(L),24,Italian Serie A,20,185
+Rodrigo Bentancur,13,1010.0,1,1,7,0,0.8,85.5,0.6,0,6.39,Tottenham,M(C),26,English Premier League,35,187
+Yunus Musah,13,1468.0,0,2,5,0,0.5,89.0,0.5,0,6.38,AC Milan,M(CR),21,Italian Serie A,23,178
+Carlos Baleba,15,1324.0,0,0,7,0,0.8,92.2,0.9,0,6.33,Brighton,DMC,20,English Premier League,22,179
+Jhon Durán,3,463.0,5,0,5,0,0.9,71.1,0.9,1,6.32,Aston Villa,FW,20,English Premier League,20,185
+Beto,9,939.0,3,0,2,0,1.4,61.5,1.6,1,6.32,Everton,FW,26,Other,20,194
+Ansu Fati,3,514.0,2,0,2,0,1.4,87.3,0.1,0,6.26,Brighton,AM(L),21,English Premier League,25,178
+Pedro,5,801.0,1,1,4,0,0.3,85.9,0.1,0,6.25,Lazio,M(CLR),36,Italian Serie A,22,185
+Jesper Lindstrøm,2,418.0,0,0,2,0,0.6,84.4,0.0,0,6.2,Napoli,AM(CLR),24,Italian Serie A,25,182
