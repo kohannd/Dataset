@@ -1,0 +1,400 @@
+player,apps,mins,goals,assists,yellow,red,spg,ps,aerialswon,motm,rating,club,age,PosisiPemain,HargaPasar
+Bukayo Saka,35,2937,16,9,4,0,3.1,83.0,0.7,6,7.67,Arsenal,22,Right Winger,€140.00m  
+Rodri,34,2937,8,9,8,1,1.8,92.5,1.6,5,7.62,Man City,27,Defensive Midfield,€120.00m  
+Michael Olise,19,1277,10,6,0,0,3.0,83.1,0.4,6,7.61,Crystal Palace,22,Right Winger,€55.00m  
+Kevin De Bruyne,18,1228,4,10,2,0,2.4,83.8,0.3,2,7.6,Man City,32,Attacking Midfield,€50.00m  
+Phil Foden,35,2869,19,8,2,0,3.0,89.1,0.2,10,7.55,Man City,24,Right Winger,€150.00m  
+Cole Palmer,33,2618,22,11,7,0,3.3,83.3,0.0,5,7.48,Chelsea,22,Attacking Midfield,€80.00m  
+Cole Palmer,1,10,0,0,0,0,0.0,80.0,0.0,0,5.99,Man City,22,Attacking Midfield,€80.00m  
+Eberechi Eze,27,2064,11,4,3,0,3.1,83.7,0.4,5,7.45,Crystal Palace,25,Attacking Midfield,€55.00m  
+Solly March,7,559,3,1,1,0,2.0,81.4,0.9,1,7.43,Brighton,29,Right Winger,€18.00m  
+Erling Haaland,31,2559,27,5,1,0,3.9,77.4,1.3,6,7.4,Man City,23,Centre-Forward,€180.00m  
+Bruno Fernandes,35,3120,10,8,9,0,2.7,79.4,0.6,6,7.39,Man Utd,29,Attacking Midfield,€70.00m  
+Declan Rice,38,3232,7,8,5,0,1.5,90.7,1.0,5,7.38,Arsenal,25,Defensive Midfield,€120.00m  
+Bruno Guimarães,37,3269,7,8,9,0,1.3,85.0,0.5,6,7.37,Newcastle,26,Defensive Midfield,€85.00m  
+Martin Ødegaard,35,3104,8,10,2,0,2.2,86.8,0.1,5,7.37,Arsenal,25,Attacking Midfield,€110.00m  
+Arijanet Muric,10,900,0,0,0,0,0.0,67.5,0.4,1,7.34,Burnley,25,Goalkeeper,€7.00m  
+Anthony Gordon,35,2906,11,10,10,1,2.3,81.8,0.3,4,7.29,Newcastle,23,Left Winger,€60.00m  
+Ollie Watkins,37,3227,19,13,4,0,2.9,76.8,1.4,7,7.27,Aston Villa,28,Centre-Forward,€65.00m  
+Jérémy Doku,29,1596,3,8,3,0,1.9,86.0,0.1,5,7.24,Man City,22,Left Winger,€65.00m  
+Mohamed Salah,32,2536,18,10,2,0,3.6,75.7,0.2,4,7.24,Liverpool,31,Right Winger,€55.00m  
+Mohammed Kudus,33,2488,8,6,6,0,2.0,84.5,0.5,6,7.23,West Ham,23,Attacking Midfield,€50.00m  
+James Maddison,28,2155,4,9,5,0,2.1,87.4,0.1,1,7.17,Tottenham,27,Attacking Midfield,€70.00m  
+Kai Havertz,37,2641,13,7,11,0,1.9,81.1,2.8,3,7.16,Arsenal,24,Attacking Midfield,€70.00m  
+Bernardo Silva,33,2582,6,9,8,0,1.0,89.4,0.1,2,7.15,Man City,29,Attacking Midfield,€70.00m  
+Virgil van Dijk,36,3178,2,2,3,1,1.3,91.5,3.9,1,7.15,Liverpool,32,Centre-Back,€30.00m  
+Alexander Isak,30,2267,21,2,1,0,2.6,80.0,0.3,3,7.14,Newcastle,24,Centre-Forward,€75.00m  
+Pascal Groß,36,3114,4,10,7,0,1.5,90.2,0.4,6,7.13,Brighton,32,Central Midfield,€8.00m  
+Conor Gallagher,37,3137,5,7,7,1,1.3,91.5,0.7,1,7.13,Chelsea,24,Central Midfield,€50.00m  
+Matheus Cunha,32,2454,12,7,9,0,2.3,81.6,0.5,5,7.13,Wolves,25,Centre-Forward,€45.00m  
+Trent Alexander-Arnold,28,2161,3,4,6,0,1.7,79.6,0.3,3,7.12,Liverpool,25,Right-Back,€70.00m  
+Julián Álvarez,36,2660,11,9,2,0,2.7,87.9,0.1,1,7.1,Man City,24,Centre-Forward,€90.00m  
+Jarrod Bowen,34,3021,16,6,2,0,2.5,75.1,1.0,2,7.1,West Ham,27,Right Winger,€50.00m  
+Diogo Jota,21,1151,10,3,1,1,2.0,74.5,0.9,1,7.09,Liverpool,27,Left Winger,€50.00m  
+Alexis Mac Allister,33,2612,5,5,7,1,1.3,87.8,0.9,2,7.09,Liverpool,25,Central Midfield,€75.00m  
+Luis Díaz,37,2646,8,5,3,0,2.5,85.3,0.7,3,7.09,Liverpool,27,Left Winger,€75.00m  
+James Tarkowski,38,3420,1,1,11,0,0.7,77.8,3.8,5,7.08,Everton,31,Centre-Back,€13.00m  
+James Tarkowski,38,3420,1,1,11,0,0.7,77.8,3.8,5,7.08,Everton,31,Centre-Back,€13.00m  
+Nicolas Jackson,35,2810,14,5,10,0,2.3,78.0,1.0,3,7.07,Chelsea,22,Centre-Forward,€35.00m  
+Kieran Trippier,28,2240,1,10,5,0,0.3,79.7,1.1,3,7.07,Newcastle,33,Right-Back,€10.00m  
+Thomas Strakosha,2,135,0,0,0,0,0.0,71.2,0.5,0,7.05,Brentford,29,Goalkeeper,€3.00m  
+Manor Solomon,5,198,0,2,1,0,1.4,90.6,0.0,0,7.05,Tottenham,24,Left Winger,€13.00m  
+Ross Barkley,32,2622,5,4,6,0,2.1,84.5,1.4,1,7.05,Luton,30,Central Midfield,€8.00m  
+Lucas Paquetá,31,2638,4,6,10,0,1.4,75.2,2.0,0,7.04,West Ham,26,Attacking Midfield,€65.00m  
+Pedro Porro,35,3093,3,7,3,0,1.5,79.6,0.5,3,7.04,Tottenham,24,Right-Back,€45.00m  
+João Palhinha,33,2711,4,1,13,0,1.4,83.0,1.2,2,7.04,Fulham,28,Defensive Midfield,€55.00m  
+Dominic Solanke,38,3333,19,3,3,0,2.9,73.7,2.6,3,7.03,Bournemouth,26,Centre-Forward,€40.00m  
+Josko Gvardiol,28,2330,4,1,3,0,1.1,88.3,1.1,1,7.03,Man City,22,Left-Back,€75.00m  
+Cristian Romero,33,2793,5,0,7,1,0.7,91.9,2.7,1,7.03,Tottenham,26,Centre-Back,€60.00m  
+Alphonse Areola,31,2702,0,0,1,0,0.0,59.3,0.4,4,6.96,West Ham,31,Goalkeeper,€10.00m  
+Diogo Dalot,36,3174,2,3,4,1,0.8,83.8,0.9,1,6.96,Man Utd,25,Right-Back,€35.00m  
+Douglas Luiz,35,3003,9,5,12,0,1.4,89.4,0.7,3,6.95,Aston Villa,26,Central Midfield,€70.00m  
+Dan Burn,33,2733,2,2,4,0,0.7,81.1,3.1,1,6.94,Newcastle,32,Left-Back,€8.00m  
+João Pedro,31,2046,9,3,2,0,2.4,82.7,1.3,3,6.93,Brighton,22,Centre-Forward,€45.00m  
+Ben White,37,2995,4,4,8,0,0.4,86.7,1.0,0,6.93,Arsenal,26,Right-Back,€55.00m  
+Adam Wharton,16,1305,0,3,2,0,0.6,81.1,0.5,0,6.93,Crystal Palace,20,Central Midfield,€30.00m  
+Adam Wharton,16,1305,0,3,2,0,0.6,81.1,0.5,0,6.93,Crystal Palace,20,Central Midfield,€30.00m  
+Antonee Robinson,37,3269,0,6,6,0,0.4,75.9,1.1,1,6.92,Fulham,26,Left-Back,€25.00m  
+Jarrad Branthwaite,35,3117,3,0,8,0,0.4,80.1,2.7,0,6.9,Everton,21,Centre-Back,€42.00m  
+Gabriel Jesus,27,1482,4,5,6,0,2.0,81.0,0.6,2,6.89,Arsenal,27,Centre-Forward,€65.00m  
+Gabriel Martinelli,35,2031,6,4,1,0,1.7,85.0,0.5,1,6.89,Arsenal,22,Left Winger,€70.00m  
+Ivan Toney,17,1449,4,2,5,0,3.0,55.7,3.2,2,6.89,Brentford,28,Centre-Forward,€50.00m  
+Darwin Núñez,36,2050,11,8,9,0,3.0,71.6,0.9,0,6.89,Liverpool,24,Centre-Forward,€70.00m  
+Kaoru Mitoma,19,1488,3,4,4,0,1.8,83.4,0.6,1,6.88,Brighton,27,Left Winger,€45.00m  
+Jean-Philippe Mateta,35,2285,16,5,3,0,1.3,73.8,1.4,2,6.88,Crystal Palace,26,Centre-Forward,€20.00m  
+Antoine Semenyo,33,2113,8,2,6,0,2.1,74.3,1.6,3,6.88,Bournemouth,24,Right Winger,€10.00m  
+Joachim Andersen,38,3418,2,3,7,0,0.6,79.5,2.4,4,6.88,Crystal Palace,28,Centre-Back,€35.00m  
+Yoane Wissa,34,2509,12,3,7,0,2.0,73.2,1.1,2,6.87,Brentford,27,Left Winger,€28.00m  
+Cody Gakpo,35,1646,8,5,1,0,1.9,79.3,0.9,2,6.87,Liverpool,25,Left Winger,€50.00m  
+Harry Maguire,22,1651,2,2,4,0,0.9,83.4,3.1,0,6.87,Man Utd,31,Centre-Back,€18.00m  
+Cheick Doucouré,11,922,0,0,2,0,0.5,87.2,0.5,0,6.87,Crystal Palace,24,Defensive Midfield,€35.00m  
+Marcus Tavernier,30,2134,3,4,3,0,1.8,79.3,0.4,1,6.86,Bournemouth,25,Left Midfield,€20.00m  
+Simon Adingra,31,2233,6,1,3,0,1.7,81.1,0.3,3,6.86,Brighton,22,Right Winger,€30.00m  
+Mario Lemina,35,2976,4,1,10,1,1.4,86.7,1.0,2,6.85,Wolves,30,Defensive Midfield,€10.00m  
+Sergio Reguilón,16,1122,0,4,4,1,0.8,71.8,0.9,1,6.85,Brentford,27,Left-Back,€12.00m  
+Sergio Reguilón,16,1122,0,4,4,1,0.8,71.8,0.9,1,6.85,Brentford,27,Left-Back,€12.00m  
+Moisés Caicedo,35,2875,1,3,11,0,0.4,90.8,0.9,2,6.85,Chelsea,22,Defensive Midfield,€75.00m  
+William Saliba,38,3420,2,1,4,0,0.3,92.6,1.9,2,6.85,Arsenal,23,Centre-Back,€80.00m  
+Jordan Ayew,35,2551,4,7,7,1,1.4,80.6,1.0,3,6.85,Crystal Palace,32,Centre-Forward,€4.00m  
+André Onana,38,3420,0,0,5,0,0.0,70.4,0.4,2,6.84,Man Utd,28,Goalkeeper,€35.00m  
+Noni Madueke,23,1057,5,2,2,0,1.4,88.5,0.3,2,6.84,Chelsea,22,Right Winger,€28.00m  
+James Garner,37,3006,1,2,7,0,1.1,82.8,0.7,0,6.84,Everton,23,Defensive Midfield,€22.00m  
+Ibrahima Konaté,22,1571,0,0,3,1,0.5,88.0,3.5,0,6.84,Liverpool,25,Centre-Back,€45.00m  
+Richarlison,28,1493,11,4,3,0,2.2,70.9,0.9,1,6.83,Tottenham,27,Centre-Forward,€38.00m  
+Rúben Dias,30,2558,0,0,0,0,0.7,94.1,1.6,0,6.83,Man City,27,Centre-Back,€80.00m  
+Idrissa Gueye,25,1896,4,0,8,0,1.0,85.6,0.6,1,6.83,Everton,34,Central Midfield,€3.00m  
+Lewis Cook,33,2792,0,3,5,1,0.4,81.2,1.3,2,6.83,Bournemouth,27,Central Midfield,€12.00m  
+Lewis Cook,33,2792,0,3,5,1,0.4,81.2,1.3,2,6.83,Bournemouth,27,Central Midfield,€12.00m  
+Martin Dúbravka,23,1984,0,0,1,0,0.0,74.9,0.2,2,6.83,Newcastle,35,Goalkeeper,€1.00m  
+Alfie Doughty,37,2938,2,8,5,0,0.7,75.2,0.6,2,6.83,Luton,24,Left Midfield,€10.00m  
+Leandro Trossard,34,1647,12,1,2,0,1.8,78.7,0.2,1,6.82,Arsenal,29,Left Winger,€35.00m  
+Jefferson Lerma,28,2404,1,1,8,0,1.2,82.4,2.5,1,6.82,Crystal Palace,29,Defensive Midfield,€20.00m  
+Levi Colwill,23,1800,1,1,2,0,0.5,83.4,1.9,2,6.82,Chelsea,21,Centre-Back,€50.00m  
+Mark Travers,4,360,0,0,0,0,0.0,51.4,0.5,0,6.82,Bournemouth,25,Goalkeeper,€3.50m  
+Marc Cucurella,21,1786,0,2,10,0,0.4,86.7,1.2,0,6.81,Chelsea,25,Left-Back,€25.00m  
+Dominik Szoboszlai,33,2110,3,2,1,0,1.8,87.3,0.4,1,6.81,Liverpool,23,Central Midfield,€75.00m  
+Oleksandr Zinchenko,27,1727,1,2,2,0,0.6,89.4,1.0,3,6.81,Arsenal,27,Left-Back,€38.00m  
+Raheem Sterling,31,1983,8,4,7,0,1.6,79.3,0.1,2,6.8,Chelsea,29,Left Winger,€35.00m  
+Tosin Adarabioyo,20,1617,2,0,2,0,0.7,84.7,2.9,0,6.8,Fulham,26,Centre-Back,€20.00m  
+Kobbie Mainoo,24,1942,3,1,3,0,0.5,86.7,0.8,0,6.8,Man Utd,19,Central Midfield,€50.00m  
+Matheus Nunes,2,180,0,0,0,1,0.5,84.0,1.0,0,6.8,Wolves,25,Central Midfield,€50.00m  
+Matheus Nunes,17,656,0,2,0,0,0.5,86.7,0.3,0,6.35,Man City,25,Central Midfield,€50.00m  
+Marcos Senesi,31,2248,4,5,13,0,0.4,78.5,1.3,1,6.8,Bournemouth,27,Centre-Back,€22.00m  
+Christian Nørgaard,31,2513,2,1,8,0,1.1,81.2,1.3,1,6.8,Brentford,30,Defensive Midfield,€18.00m  
+Christian Nørgaard,31,2513,2,1,8,0,1.1,81.2,1.3,1,6.8,Brentford,30,Defensive Midfield,€18.00m  
+Caoimhín Kelleher,10,900,0,0,0,0,0.0,79.3,0.4,0,6.8,Liverpool,25,Goalkeeper,€20.00m  
+Boubacar Kamara,20,1662,0,1,7,1,0.3,89.3,1.0,0,6.79,Aston Villa,24,Defensive Midfield,€38.00m  
+Micky van de Ven,27,2344,3,0,5,0,0.3,94.3,1.4,1,6.79,Tottenham,23,Centre-Back,€55.00m  
+Rodrigo Muniz,26,1598,9,1,1,0,2.8,62.1,2.9,2,6.79,Fulham,23,Centre-Forward,€20.00m  
+Callum Hudson-Odoi,29,1856,8,1,0,0,1.3,85.3,0.1,3,6.79,Nottingham Forest,23,Left Winger,€18.00m  
+Dominic Calvert-Lewin,32,2189,7,2,2,0,2.3,56.9,4.4,2,6.79,Everton,27,Centre-Forward,€22.00m  
+Manuel Akanji,30,2514,2,0,2,1,0.5,93.8,0.9,0,6.78,Man City,28,Centre-Back,€45.00m  
+Carlton Morris,38,2867,11,4,4,0,1.9,66.8,3.5,1,6.78,Luton,28,Centre-Forward,€13.00m  
+Tyrick Mitchell,37,3209,2,3,6,0,0.3,74.2,0.6,0,6.78,Crystal Palace,24,Left-Back,€25.00m  
+Albert Sambi Lokonga,17,1310,1,3,4,0,0.5,89.2,0.9,0,6.78,Luton,24,Central Midfield,€15.00m  
+Albert Sambi Lokonga,17,1310,1,3,4,0,0.5,89.2,0.9,0,6.78,Luton,24,Central Midfield,€15.00m  
+Robin Olsen,5,405,0,0,0,0,0.0,79.3,0.6,0,6.78,Aston Villa,34,Goalkeeper,€1.50m  
+Thiago Silva,31,2528,3,1,4,0,0.5,94.9,1.7,0,6.77,Chelsea,39,Centre-Back,€1.00m  
+Alex Iwobi,30,2205,5,2,2,0,1.7,81.8,0.2,2,6.77,Fulham,28,Attacking Midfield,€25.00m  
+Alex Iwobi,2,140,0,0,0,0,2.0,76.7,0.0,0,6.55,Everton,28,Attacking Midfield,€25.00m  
+Chiedozie Ogbene,30,1994,4,1,1,0,1.2,81.6,1.0,1,6.76,Luton,27,Right Winger,€8.00m  
+Brennan Johnson,32,2093,5,10,3,0,1.6,76.2,0.2,0,6.76,Tottenham,23,Right Winger,€48.00m  
+Brennan Johnson,3,240,0,0,0,0,1.0,81.0,0.3,0,6.32,Nottingham Forest,23,Right Winger,€48.00m  
+Jarell Quansah,17,1190,2,0,1,0,0.4,88.8,2.6,1,6.76,Liverpool,21,Centre-Back,€22.00m  
+Alejandro Garnacho,36,2578,7,4,4,0,2.8,79.4,0.2,2,6.76,Man Utd,19,Left Winger,€45.00m  
+Rayan Aït-Nouri,33,2347,2,1,7,0,0.7,86.6,0.6,1,6.76,Wolves,22,Left-Back,€35.00m  
+Ben Godfrey,15,1123,0,0,2,0,1.0,70.8,1.7,0,6.76,Everton,26,Centre-Back,€10.00m  
+Edson Álvarez,31,2385,1,1,11,0,0.5,86.1,1.0,0,6.76,West Ham,26,Defensive Midfield,€35.00m  
+Enzo Fernández,28,2215,3,2,7,0,1.7,86.9,0.8,1,6.75,Chelsea,23,Central Midfield,€75.00m  
+Aaron Wan-Bissaka,22,1782,0,2,4,0,0.1,82.9,1.0,1,6.75,Man Utd,26,Right-Back,€20.00m  
+Chris Wood,31,1810,14,1,0,0,1.5,64.5,2.4,3,6.75,Nottingham Forest,32,Centre-Forward,€7.00m  
+Andreas Pereira,37,2638,3,7,6,0,1.4,78.8,0.4,2,6.75,Fulham,28,Attacking Midfield,€20.00m  
+Joelinton,20,1281,2,1,6,0,1.0,83.9,0.9,1,6.75,Newcastle,27,Central Midfield,€40.00m  
+Guglielmo Vicario,38,3420,0,0,2,0,0.0,83.7,0.6,0,6.75,Tottenham,27,Goalkeeper,€35.00m  
+Malo Gusto,27,1756,0,6,7,1,0.6,89.2,0.3,1,6.74,Chelsea,21,Right-Back,€35.00m  
+Callum Wilson,20,984,9,1,3,0,1.8,65.2,0.5,0,6.74,Newcastle,32,Centre-Forward,€13.00m  
+Trevoh Chalobah,13,951,1,0,1,0,0.2,89.6,1.5,0,6.74,Chelsea,24,Centre-Back,€13.00m  
+Trevoh Chalobah,13,951,1,0,1,0,0.2,89.6,1.5,0,6.74,Chelsea,24,Centre-Back,€13.00m  
+Morgan Rogers,11,640,3,1,3,0,1.0,77.1,0.6,0,6.73,Aston Villa,21,Left Winger,€15.00m  
+Nathan Aké,29,2044,2,2,0,0,0.7,92.8,1.6,0,6.73,Man City,29,Centre-Back,€40.00m  
+Neto,32,2880,0,0,5,0,0.0,60.2,0.3,2,6.73,Bournemouth,34,Goalkeeper,€2.50m  
+Pervis Estupiñán,19,1248,2,3,4,0,0.6,88.7,0.6,1,6.73,Brighton,26,Left-Back,€30.00m  
+Jan Paul van Hecke,28,2368,0,0,4,0,0.5,92.5,2.4,1,6.72,Brighton,23,Centre-Back,€18.00m  
+Jordan Beyer,15,1239,0,1,6,0,0.3,89.1,1.9,0,6.72,Burnley,24,Centre-Back,€13.00m  
+Chris Richards,26,2092,1,1,3,0,0.4,83.3,2.4,0,6.72,Crystal Palace,24,Centre-Back,€12.00m  
+Pablo Sarabia,30,1752,4,7,5,0,1.5,77.1,0.2,1,6.72,Wolves,32,Right Winger,€10.00m  
+Pablo Sarabia,30,1752,4,7,5,0,1.5,77.1,0.2,1,6.72,Wolves,32,Right Winger,€10.00m  
+Willian,31,2061,4,2,1,0,1.5,85.5,0.3,1,6.72,Fulham,35,Left Winger,€3.00m  
+Jack Grealish,20,1004,3,1,7,0,1.1,87.7,0.2,0,6.72,Man City,28,Left Winger,€60.00m  
+Rico Henry,5,402,0,1,1,0,0.4,84.6,0.8,0,6.72,Brentford,26,Left-Back,€20.00m  
+José Sá,35,3039,0,1,1,0,0.0,59.2,0.4,1,6.72,Wolves,31,Goalkeeper,€14.00m  
+Yves Bissouma,28,2088,0,0,9,2,0.9,91.9,0.5,0,6.72,Tottenham,27,Defensive Midfield,€35.00m  
+Mathias Jensen,32,2220,3,3,5,0,0.4,78.6,0.2,1,6.71,Brentford,28,Central Midfield,€28.00m  
+Scott McTominay,32,1893,7,1,2,0,1.4,81.5,1.2,2,6.71,Man Utd,27,Defensive Midfield,€32.00m  
+Destiny Udogie,28,2398,2,3,5,1,0.3,87.5,0.8,0,6.71,Tottenham,21,Left-Back,€45.00m  
+Amadou Onana,30,2094,2,0,5,0,1.0,84.9,1.8,1,6.71,Everton,22,Defensive Midfield,€50.00m  
+Jordan Pickford,38,3420,0,0,5,0,0.0,59.4,0.0,1,6.71,Everton,30,Goalkeeper,€22.00m  
+Emiliano Martínez,34,3016,0,0,4,0,0.0,81.4,0.1,0,6.71,Aston Villa,31,Goalkeeper,€28.00m  
+Nick Pope,15,1346,0,0,1,0,0.1,71.1,0.2,0,6.71,Newcastle,32,Goalkeeper,€16.00m  
+Harvey Elliott,34,1339,3,6,2,0,1.4,87.7,0.3,2,6.7,Liverpool,21,Attacking Midfield,€35.00m  
+Rasmus Højlund,30,2172,10,2,2,0,1.3,77.0,0.8,1,6.7,Man Utd,21,Centre-Forward,€65.00m  
+Murillo,32,2793,0,2,5,0,0.5,77.6,1.2,0,6.69,Nottingham Forest,21,Centre-Back,€35.00m  
+Marcus Rashford,33,2279,7,2,2,0,1.9,79.2,0.5,0,6.69,Man Utd,26,Left Winger,€60.00m  
+Lucas Digne,33,2413,1,3,7,0,0.6,81.4,1.3,0,6.68,Aston Villa,30,Left-Back,€12.00m  
+Lucas Digne,33,2413,1,3,7,0,0.6,81.4,1.3,0,6.68,Aston Villa,30,Left-Back,€12.00m  
+Timo Werner,13,815,2,3,1,0,2.2,80.8,0.1,0,6.68,Tottenham,28,Centre-Forward,€17.00m  
+Bernd Leno,38,3420,0,0,3,0,0.0,77.2,0.3,3,6.68,Fulham,32,Goalkeeper,€13.00m  
+Vitaly Janelt,38,3072,1,3,8,0,0.6,79.9,0.9,1,6.68,Brentford,26,Defensive Midfield,€22.00m  
+Luis Sinisterra,20,692,2,2,0,0,1.4,80.1,0.8,1,6.68,Bournemouth,24,Left Winger,€17.00m  
+Amad Diallo,9,388,1,1,1,0,1.1,88.0,0.4,1,6.67,Man Utd,21,Right Winger,€18.00m  
+Stefan Ortega,9,632,0,0,0,0,0.0,78.1,0.1,0,6.67,Man City,31,Goalkeeper,€9.00m  
+Thomas Partey,14,790,0,0,3,0,0.6,90.3,0.5,0,6.67,Arsenal,30,Defensive Midfield,€18.00m  
+Thomas Partey,14,790,0,0,3,0,0.6,90.3,0.5,0,6.67,Arsenal,30,Defensive Midfield,€18.00m  
+Sean Longstaff,35,2748,6,2,7,0,1.2,80.9,0.5,0,6.67,Newcastle,26,Central Midfield,€25.00m  
+Tom Lockyer,14,1173,1,1,4,0,0.5,71.5,2.2,0,6.67,Luton,29,Centre-Back,€2.50m  
+João Gomes,34,2660,2,1,11,0,0.8,83.3,0.5,1,6.67,Wolves,23,Central Midfield,€35.00m  
+Matty Cash,29,2144,2,2,8,0,1.1,84.0,0.5,1,6.66,Aston Villa,26,Right-Back,€28.00m  
+Nathan Collins,32,2650,1,1,3,0,0.3,81.5,2.3,0,6.66,Brentford,23,Centre-Back,€25.00m  
+Neco Williams,26,1634,0,1,4,0,0.6,72.4,1.2,0,6.66,Nottingham Forest,23,Right-Back,€17.00m  
+Dara O'Shea,33,2895,3,4,5,1,0.6,79.7,3.8,0,6.66,Burnley,25,Centre-Back,€7.00m  
+Lukasz Fabianski,10,721,0,0,0,0,0.0,60.3,0.2,0,6.64,West Ham,39,Goalkeeper,€700k  
+Ezri Konsa,35,3074,1,0,5,0,0.5,92.2,0.9,0,6.64,Aston Villa,26,Centre-Back,€35.00m  
+Mateo Kovacic,30,1549,1,0,4,0,0.7,94.1,0.1,0,6.63,Man City,30,Central Midfield,€30.00m  
+Jack Hinshelwood,12,871,3,0,1,0,1.2,84.4,0.6,1,6.63,Brighton,19,Defensive Midfield,€16.00m  
+Abdoulaye Doucouré,32,2643,7,2,7,0,1.5,78.5,0.8,0,6.63,Everton,31,Central Midfield,€10.00m  
+Ederson,33,2789,0,0,5,0,0.0,85.9,0.3,0,6.63,Man City,30,Goalkeeper,€35.00m  
+Timothy Castagne,34,2634,1,3,3,0,0.4,81.3,1.0,0,6.63,Fulham,28,Right-Back,€17.00m  
+Youri Tielemans,32,1622,2,6,3,0,0.4,86.0,0.4,1,6.63,Aston Villa,27,Central Midfield,€25.00m  
+Ben Davies,17,1086,1,0,2,0,0.7,91.3,1.7,0,6.62,Tottenham,31,Left-Back,€10.00m  
+Wilson Odobert,29,2109,3,2,3,0,1.7,79.4,0.3,0,6.62,Burnley,19,Left Winger,€10.00m  
+Wilson Odobert,29,2109,3,2,3,0,1.7,79.4,0.3,0,6.62,Burnley,19,Left Winger,€10.00m  
+Djordje Petrovic,23,1986,0,0,2,0,0.0,76.4,0.3,0,6.62,Chelsea,24,Goalkeeper,€20.00m  
+Anthony Elanga,36,2434,5,9,1,0,1.5,75.3,0.5,1,6.62,Nottingham Forest,22,Left Winger,€22.00m  
+Harvey Barnes,21,795,5,3,2,0,1.3,79.1,0.2,0,6.61,Newcastle,26,Left Winger,€35.00m  
+Gabriel Osho,21,1848,2,0,3,0,0.5,82.5,1.8,0,6.61,Luton,25,Centre-Back,€3.00m  
+Kristoffer Ajer,28,1836,2,1,5,0,0.4,75.9,2.3,0,6.61,Brentford,26,Centre-Back,€15.00m  
+Kristoffer Ajer,28,1836,2,1,5,0,0.4,75.9,2.3,0,6.61,Brentford,26,Centre-Back,€15.00m  
+Josh Brownhill,33,2253,4,2,4,1,0.8,80.3,1.1,1,6.61,Burnley,28,Central Midfield,€15.00m  
+Nicolás Domínguez,26,1505,2,2,4,0,0.8,85.4,0.8,1,6.61,Nottingham Forest,25,Central Midfield,€17.00m  
+Elijah Adebayo,27,1419,10,0,1,0,1.1,72.6,1.6,1,6.59,Luton,26,Centre-Forward,€12.00m  
+Axel Disasi,31,2581,2,0,6,0,0.5,90.6,2.4,1,6.58,Chelsea,26,Centre-Back,€40.00m  
+Vladimír Coufal,36,3140,0,7,5,1,0.2,73.0,1.1,0,6.58,West Ham,31,Right-Back,€8.00m  
+Taiwo Awoniyi,20,1047,6,3,2,0,1.1,73.8,1.1,0,6.58,Nottingham Forest,26,Centre-Forward,€28.00m  
+Sander Berge,37,3009,1,2,8,1,0.7,88.8,1.8,1,6.58,Burnley,26,Defensive Midfield,€20.00m  
+Gustavo Hamer,36,2924,4,6,9,0,1.4,73.5,0.2,0,6.58,Sheff Utd,26,Central Midfield,€15.00m  
+Danny Welbeck,29,1707,5,1,4,0,1.4,83.2,0.6,0,6.58,Brighton,33,Centre-Forward,€5.00m  
+Justin Kluivert,32,1937,7,1,5,0,1.8,72.4,0.4,0,6.55,Bournemouth,25,Left Winger,€14.00m  
+Danilo,29,1801,2,2,4,0,0.8,80.6,0.5,0,6.55,Nottingham Forest,23,Central Midfield,€28.00m  
+Lewis Hall,18,777,1,0,2,0,0.6,83.1,0.6,0,6.55,Newcastle,19,Left-Back,€18.00m  
+Ben Mee,16,1276,2,0,1,1,0.6,76.4,2.2,0,6.54,Brentford,34,Centre-Back,€1.00m  
+Ben Mee,16,1276,2,0,1,1,0.6,76.4,2.2,0,6.54,Brentford,34,Centre-Back,€1.00m  
+Antony,29,1324,1,1,5,0,1.5,80.0,0.1,1,6.54,Man Utd,24,Right Winger,€25.00m  
+Tyler Adams,3,118,0,0,0,0,0.0,84.1,0.7,1,6.54,Bournemouth,25,Defensive Midfield,€15.00m  
+Tyler Adams,3,118,0,0,0,0,0.0,84.1,0.7,1,6.54,Bournemouth,25,Defensive Midfield,€15.00m  
+David Raya,32,2880,0,0,2,0,0.0,70.8,0.2,0,6.54,Arsenal,28,Goalkeeper,€35.00m  
+Rico Lewis,16,808,2,0,1,0,0.3,91.0,0.0,0,6.54,Man City,19,Right-Back,€38.00m  
+Eddie Nketiah,27,1073,5,2,3,0,1.4,79.9,0.9,1,6.53,Arsenal,25,Centre-Forward,€30.00m  
+Sandro Tonali,8,439,1,0,2,0,0.4,88.0,0.1,0,6.53,Newcastle,24,Defensive Midfield,€38.00m  
+Oliver Arblaster,12,946,0,0,2,0,0.1,81.5,0.8,0,6.53,Sheff Utd,20,Central Midfield,€450k  
+Will Hughes,30,1899,0,1,6,0,0.3,85.1,0.4,0,6.53,Crystal Palace,29,Central Midfield,€9.00m  
+Harry Wilson,35,1616,4,6,6,0,1.1,79.2,0.1,2,6.52,Fulham,27,Right Winger,€17.00m  
+Tom Cairney,34,1480,1,4,3,0,0.5,90.3,0.4,0,6.52,Fulham,33,Central Midfield,€2.00m  
+Nathaniel Clyne,19,1339,0,0,0,0,0.2,84.2,0.7,0,6.52,Crystal Palace,33,Right-Back,€1.50m  
+Zanka,14,1087,1,0,4,0,0.6,75.4,1.9,0,6.52,Brentford,34,Centre-Back,€1.00m  
+Kurt Zouma,33,2841,3,0,3,0,0.5,83.9,1.8,1,6.52,West Ham,29,Centre-Back,€25.00m  
+Issa Diop,18,1426,0,0,2,1,0.3,88.1,1.4,1,6.51,Fulham,27,Centre-Back,€20.00m  
+Adam Smith,28,2158,0,2,6,0,0.1,77.1,0.7,0,6.51,Bournemouth,33,Right-Back,€1.00m  
+Joël Veltman,27,1583,1,1,4,0,0.2,84.9,1.1,0,6.51,Brighton,32,Right-Back,€10.00m  
+Zeki Amdouni,34,1972,5,1,2,0,1.4,80.9,0.5,1,6.51,Burnley,23,Centre-Forward,€12.00m  
+Thomas Kaminski,38,3406,0,0,3,0,0.0,55.0,0.1,0,6.51,Luton,31,Goalkeeper,€3.00m  
+David Datro Fofana,15,880,4,1,1,0,1.3,69.0,0.9,2,6.51,Burnley,21,Centre-Forward,€12.00m  
+David Datro Fofana,15,880,4,1,1,0,1.3,69.0,0.9,2,6.51,Burnley,21,Centre-Forward,€12.00m  
+Harry Toffolo,23,1456,1,3,3,0,0.3,76.2,1.1,0,6.5,Nottingham Forest,28,Left-Back,€5.00m  
+Ibrahim Sangaré,17,1040,0,0,6,0,0.5,80.7,0.5,0,6.5,Nottingham Forest,26,Defensive Midfield,€30.00m  
+Ibrahim Sangaré,17,1040,0,0,6,0,0.5,80.7,0.5,0,6.5,Nottingham Forest,26,Defensive Midfield,€30.00m  
+Tino Livramento,26,1306,1,0,1,0,0.2,86.8,0.5,0,6.5,Newcastle,21,Right-Back,€35.00m  
+Amari'i Bell,21,1722,0,0,0,0,0.1,79.6,1.0,0,6.5,Luton,30,Left-Back,€2.50m  
+Julio Enciso,12,475,0,2,2,0,2.3,77.2,0.1,0,6.5,Brighton,20,Attacking Midfield,€22.00m  
+Ryan Gravenberch,26,1122,1,0,0,0,0.9,83.4,0.4,0,6.49,Liverpool,22,Central Midfield,€35.00m  
+Dean Henderson,18,1620,0,0,2,0,0.0,53.7,0.3,0,6.49,Crystal Palace,27,Goalkeeper,€12.00m  
+Dean Henderson,18,1620,0,0,2,0,0.0,53.7,0.3,0,6.49,Crystal Palace,27,Goalkeeper,€12.00m  
+Christopher Nkunku,11,437,3,0,0,0,1.5,89.3,0.9,0,6.49,Chelsea,26,Attacking Midfield,€65.00m  
+Giovani Lo Celso,22,498,2,2,2,0,0.6,91.5,0.0,1,6.49,Tottenham,28,Attacking Midfield,€16.00m  
+Evan Ferguson,27,1366,6,0,1,0,1.2,81.3,0.5,1,6.49,Brighton,19,Centre-Forward,€50.00m  
+Reece James,10,421,0,2,0,2,0.7,84.3,0.8,0,6.49,Chelsea,24,Right-Back,€40.00m  
+Reece James,10,421,0,2,0,2,0.7,84.3,0.8,0,6.49,Chelsea,24,Right-Back,€40.00m  
+Chris Mepham,10,615,0,1,2,0,0.1,82.8,3.0,0,6.49,Bournemouth,26,Centre-Back,€6.00m  
+Mads Andersen,8,399,1,0,1,0,0.4,73.9,1.4,0,6.48,Luton,26,Centre-Back,€3.00m  
+Neal Maupay,29,1317,6,3,8,0,1.3,72.8,0.5,2,6.48,Brentford,27,Centre-Forward,€12.00m  
+Neal Maupay,29,1317,6,3,8,0,1.3,72.8,0.5,2,6.48,Brentford,27,Centre-Forward,€12.00m  
+Neal Maupay,2,112,0,0,0,0,2.5,84.6,0.0,0,5.99,Everton,27,Centre-Forward,€12.00m  
+Neal Maupay,2,112,0,0,0,0,2.5,84.6,0.0,0,5.99,Everton,27,Centre-Forward,€12.00m  
+Jeffrey Schlupp,29,1357,2,2,1,0,0.7,75.9,0.8,1,6.48,Crystal Palace,31,Left Midfield,€7.00m  
+Jacob Ramsey,16,852,1,1,2,0,1.2,81.9,0.3,0,6.48,Aston Villa,23,Attacking Midfield,€35.00m  
+Benoît Badiashile,18,1338,0,1,3,0,0.3,90.9,1.6,0,6.48,Chelsea,23,Centre-Back,€30.00m  
+Facundo Buonanotte,27,1370,3,1,7,0,0.8,85.3,0.2,0,6.47,Brighton,19,Attacking Midfield,€18.00m  
+Adam Webster,15,1144,0,0,2,0,0.5,91.3,2.2,0,6.47,Brighton,29,Centre-Back,€20.00m  
+Ben Chilwell,13,758,0,1,5,0,0.9,80.2,0.9,0,6.47,Chelsea,27,Left-Back,€28.00m  
+Emil Krafth,17,910,0,0,2,0,0.2,85.1,0.8,0,6.47,Newcastle,29,Right-Back,€2.50m  
+Philip Billing,29,1393,2,2,3,1,1.0,78.4,1.2,0,6.47,Bournemouth,27,Central Midfield,€22.00m  
+Curtis Jones,23,1168,1,1,3,1,0.8,91.5,0.3,0,6.47,Liverpool,23,Central Midfield,€35.00m  
+Jayden Bogle,34,2795,3,0,9,0,0.9,69.7,1.5,0,6.47,Sheff Utd,23,Right-Back,€3.80m  
+Charlie Taylor,28,2332,1,1,8,0,0.4,78.9,1.5,0,6.47,Burnley,30,Left-Back,€3.00m  
+Matt Turner,18,1531,0,0,2,0,0.0,63.6,0.3,0,6.47,Nottingham Forest,29,Goalkeeper,€7.00m  
+Alex Scott,23,1013,1,1,3,0,0.7,81.0,0.7,1,6.46,Bournemouth,20,Central Midfield,€20.00m  
+Calvin Bassey,29,2302,1,0,4,1,0.2,86.2,1.0,0,6.46,Fulham,24,Centre-Back,€16.00m  
+Álex Moreno,21,1031,2,0,2,0,0.4,83.3,0.2,0,6.46,Aston Villa,30,Left-Back,€13.00m  
+Oscar Bobb,14,295,1,1,0,0,0.3,88.1,0.1,0,6.46,Man City,20,Right Winger,€25.00m  
+Gonzalo Montiel,14,802,0,2,5,0,0.2,78.9,0.9,0,6.45,Nottingham Forest,27,Right-Back,€10.00m  
+Wes Foderingham,30,2648,0,0,2,0,0.0,52.6,0.2,1,6.45,Sheff Utd,33,Goalkeeper,€900k  
+Jacob Brown,19,1020,2,0,4,0,1.4,56.3,2.3,1,6.45,Luton,26,Centre-Forward,€4.00m  
+Luca Koleosho,15,984,1,1,0,0,1.5,76.0,0.1,0,6.45,Burnley,19,Left Winger,€7.00m  
+Jacob Bruun Larsen,32,1252,6,0,1,0,1.4,76.8,0.4,0,6.45,Burnley,25,Left Winger,€8.00m  
+Joel Ward,26,1982,0,1,4,0,0.4,75.7,1.8,0,6.45,Crystal Palace,34,Right-Back,€1.00m  
+Sam Johnstone,20,1797,0,0,1,0,0.0,52.9,0.1,2,6.44,Crystal Palace,31,Goalkeeper,€10.00m  
+Sam Johnstone,20,1797,0,0,1,0,0.0,52.9,0.1,2,6.44,Crystal Palace,31,Goalkeeper,€10.00m  
+Mads Roerslev,34,1985,1,2,1,0,0.2,68.9,0.4,1,6.44,Brentford,24,Right-Back,€10.00m  
+Mads Roerslev,34,1985,1,2,1,0,0.2,68.9,0.4,1,6.44,Brentford,24,Right-Back,€10.00m  
+Frank Onyeka,26,1157,1,2,8,0,0.8,77.6,0.4,0,6.43,Brentford,26,Central Midfield,€9.00m  
+Jorginho,24,920,0,2,1,0,0.2,90.2,0.3,0,6.41,Arsenal,32,Defensive Midfield,€12.00m  
+Jorginho,24,920,0,2,1,0,0.2,90.2,0.3,0,6.41,Arsenal,32,Defensive Midfield,€12.00m  
+Nathan Patterson,20,1000,0,2,4,0,0.2,73.0,0.4,0,6.41,Everton,22,Right-Back,€15.00m  
+Lloyd Kelly,23,1558,0,1,2,0,0.2,77.6,1.2,0,6.4,Bournemouth,25,Centre-Back,€18.00m  
+Lloyd Kelly,23,1558,0,1,2,0,0.2,77.6,1.2,0,6.4,Bournemouth,25,Centre-Back,€18.00m  
+Fábio Vieira,11,292,1,2,0,1,0.6,88.8,0.1,0,6.4,Arsenal,24,Attacking Midfield,€22.00m  
+Billy Gilmour,30,2126,0,1,8,1,0.8,92.2,0.4,0,6.39,Brighton,22,Defensive Midfield,€18.00m  
+Lisandro Martínez,11,649,0,1,3,0,0.0,93.0,0.4,0,6.39,Man Utd,26,Centre-Back,€45.00m  
+Rodrigo Bentancur,23,1010,1,1,7,0,0.8,85.5,0.6,0,6.39,Tottenham,26,Central Midfield,€35.00m  
+Adama Traoré,17,365,2,3,2,0,0.6,81.1,0.5,0,6.39,Fulham,28,Right Winger,€9.00m  
+Giovanni Reyna,9,231,0,1,0,0,0.6,89.1,0.8,0,6.35,Nottingham Forest,21,Attacking Midfield,€18.00m  
+Shandon Baptiste,10,225,1,1,1,0,0.2,73.3,0.3,0,6.35,Brentford,26,Central Midfield,€2.50m  
+Emile Smith Rowe,13,347,0,1,0,0,1.2,88.6,0.2,0,6.35,Arsenal,23,Attacking Midfield,€22.00m  
+Nuno Tavares,8,455,0,0,2,0,0.9,78.9,0.4,0,6.35,Nottingham Forest,24,Left-Back,€15.00m  
+Kevin Schade,11,331,2,1,0,0,0.7,63.6,1.5,0,6.35,Brentford,22,Right Winger,€22.00m  
+Chris Basham,8,319,0,0,1,0,0.3,76.2,1.0,0,6.35,Sheff Utd,35,Centre-Back,€300k  
+Tahith Chong,33,1987,4,0,4,0,0.9,81.8,0.3,0,6.34,Luton,24,Right Winger,€6.00m  
+Auston Trusty,32,2573,0,0,4,0,0.3,79.0,2.0,0,6.34,Sheff Utd,25,Centre-Back,€7.00m  
+Harrison Reed,27,1325,0,2,6,0,0.3,85.3,0.4,0,6.34,Fulham,29,Central Midfield,€15.00m  
+Andros Townsend,27,1210,1,3,1,0,0.7,80.2,0.0,0,6.34,Luton,32,Right Winger,€1.80m  
+Max Lowe,10,501,0,1,1,0,0.2,65.4,0.5,0,6.34,Sheff Utd,27,Left-Back,€2.50m  
+Carlos Baleba,27,1324,0,0,7,0,0.8,92.2,0.9,0,6.33,Brighton,20,Defensive Midfield,€22.00m  
+Armando Broja,13,455,1,0,0,0,1.0,89.2,0.3,0,6.32,Chelsea,22,Centre-Forward,€22.00m  
+Armando Broja,8,83,0,1,0,0,0.0,73.1,0.8,0,6.05,Fulham,22,Centre-Forward,€22.00m  
+Jhon Durán,23,463,5,0,5,0,0.9,71.1,0.9,1,6.32,Aston Villa,20,Centre-Forward,€20.00m  
+Felipe,8,376,0,0,4,0,0.4,85.4,1.8,0,6.32,Nottingham Forest,35,Centre-Back,€1.50m  
+Pierre-Emile Højbjerg,36,1294,0,0,4,0,0.5,88.6,0.2,0,6.32,Tottenham,28,Defensive Midfield,€18.00m  
+Jean-Ricner Bellegarde,22,953,2,1,0,1,0.7,84.3,0.4,1,6.32,Wolves,25,Central Midfield,€15.00m  
+Beto,30,939,3,0,2,0,1.4,61.5,1.6,1,6.32,Everton,26,Centre-Forward,€20.00m  
+Anthony Martial,13,445,1,0,0,0,0.5,79.6,0.6,0,6.32,Man Utd,28,Centre-Forward,€10.00m  
+Tariq Lamptey,19,916,0,3,3,0,0.3,87.9,0.2,0,6.32,Brighton,23,Right-Back,€12.00m  
+Tariq Lamptey,19,916,0,3,3,0,0.3,87.9,0.2,0,6.32,Brighton,23,Right-Back,€12.00m  
+Mason Mount,14,513,1,0,2,0,0.4,85.2,0.4,0,6.32,Man Utd,25,Attacking Midfield,€35.00m  
+Angelo Ogbonna,11,635,0,0,1,0,0.1,79.9,1.1,0,6.31,West Ham,36,Centre-Back,€700k  
+Oliver Norwood,27,1433,1,0,8,0,0.6,72.2,0.5,0,6.31,Sheff Utd,33,Central Midfield,€1.00m  
+Aaron Hickey,9,720,0,0,5,0,0.8,89.3,0.2,0,6.31,Brentford,21,Right-Back,€28.00m  
+James Hill,5,76,0,0,0,0,0.0,70.6,0.8,0,6.31,Bournemouth,22,Centre-Back,€2.00m  
+James Shea,1,14,0,0,0,0,0.0,62.5,0.0,0,6.31,Luton,32,Goalkeeper,€200k  
+Vitinho,32,2320,0,2,1,0,0.8,77.1,0.6,0,6.31,Burnley,24,Right-Back,€5.00m  
+Jesurun Rak-Sakyi,6,133,0,0,0,0,0.8,78.7,0.5,0,6.31,Crystal Palace,21,Right Winger,€2.00m  
+Michael Obafemi,2,19,0,0,0,0,1.0,80.0,0.0,0,6.31,Burnley,23,Centre-Forward,€2.20m  
+Santiago Bueno,12,821,0,0,1,0,0.0,89.3,1.3,0,6.3,Wolves,25,Centre-Back,€8.00m  
+Matz Sels,16,1440,0,0,1,0,0.0,65.2,0.3,0,6.3,Nottingham Forest,32,Goalkeeper,€7.00m  
+Jay Rodríguez,21,815,2,1,0,0,1.0,66.0,1.0,0,6.29,Burnley,34,Centre-Forward,€1.00m  
+Andrew Omobamidele,11,782,0,0,2,0,0.1,87.4,0.7,0,6.29,Nottingham Forest,21,Centre-Back,€11.00m  
+Anel Ahmedhodzic,31,2650,2,0,9,1,0.6,75.6,1.6,1,6.28,Sheff Utd,25,Centre-Back,€18.00m  
+David Brooks,13,273,1,1,1,0,1.0,76.8,0.1,0,6.28,Bournemouth,26,Right Winger,€8.00m  
+Ryan Giles,11,501,0,0,0,0,0.2,73.4,0.3,0,6.28,Luton,24,Left-Back,€4.50m  
+Kalvin Phillips,4,89,0,0,0,0,0.5,89.7,0.0,0,6.27,Man City,28,Defensive Midfield,€25.00m  
+Kalvin Phillips,8,309,0,0,1,1,0.4,80.0,0.9,0,5.89,West Ham,28,Defensive Midfield,€25.00m  
+Hjalmar Ekdal,8,440,0,0,2,0,0.3,88.0,0.5,0,6.27,Burnley,25,Centre-Back,€7.00m  
+Carney Chukwuemeka,9,224,1,1,2,0,0.3,86.5,0.1,0,6.27,Chelsea,20,Central Midfield,€15.00m  
+Ivo Grbic,9,772,0,0,1,0,0.0,45.8,0.8,0,6.27,Sheff Utd,28,Goalkeeper,€3.50m  
+Cauley Woodrow,24,411,1,1,2,0,0.7,74.8,0.5,0,6.26,Luton,29,Centre-Forward,€1.00m  
+Lewis Dobbin,12,227,1,0,1,0,0.4,75.9,0.2,0,6.26,Everton,21,Left Winger,€2.50m  
+Aaron Ramsdale,6,540,0,0,0,0,0.0,65.2,0.0,0,6.26,Arsenal,26,Goalkeeper,€25.00m  
+Roméo Lavia,1,32,0,0,0,0,0.0,81.5,0.0,0,6.26,Chelsea,20,Defensive Midfield,€35.00m  
+Ansu Fati,19,514,2,0,2,0,1.4,87.3,0.1,0,6.26,Brighton,21,Left Winger,€25.00m  
+Max Aarons,20,1233,0,1,1,0,0.1,76.7,0.3,0,6.25,Bournemouth,24,Right-Back,€16.00m  
+Odysseas Vlachodimos,5,450,0,0,0,0,0.0,79.1,0.0,0,6.25,Nottingham Forest,30,Goalkeeper,€7.00m  
+Sofyan Amrabat,21,933,0,0,6,0,0.1,88.1,0.2,0,6.24,Man Utd,27,Defensive Midfield,€22.00m  
+Saman Ghoddos,19,730,1,0,5,0,0.5,76.4,0.2,0,6.24,Brentford,30,Attacking Midfield,€2.00m  
+Hugo Bueno,22,731,0,0,1,0,0.2,80.6,0.4,0,6.24,Wolves,21,Left-Back,€6.00m  
+Nicolò Zaniolo,25,831,2,0,7,0,1.1,71.6,0.3,0,6.24,Aston Villa,24,Attacking Midfield,€20.00m  
+Michael Keane,9,438,1,0,2,0,0.7,77.7,1.8,0,6.24,Everton,31,Centre-Back,€6.00m  
+Ben Johnson,14,538,0,0,1,0,0.4,82.1,0.5,0,6.23,West Ham,24,Right-Back,€8.00m  
+Jakub Moder,17,613,0,0,2,0,0.6,82.0,0.2,0,6.23,Brighton,25,Central Midfield,€10.00m  
+Jakub Moder,17,613,0,0,2,0,0.6,82.0,0.2,0,6.23,Brighton,25,Central Midfield,€10.00m  
+Matheus França,10,225,0,1,1,0,0.8,73.8,0.1,0,6.22,Crystal Palace,20,Attacking Midfield,€15.00m  
+Luke Berry,17,311,2,1,1,0,0.5,69.7,0.4,0,6.22,Luton,31,Central Midfield,€400k  
+Divock Origi,20,601,0,1,1,0,0.7,67.9,0.6,0,6.21,Nottingham Forest,29,Centre-Forward,€5.00m  
+Fodé Ballo-Touré,6,67,0,0,1,0,0.0,78.2,0.0,0,6.21,Fulham,27,Left-Back,€3.00m  
+Kieffer Moore,8,100,1,0,0,0,0.8,70.0,0.8,0,6.21,Bournemouth,31,Centre-Forward,€2.00m  
+Jason Steele,17,1530,0,0,0,0,0.0,83.2,0.1,0,6.2,Brighton,33,Goalkeeper,€3.50m  
+Lesley Ugochukwu,12,298,0,0,2,0,0.0,84.7,0.8,0,6.2,Chelsea,20,Defensive Midfield,€25.00m  
+Valentín Barco,6,308,0,0,1,0,0.7,86.1,0.2,0,6.2,Brighton,19,Left-Back,€13.00m  
+Adam Lallana,25,854,0,1,2,0,0.4,90.0,0.1,0,6.17,Brighton,36,Attacking Midfield,€1.00m  
+Stefan Bajcetic,1,26,0,0,0,0,0.0,70.0,0.0,0,6.17,Liverpool,19,Defensive Midfield,€11.00m  
+Ben Osborn,24,1363,0,2,3,0,0.2,77.7,0.3,0,6.17,Sheff Utd,29,Central Midfield,€1.00m  
+Mohamed Elneny,3,25,0,0,0,0,0.7,97.5,0.3,0,6.16,Arsenal,31,Defensive Midfield,€3.50m  
+Jairo Riedewald,9,229,0,0,0,0,0.1,80.6,0.3,0,6.16,Crystal Palace,27,Defensive Midfield,€3.00m  
+Maxwel Cornet,7,111,1,0,0,0,0.6,75.0,0.0,0,6.16,West Ham,27,Left Winger,€9.00m  
+John Egan,6,484,0,0,2,0,0.5,69.9,2.3,0,6.16,Sheff Utd,31,Centre-Back,€4.00m  
+Mike Trésor,16,413,0,0,0,0,0.3,77.4,0.1,0,6.16,Burnley,25,Left Winger,€12.00m  
+Joe Rothwell,11,383,0,0,0,0,0.2,87.6,0.0,0,6.14,Bournemouth,29,Central Midfield,€2.50m  
+Bryan Gil,11,203,0,0,0,0,0.4,85.4,0.0,0,6.14,Tottenham,23,Left Winger,€14.00m  
+Aaron Cresswell,11,433,0,0,1,0,0.0,83.4,0.5,0,6.13,West Ham,34,Left-Back,€900k  
+Josh Dasilva,3,23,0,0,0,0,0.0,69.2,0.0,0,6.11,Brentford,25,Central Midfield,€10.00m  
+Daiki Hashioka,10,595,0,0,0,0,0.2,82.4,1.3,0,6.11,Luton,25,Right-Back,€2.00m  
+Daiki Hashioka,10,595,0,0,0,0,0.2,82.4,1.3,0,6.11,Luton,25,Right-Back,€2.00m  
+Fred Onyedinma,8,407,0,0,1,0,0.6,76.5,1.0,0,6.11,Luton,27,Attacking Midfield,€500k  
+Bobby Clark,5,87,0,0,0,0,0.4,77.6,0.0,0,6.1,Liverpool,19,Central Midfield,€1.00m  
+Remi Matthews,1,3,0,0,0,0,0.0,0.0,1.0,0,6.08,Crystal Palace,30,Goalkeeper,€500k  
+Tyrone Mings,1,31,0,0,0,0,1.0,100.0,1.0,0,6.08,Aston Villa,31,Centre-Back,€13.00m  
+Leon Chiwome,3,176,0,0,0,0,0.7,86.4,0.7,0,6.08,Wolves,18,Centre-Forward,€1.00m  
+Pelly Ruddock Mpanzu,27,1094,0,0,1,0,0.4,74.9,0.4,0,6.08,Luton,30,Defensive Midfield,€1.50m  
+Matt Ritchie,13,120,1,0,1,0,0.5,81.4,0.0,0,6.07,Newcastle,34,Right Midfield,€1.00m  
+Han-Noah Massengo,3,14,0,0,0,0,0.0,55.6,0.0,0,6.06,Burnley,22,Defensive Midfield,€4.00m  
+Aaron Ramsey,14,526,0,0,1,0,0.4,79.5,0.3,0,6.06,Burnley,21,Attacking Midfield,€15.00m  
+Aaron Ramsey,14,526,0,0,1,0,0.4,79.5,0.3,0,6.06,Burnley,21,Attacking Midfield,€15.00m  
+Divin Mubama,5,76,0,0,0,0,0.2,72.7,0.8,0,6.04,West Ham,19,Centre-Forward,€1.00m  
+James Tomkins,4,7,0,0,0,0,0.0,85.7,0.5,0,6.04,Crystal Palace,35,Centre-Back,€700k  
+Jack Cork,4,25,0,0,0,0,0.0,78.1,0.0,0,6.04,Burnley,34,Defensive Midfield,€800k  
+Romain Faivre,5,37,0,0,1,0,0.4,82.6,0.0,0,6.03,Bournemouth,25,Right Midfield,€15.00m  
+Deivid Washington,2,11,0,0,0,0,0.5,100.0,0.0,0,6.03,Chelsea,18,Centre-Forward,€9.00m  
+Jaidon Anthony,3,154,0,0,1,0,0.7,69.8,0.3,0,6.03,Bournemouth,24,Left Winger,€6.00m  
+Rodrigo Ribeiro,4,14,0,0,0,0,0.0,75.0,0.5,0,6.01,Nottingham Forest,19,Centre-Forward,€3.00m  
+Connor Roberts,14,819,0,1,3,1,0.0,84.4,0.5,0,6.01,Burnley,28,Right-Back,€7.00m  
+William Osula,21,785,0,0,4,0,1.0,53.3,1.1,0,6.0,Sheff Utd,20,Centre-Forward,€3.00m  
+James McAtee,1,1,0,0,0,0,0.0,0.0,0.0,0,6.0,Man City,21,Central Midfield,€12.00m  
+Willy Kambwala,8,327,0,0,1,0,0.0,84.8,0.8,0,6.0,Man Utd,19,Centre-Back,€5.00m  
+Willy Kambwala,8,327,0,0,1,0,0.0,84.8,0.8,0,6.0,Man Utd,19,Centre-Back,€5.00m  
+Tom Davies,9,217,0,0,2,0,0.4,72.8,0.3,0,5.95,Sheff Utd,25,Central Midfield,€5.00m  
+Rhys Norrington-Davies,5,111,0,0,1,0,0.0,72.2,0.2,0,5.94,Sheff Utd,25,Left-Back,€2.50m  
+Rhian Brewster,13,342,0,0,0,1,0.5,71.2,0.3,0,5.93,Sheff Utd,24,Centre-Forward,€3.00m  
+Paul Dummett,5,18,0,0,0,0,0.2,90.9,0.2,0,5.92,Newcastle,32,Centre-Back,€900k  
+Cameron Archer,1,5,0,0,1,0,0.0,83.3,0.0,0,5.89,Aston Villa,22,Centre-Forward,€13.00m  
+Cameron Archer,1,5,0,0,1,0,0.0,83.3,0.0,0,5.89,Aston Villa,22,Centre-Forward,€13.00m  
+Daniel Jebbison,1,20,0,0,0,0,0.0,33.3,0.0,0,5.89,Sheff Utd,20,Centre-Forward,€1.00m  
+Daniel Jebbison,1,20,0,0,0,0,0.0,33.3,0.0,0,5.89,Sheff Utd,20,Centre-Forward,€1.00m  
+Anass Zaroury,6,149,0,0,0,1,0.5,67.8,0.0,0,5.85,Burnley,23,Left Winger,€9.00m  
+Andrei Radu,2,180,0,0,0,0,0.0,79.3,0.0,0,5.7,Bournemouth,27,Goalkeeper,€3.00m  
