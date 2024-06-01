@@ -1,0 +1,493 @@
+player,apps,mins,goals,assists,yellow,red,spg,ps,aerialswon,motm,rating,club,age
+Bukayo Saka,35,2937,16,9,4,-,3.1,83,0.7,6,7.67,"Arsenal,",22
+Rodri,34,2937,8,9,8,1,1.8,92.5,1.6,5,7.62,"Man City,",27
+Michael Olise,14(5),1277,10,6,-,-,3,83.1,0.4,6,7.61,"Crystal Palace,",22
+Kevin De Bruyne,15(3),1228,4,10,2,-,2.4,83.8,0.3,2,7.6,"Man City,",32
+Phil Foden,33(2),2869,19,8,2,-,3,89.1,0.2,10,7.55,"Man City,",24
+Cole Palmer,29(4),2618,22,11,7,-,3.3,83.3,-,5,7.48,"Chelsea,",22
+Eberechi Eze,24(3),2064,11,4,3,-,3.1,83.7,0.4,5,7.45,"Crystal Palace,",25
+Solly March,7,559,3,1,1,-,2,81.4,0.9,1,7.43,"Brighton,",29
+Erling Haaland,29(2),2559,27,5,1,-,3.9,77.4,1.3,6,7.4,"Man City,",23
+Bruno Fernandes,35,3120,10,8,9,-,2.7,79.4,0.6,6,7.39,"Man Utd,",29
+Declan Rice,37(1),3232,7,8,5,-,1.5,90.7,1,5,7.38,"Arsenal,",25
+Bruno Guimarães,37,3269,7,8,9,-,1.3,85,0.5,6,7.37,"Newcastle,",26
+Martin Ødegaard,35,3104,8,10,2,-,2.2,86.8,0.1,5,7.37,"Arsenal,",25
+Arijanet Muric,10,900,-,-,-,-,-,67.5,0.4,1,7.34,"Burnley,",25
+Son Heung-Min,34(1),2948,17,10,1,-,2.4,85.1,0.1,6,7.3,"Tottenham,",31
+Anthony Gordon,34(1),2906,11,10,10,1,2.3,81.8,0.3,4,7.29,"Newcastle,",23
+Ollie Watkins,37,3227,19,13,4,-,2.9,76.8,1.4,7,7.27,"Aston Villa,",28
+Jérémy Doku,18(11),1596,3,8,3,-,1.9,86,0.1,5,7.24,"Man City,",22
+Mohamed Salah,28(4),2536,18,10,2,-,3.6,75.7,0.2,4,7.24,"Liverpool,",31
+Mohammed Kudus,27(6),2488,8,6,6,-,2,84.5,0.5,6,7.23,"West Ham,",23
+Daniel Muñoz,16,1440,-,4,4,-,0.5,79.2,1.6,-,7.17,"Crystal Palace,",28
+James Maddison,26(2),2155,4,9,5,-,2.1,87.4,0.1,1,7.17,"Tottenham,",27
+Kai Havertz,30(7),2641,13,7,11,-,1.9,81.1,2.8,3,7.16,"Arsenal,",24
+Bernardo Silva,29(4),2582,6,9,8,-,1,89.4,0.1,2,7.15,"Man City,",29
+Virgil van Dijk,36,3178,2,2,3,1,1.3,91.5,3.9,1,7.15,"Liverpool,",32
+Alexander Isak,27(3),2267,21,2,1,-,2.6,80,0.3,3,7.14,"Newcastle,",24
+Conor Bradley,10(1),761,1,3,2,-,1.1,80.3,1,2,7.13,"Liverpool,",20
+Pascal Groß,34(2),3114,4,10,7,-,1.5,90.2,0.4,6,7.13,"Brighton,",32
+Conor Gallagher,37,3137,5,7,7,1,1.3,91.5,0.7,1,7.13,"Chelsea,",24
+Matheus Cunha,29(3),2454,12,7,9,-,2.3,81.6,0.5,5,7.13,"Wolves,",25
+Andy Robertson,18(5),1693,3,2,2,-,0.5,87.7,0.6,-,7.12,"Liverpool,",30
+Trent Alexander-Arnold,25(3),2161,3,4,6,-,1.7,79.6,0.3,3,7.12,"Liverpool,",25
+Julián Álvarez,31(5),2660,11,9,2,-,2.7,87.9,0.1,1,7.1,"Man City,",24
+Jarrod Bowen,34,3021,16,6,2,-,2.5,75.1,1,2,7.1,"West Ham,",27
+Diogo Jota,14(7),1151,10,3,1,1,2,74.5,0.9,1,7.09,"Liverpool,",27
+Alexis Mac Allister,31(2),2612,5,5,7,1,1.3,87.8,0.9,2,7.09,"Liverpool,",25
+Luis Díaz,32(5),2646,8,5,3,-,2.5,85.3,0.7,3,7.09,"Liverpool,",27
+James Tarkowski,38,3420,1,1,11,-,0.7,77.8,3.8,5,7.08,"Everton,",31
+Nicolas Jackson,31(4),2810,14,5,10,-,2.3,78,1,3,7.07,"Chelsea,",22
+Kieran Trippier,26(2),2240,1,10,5,-,0.3,79.7,1.1,3,7.07,"Newcastle,",33
+Thomas Strakosha,1(1),135,-,-,-,-,-,71.2,0.5,-,7.05,"Brentford,",29
+Manor Solomon,2(3),198,-,2,1,-,1.4,90.6,-,-,7.05,"Tottenham,",24
+Ross Barkley,30(2),2622,5,4,6,-,2.1,84.5,1.4,1,7.05,"Luton,",30
+Lucas Paquetá,31,2638,4,6,10,-,1.4,75.2,2,-,7.04,"West Ham,",26
+Pedro Porro,35,3093,3,7,3,-,1.5,79.6,0.5,3,7.04,"Tottenham,",24
+João Palhinha,31(2),2711,4,1,13,-,1.4,83,1.2,2,7.04,"Fulham,",28
+Dominic Solanke,37(1),3333,19,3,3,-,2.9,73.7,2.6,3,7.03,"Bournemouth,",26
+Josko Gvardiol,26(2),2330,4,1,3,-,1.1,88.3,1.1,1,7.03,"Man City,",22
+Cristian Romero,33,2793,5,-,7,1,0.7,91.9,2.7,1,7.03,"Tottenham,",26
+Bryan Mbeumo,22(3),1960,9,6,2,-,2.1,72.3,0.9,3,7.02,"Brentford,",24
+Alphonse Areola,31,2702,-,-,1,-,-,59.3,0.4,4,6.96,"West Ham,",31
+Diogo Dalot,35(1),3174,2,3,4,1,0.8,83.8,0.9,1,6.96,"Man Utd,",25
+Douglas Luiz,35,3003,9,5,12,-,1.4,89.4,0.7,3,6.95,"Aston Villa,",26
+Aleksandar Mitrovic,0(1),32,-,-,-,-,2,50,2,-,6.95,"Fulham,",29
+Willy-Arnaud Boly,18(2),1443,2,1,1,1,0.7,77.1,2.9,1,6.94,"Nottingham Forest,",33
+Dan Burn,32(1),2733,2,2,4,-,0.7,81.1,3.1,1,6.94,"Newcastle,",32
+João Pedro,19(12),2046,9,3,2,-,2.4,82.7,1.3,3,6.93,"Brighton,",22
+Ben White,35(2),2995,4,4,8,-,0.4,86.7,1,-,6.93,"Arsenal,",26
+Adam Wharton,15(1),1305,-,3,2,-,0.6,81.1,0.5,-,6.93,"Crystal Palace,",20
+Antonee Robinson,37,3269,-,6,6,-,0.4,75.9,1.1,1,6.92,"Fulham,",26
+Jarrad Branthwaite,35,3117,3,-,8,-,0.4,80.1,2.7,-,6.9,"Everton,",21
+Gabriel Jesus,17(10),1482,4,5,6,-,2,81,0.6,2,6.89,"Arsenal,",27
+Gabriel Martinelli,24(11),2031,6,4,1,-,1.7,85,0.5,1,6.89,"Arsenal,",22
+Ryan Christie,35(2),2922,-,5,6,-,1.2,79.3,0.6,2,6.89,"Bournemouth,",29
+Ivan Toney,16(1),1449,4,2,5,-,3,55.7,3.2,2,6.89,"Brentford,",28
+Darwin Núñez,22(14),2050,11,8,9,-,3,71.6,0.9,-,6.89,"Liverpool,",24
+Tomás Soucek,34(3),2876,7,2,7,-,1.2,75.7,2.9,3,6.88,"West Ham,",29
+Kaoru Mitoma,15(4),1488,3,4,4,-,1.8,83.4,0.6,1,6.88,"Brighton,",27
+Ethan Pinnock,28(1),2521,2,-,1,-,0.7,84,3.9,1,6.88,"Brentford,",31
+Jean-Philippe Mateta,25(10),2285,16,5,3,-,1.3,73.8,1.4,2,6.88,"Crystal Palace,",26
+Antoine Semenyo,25(8),2113,8,2,6,-,2.1,74.3,1.6,3,6.88,"Bournemouth,",24
+Joachim Andersen,38,3418,2,3,7,-,0.6,79.5,2.4,4,6.88,"Crystal Palace,",28
+Yoane Wissa,29(5),2509,12,3,7,-,2,73.2,1.1,2,6.87,"Brentford,",27
+Cody Gakpo,17(18),1646,8,5,1,-,1.9,79.3,0.9,2,6.87,"Liverpool,",25
+Harry Maguire,18(4),1651,2,2,4,-,0.9,83.4,3.1,-,6.87,"Man Utd,",31
+Cheick Doucouré,11,922,-,-,2,-,0.5,87.2,0.5,-,6.87,"Crystal Palace,",24
+Marcus Tavernier,25(5),2134,3,4,3,-,1.8,79.3,0.4,1,6.86,"Bournemouth,",25
+Simon Adingra,25(6),2233,6,1,3,-,1.7,81.1,0.3,3,6.86,"Brighton,",22
+Mario Lemina,34(1),2976,4,1,10,1,1.4,86.7,1,2,6.85,"Wolves,",30
+Sergio Reguilón,14(2),1122,-,4,4,1,0.8,71.8,0.9,1,6.85,"Brentford,",27
+Moisés Caicedo,33(2),2875,1,3,11,-,0.4,90.8,0.9,2,6.85,"Chelsea,",22
+William Saliba,38,3420,2,1,4,-,0.3,92.6,1.9,2,6.85,"Arsenal,",23
+Vitalii Mykolenko,28,2472,2,-,1,-,0.9,74.9,1.1,2,6.85,"Everton,",25
+Jordan Ayew,30(5),2551,4,7,7,1,1.4,80.6,1,3,6.85,"Crystal Palace,",32
+Kyle Walker,30(2),2767,-,4,2,-,0.5,90.4,0.8,-,6.85,"Man City,",34
+André Onana,38,3420,-,-,5,-,-,70.4,0.4,2,6.84,"Man Utd,",28
+Noni Madueke,13(10),1057,5,2,2,-,1.4,88.5,0.3,2,6.84,"Chelsea,",22
+James Garner,34(3),3006,1,2,7,-,1.1,82.8,0.7,-,6.84,"Everton,",23
+Ibrahima Konaté,17(5),1571,-,-,3,1,0.5,88,3.5,-,6.84,"Liverpool,",25
+Richarlison,18(10),1493,11,4,3,-,2.2,70.9,0.9,1,6.83,"Tottenham,",27
+Rúben Dias,28(2),2558,-,-,-,-,0.7,94.1,1.6,-,6.83,"Man City,",27
+Idrissa Gueye,24(1),1896,4,-,8,-,1,85.6,0.6,1,6.83,"Everton,",34
+Lewis Cook,32(1),2792,-,3,5,1,0.4,81.2,1.3,2,6.83,"Bournemouth,",27
+Martin Dúbravka,22(1),1984,-,-,1,-,-,74.9,0.2,2,6.83,"Newcastle,",35
+Alfie Doughty,34(3),2938,2,8,5,-,0.7,75.2,0.6,2,6.83,"Luton,",24
+Leandro Trossard,18(16),1647,12,1,2,-,1.8,78.7,0.2,1,6.82,"Arsenal,",29
+Oliver McBurnie,15(6),1287,6,3,3,2,1.6,60.3,5.4,2,6.82,"Sheff Utd,",27
+Jefferson Lerma,27(1),2404,1,1,8,-,1.2,82.4,2.5,1,6.82,"Crystal Palace,",29
+Levi Colwill,20(3),1800,1,1,2,-,0.5,83.4,1.9,2,6.82,"Chelsea,",21
+Mark Travers,4,360,-,-,-,-,-,51.4,0.5,-,6.82,"Bournemouth,",25
+Marc Cucurella,20(1),1786,-,2,10,-,0.4,86.7,1.2,-,6.81,"Chelsea,",25
+Dominik Szoboszlai,25(8),2110,3,2,1,-,1.8,87.3,0.4,1,6.81,"Liverpool,",23
+Scott McKenna,5,417,-,-,-,-,0.4,77.5,4,-,6.81,"Nottingham Forest,",27
+Craig Dawson,25,2211,1,1,7,-,0.6,86.7,2.5,2,6.81,"Wolves,",34
+Fabian Schär,35(1),3057,4,1,5,-,1,83.2,1.9,1,6.81,"Newcastle,",32
+Oleksandr Zinchenko,20(7),1727,1,2,2,-,0.6,89.4,1,3,6.81,"Arsenal,",27
+Raheem Sterling,22(9),1983,8,4,7,-,1.6,79.3,0.1,2,6.8,"Chelsea,",29
+Tosin Adarabioyo,18(2),1617,2,-,2,-,0.7,84.7,2.9,-,6.8,"Fulham,",26
+Kobbie Mainoo,24,1942,3,1,3,-,0.5,86.7,0.8,-,6.8,"Man Utd,",19
+Matheus Nunes,2,180,-,-,-,1,0.5,84,1,-,6.8,"Wolves,",25
+Ben Brereton,14,1111,6,1,3,-,2.5,77.1,0.5,1,6.8,"Sheff Utd,",25
+Marcos Senesi,26(5),2248,4,5,13,-,0.4,78.5,1.3,1,6.8,"Bournemouth,",27
+Christian Nørgaard,30(1),2513,2,1,8,-,1.1,81.2,1.3,1,6.8,"Brentford,",30
+Caoimhín Kelleher,10,900,-,-,-,-,-,79.3,0.4,-,6.8,"Liverpool,",25
+Boubacar Kamara,20,1662,-,1,7,1,0.3,89.3,1,-,6.79,"Aston Villa,",24
+Micky van de Ven,27,2344,3,-,5,-,0.3,94.3,1.4,1,6.79,"Tottenham,",23
+Hwang Hee-Chan,25(4),2133,12,3,6,-,1.6,77.7,0.2,2,6.79,"Wolves,",28
+Rodrigo Muniz,18(8),1598,9,1,1,-,2.8,62.1,2.9,2,6.79,"Fulham,",23
+Callum Hudson-Odoi,20(9),1856,8,1,-,-,1.3,85.3,0.1,3,6.79,"Nottingham Forest,",23
+Dominic Calvert-Lewin,26(6),2189,7,2,2,-,2.3,56.9,4.4,2,6.79,"Everton,",27
+Manuel Akanji,28(2),2514,2,-,2,1,0.5,93.8,0.9,-,6.78,"Man City,",28
+Carlton Morris,32(6),2867,11,4,4,-,1.9,66.8,3.5,1,6.78,"Luton,",28
+Emerson,35(1),3143,1,2,10,-,0.5,82.9,0.7,1,6.78,"West Ham,",29
+Tyrick Mitchell,37,3209,2,3,6,-,0.3,74.2,0.6,-,6.78,"Crystal Palace,",24
+Albert Sambi Lokonga,16(1),1310,1,3,4,-,0.5,89.2,0.9,-,6.78,"Luton,",24
+Robin Olsen,4(1),405,-,-,-,-,-,79.3,0.6,-,6.78,"Aston Villa,",34
+Thiago Silva,28(3),2528,3,1,4,-,0.5,94.9,1.7,-,6.77,"Chelsea,",39
+Joël Matip,9(1),783,-,-,2,-,0.5,87.7,2.8,-,6.77,"Liverpool,",32
+Alex Iwobi,25(5),2205,5,2,2,-,1.7,81.8,0.2,2,6.77,"Fulham,",28
+Chiedozie Ogbene,20(10),1994,4,1,1,-,1.2,81.6,1,1,6.76,"Luton,",27
+Brennan Johnson,23(9),2093,5,10,3,-,1.6,76.2,0.2,-,6.76,"Tottenham,",23
+Jarell Quansah,13(4),1190,2,-,1,-,0.4,88.8,2.6,1,6.76,"Liverpool,",21
+Alejandro Garnacho,30(6),2578,7,4,4,-,2.8,79.4,0.2,2,6.76,"Man Utd,",19
+Rayan Aït-Nouri,29(4),2347,2,1,7,-,0.7,86.6,0.6,1,6.76,"Wolves,",22
+Ben Godfrey,13(2),1123,-,-,2,-,1,70.8,1.7,-,6.76,"Everton,",26
+Edson Álvarez,28(3),2385,1,1,11,-,0.5,86.1,1,-,6.76,"West Ham,",26
+Enzo Fernández,26(2),2215,3,2,7,-,1.7,86.9,0.8,1,6.75,"Chelsea,",23
+Aaron Wan-Bissaka,20(2),1782,-,2,4,-,0.1,82.9,1,1,6.75,"Man Utd,",26
+Chris Wood,20(11),1810,14,1,-,-,1.5,64.5,2.4,3,6.75,"Nottingham Forest,",32
+Andreas Pereira,34(3),2638,3,7,6,-,1.4,78.8,0.4,2,6.75,"Fulham,",28
+Joelinton,15(5),1281,2,1,6,-,1,83.9,0.9,1,6.75,"Newcastle,",27
+Guglielmo Vicario,38,3420,-,-,2,-,-,83.7,0.6,-,6.75,"Tottenham,",27
+Malo Gusto,19(8),1756,-,6,7,1,0.6,89.2,0.3,1,6.74,"Chelsea,",21
+Callum Wilson,9(11),984,9,1,3,-,1.8,65.2,0.5,-,6.74,"Newcastle,",32
+Trevoh Chalobah,10(3),951,1,-,1,-,0.2,89.6,1.5,-,6.74,"Chelsea,",24
+Morgan Rogers,8(3),640,3,1,3,-,1,77.1,0.6,-,6.73,"Aston Villa,",21
+Nathan Aké,24(5),2044,2,2,-,-,0.7,92.8,1.6,-,6.73,"Man City,",29
+Neto,32,2880,-,-,5,-,-,60.2,0.3,2,6.73,"Bournemouth,",34
+Lewis Dunk,33,2873,3,1,7,1,1,92.5,1.7,1,6.73,"Brighton,",32
+Pervis Estupiñán,15(4),1248,2,3,4,-,0.6,88.7,0.6,1,6.73,"Brighton,",26
+Jan Paul van Hecke,26(2),2368,-,-,4,-,0.5,92.5,2.4,1,6.72,"Brighton,",23
+Jordan Beyer,15,1239,-,1,6,-,0.3,89.1,1.9,-,6.72,"Burnley,",24
+Chris Richards,23(3),2092,1,1,3,-,0.4,83.3,2.4,-,6.72,"Crystal Palace,",24
+Pablo Sarabia,20(10),1752,4,7,5,-,1.5,77.1,0.2,1,6.72,"Wolves,",32
+Willian,24(7),2061,4,2,1,-,1.5,85.5,0.3,1,6.72,"Fulham,",35
+Jack Grealish,10(10),1004,3,1,7,-,1.1,87.7,0.2,-,6.72,"Man City,",28
+Rico Henry,5,402,-,1,1,-,0.4,84.6,0.8,-,6.72,"Brentford,",26
+José Sá,35,3039,-,1,1,-,-,59.2,0.4,1,6.72,"Wolves,",31
+Yves Bissouma,26(2),2088,-,-,9,2,0.9,91.9,0.5,-,6.72,"Tottenham,",27
+Maximilian Kilman,38,3420,2,-,7,-,0.4,86.3,2.3,1,6.71,"Wolves,",27
+Mathias Jensen,27(5),2220,3,3,5,-,0.4,78.6,0.2,1,6.71,"Brentford,",28
+Scott McTominay,18(14),1893,7,1,2,-,1.4,81.5,1.2,2,6.71,"Man Utd,",27
+Destiny Udogie,28,2398,2,3,5,1,0.3,87.5,0.8,-,6.71,"Tottenham,",21
+Amadou Onana,23(7),2094,2,-,5,-,1,84.9,1.8,1,6.71,"Everton,",22
+Jordan Pickford,38,3420,-,-,5,-,-,59.4,-,1,6.71,"Everton,",30
+Emiliano Martínez,34,3016,-,-,4,-,-,81.4,0.1,-,6.71,"Aston Villa,",31
+Nick Pope,15,1346,-,-,1,-,0.1,71.1,0.2,-,6.71,"Newcastle,",32
+Harvey Elliott,11(23),1339,3,6,2,-,1.4,87.7,0.3,2,6.7,"Liverpool,",21
+Rasmus Højlund,25(5),2172,10,2,2,-,1.3,77,0.8,1,6.7,"Man Utd,",21
+Murillo,32,2793,-,2,5,-,0.5,77.6,1.2,-,6.69,"Nottingham Forest,",21
+Marcus Rashford,26(7),2279,7,2,2,-,1.9,79.2,0.5,-,6.69,"Man Utd,",26
+Lucas Digne,27(6),2413,1,3,7,-,0.6,81.4,1.3,-,6.68,"Aston Villa,",30
+Timo Werner,10(3),815,2,3,1,-,2.2,80.8,0.1,-,6.68,"Tottenham,",28
+Bernd Leno,38,3420,-,-,3,-,-,77.2,0.3,3,6.68,"Fulham,",32
+Vitaly Janelt,37(1),3072,1,3,8,-,0.6,79.9,0.9,1,6.68,"Brentford,",26
+Kostas Tsimikas,8(5),677,-,3,-,-,0.2,85.6,0.3,-,6.68,"Liverpool,",28
+Luis Sinisterra,7(13),692,2,2,-,-,1.4,80.1,0.8,1,6.68,"Bournemouth,",24
+Amad Diallo,3(6),388,1,1,1,-,1.1,88,0.4,1,6.67,"Man Utd,",21
+Stefan Ortega,5(4),632,-,-,-,-,-,78.1,0.1,-,6.67,"Man City,",31
+Thomas Partey,9(5),790,-,-,3,-,0.6,90.3,0.5,-,6.67,"Arsenal,",30
+Sean Longstaff,30(5),2748,6,2,7,-,1.2,80.9,0.5,-,6.67,"Newcastle,",26
+Tom Lockyer,14,1173,1,1,4,-,0.5,71.5,2.2,-,6.67,"Luton,",29
+João Gomes,32(2),2660,2,1,11,-,0.8,83.3,0.5,1,6.67,"Wolves,",23
+Mykhailo Mudryk,18(13),1581,5,2,5,-,1.1,76.9,0.2,-,6.67,"Chelsea,",23
+Raúl Jiménez,18(6),1404,7,-,3,1,1.7,69.7,1.8,1,6.67,"Fulham,",33
+Matty Cash,23(6),2144,2,2,8,-,1.1,84,0.5,1,6.66,"Aston Villa,",26
+Nathan Collins,29(3),2650,1,1,3,-,0.3,81.5,2.3,-,6.66,"Brentford,",23
+Neco Williams,18(8),1634,-,1,4,-,0.6,72.4,1.2,-,6.66,"Nottingham Forest,",23
+Dara O'Shea,32(1),2895,3,4,5,1,0.6,79.7,3.8,-,6.66,"Burnley,",25
+Pape Sarr,27(7),2087,3,3,9,-,1.1,88.7,0.7,1,6.66,"Tottenham,",21
+Lukasz Fabianski,7(3),721,-,-,-,-,-,60.3,0.2,-,6.64,"West Ham,",39
+Ezri Konsa,35,3074,1,-,5,-,0.5,92.2,0.9,-,6.64,"Aston Villa,",26
+Mateo Kovacic,16(14),1549,1,-,4,-,0.7,94.1,0.1,-,6.63,"Man City,",30
+Jack Hinshelwood,8(4),871,3,-,1,-,1.2,84.4,0.6,1,6.63,"Brighton,",19
+Abdoulaye Doucouré,32,2643,7,2,7,-,1.5,78.5,0.8,-,6.63,"Everton,",31
+Ederson,33,2789,-,-,5,-,-,85.9,0.3,-,6.63,"Man City,",30
+Timothy Castagne,29(5),2634,1,3,3,-,0.4,81.3,1,-,6.63,"Fulham,",28
+Youri Tielemans,17(15),1622,2,6,3,-,0.4,86,0.4,1,6.63,"Aston Villa,",27
+Sèrge Aurier,10(2),835,-,2,2,-,0.5,80.6,2.5,1,6.63,"Nottingham Forest,",31
+Ben Davies,12(5),1086,1,-,2,-,0.7,91.3,1.7,-,6.62,"Tottenham,",31
+Vinicius Souza,29(7),2673,1,-,3,-,0.4,80.3,1.9,1,6.62,"Sheff Utd,",24
+Wilson Odobert,25(4),2109,3,2,3,-,1.7,79.4,0.3,-,6.62,"Burnley,",19
+Djordje Petrovic,22(1),1986,-,-,2,-,-,76.4,0.3,-,6.62,"Chelsea,",24
+Jack Harrison,25(4),2220,3,3,1,-,1.2,72.7,0.4,-,6.62,"Everton,",27
+Anthony Elanga,25(11),2434,5,9,1,-,1.5,75.3,0.5,1,6.62,"Nottingham Forest,",22
+Harvey Barnes,7(14),795,5,3,2,-,1.3,79.1,0.2,-,6.61,"Newcastle,",26
+Gabriel Osho,21,1848,2,-,3,-,0.5,82.5,1.8,-,6.61,"Luton,",25
+Kristoffer Ajer,21(7),1836,2,1,5,-,0.4,75.9,2.3,-,6.61,"Brentford,",26
+Josh Brownhill,23(10),2253,4,2,4,1,0.8,80.3,1.1,1,6.61,"Burnley,",28
+Nicolás Domínguez,19(7),1505,2,2,4,-,0.8,85.4,0.8,1,6.61,"Nottingham Forest,",25
+Wataru Endo,20(9),1723,1,-,10,-,0.3,88.4,1.1,-,6.59,"Liverpool,",31
+Elijah Adebayo,16(11),1419,10,-,1,-,1.1,72.6,1.6,1,6.59,"Luton,",26
+Ivan Perisic,0(5),99,-,1,2,-,0.4,80.3,1,-,6.59,"Tottenham,",35
+Axel Disasi,29(2),2581,2,-,6,-,0.5,90.6,2.4,1,6.58,"Chelsea,",26
+Vladimír Coufal,36,3140,-,7,5,1,0.2,73,1.1,-,6.58,"West Ham,",31
+Jakub Kiwior,11(9),946,1,3,1,-,0.3,85.8,0.8,-,6.58,"Arsenal,",24
+Taiwo Awoniyi,12(8),1047,6,3,2,-,1.1,73.8,1.1,-,6.58,"Nottingham Forest,",26
+Sander Berge,34(3),3009,1,2,8,1,0.7,88.8,1.8,1,6.58,"Burnley,",26
+Gustavo Hamer,34(2),2924,4,6,9,-,1.4,73.5,0.2,-,6.58,"Sheff Utd,",26
+Danny Welbeck,21(8),1707,5,1,4,-,1.4,83.2,0.6,-,6.58,"Brighton,",33
+Alex Iwobi,2,140,-,-,-,-,2,76.7,-,-,6.55,"Everton,",28
+Justin Kluivert,26(6),1937,7,1,5,-,1.8,72.4,0.4,-,6.55,"Bournemouth,",25
+Issa Kaboré,21(3),1734,-,2,7,-,0.3,76,0.8,1,6.55,"Luton,",23
+Danilo,20(9),1801,2,2,4,-,0.8,80.6,0.5,-,6.55,"Nottingham Forest,",23
+Toti Gomes,31(4),2779,1,3,7,-,0.3,82.8,1.6,1,6.55,"Wolves,",25
+Lewis Hall,8(10),777,1,-,2,-,0.6,83.1,0.6,-,6.55,"Newcastle,",19
+Ben Mee,15(1),1276,2,-,1,1,0.6,76.4,2.2,-,6.54,"Brentford,",34
+Antony,15(14),1324,1,1,5,-,1.5,80,0.1,1,6.54,"Man Utd,",24
+Tyler Adams,1(2),118,-,-,-,-,-,84.1,0.7,1,6.54,"Bournemouth,",25
+David Raya,32,2880,-,-,2,-,-,70.8,0.2,-,6.54,"Arsenal,",28
+Rico Lewis,8(8),808,2,-,1,-,0.3,91,-,-,6.54,"Man City,",19
+Eddie Nketiah,10(17),1073,5,2,3,-,1.4,79.9,0.9,1,6.53,"Arsenal,",25
+Sandro Tonali,5(3),439,1,-,2,-,0.4,88,0.1,-,6.53,"Newcastle,",24
+Illia Zabarnyi,37,3330,1,-,5,-,0.2,81.6,2.1,-,6.53,"Bournemouth,",21
+Oliver Arblaster,11(1),946,-,-,2,-,0.1,81.5,0.8,-,6.53,"Sheff Utd,",20
+Will Hughes,23(7),1899,-,1,6,-,0.3,85.1,0.4,-,6.53,"Crystal Palace,",29
+Harry Wilson,16(19),1616,4,6,6,-,1.1,79.2,0.1,2,6.52,"Fulham,",27
+Tom Cairney,14(20),1480,1,4,3,-,0.5,90.3,0.4,-,6.52,"Fulham,",33
+Nathaniel Clyne,14(5),1339,-,-,-,-,0.2,84.2,0.7,-,6.52,"Crystal Palace,",33
+Zanka,12(2),1087,1,-,4,-,0.6,75.4,1.9,-,6.52,"Brentford,",34
+Kurt Zouma,32(1),2841,3,-,3,-,0.5,83.9,1.8,1,6.52,"West Ham,",29
+Igor Julio,17(7),1638,-,-,4,-,0.2,93.6,1.1,-,6.52,"Brighton,",26
+Issa Diop,16(2),1426,-,-,2,1,0.3,88.1,1.4,1,6.51,"Fulham,",27
+Adam Smith,25(3),2158,-,2,6,-,0.1,77.1,0.7,-,6.51,"Bournemouth,",33
+Emerson Royal,11(11),1155,1,-,4,-,0.3,91.2,0.7,1,6.51,"Tottenham,",25
+Joël Veltman,17(10),1583,1,1,4,-,0.2,84.9,1.1,-,6.51,"Brighton,",32
+Zeki Amdouni,27(7),1972,5,1,2,-,1.4,80.9,0.5,1,6.51,"Burnley,",23
+Thomas Kaminski,38,3406,-,-,3,-,-,55,0.1,-,6.51,"Luton,",31
+David Datro Fofana,10(5),880,4,1,1,-,1.3,69,0.9,2,6.51,"Burnley,",21
+Harry Toffolo,15(8),1456,1,3,3,-,0.3,76.2,1.1,-,6.5,"Nottingham Forest,",28
+Ibrahim Sangaré,13(4),1040,-,-,6,-,0.5,80.7,0.5,-,6.5,"Nottingham Forest,",26
+Tino Livramento,12(14),1306,1,-,1,-,0.2,86.8,0.5,-,6.5,"Newcastle,",21
+Amari'i Bell,21,1722,-,-,-,-,0.1,79.6,1,-,6.5,"Luton,",30
+Julio Enciso,5(7),475,-,2,2,-,2.3,77.2,0.1,-,6.5,"Brighton,",20
+Ryan Yates,21(14),1986,1,1,6,-,0.9,80.3,1.2,1,6.5,"Nottingham Forest,",26
+Victor Lindelöf,14(5),1333,1,1,2,-,0.3,89.5,0.9,1,6.5,"Man Utd,",29
+James Milner,11(4),779,-,2,3,-,0.3,86.4,0.4,-,6.49,"Brighton,",38
+Ryan Gravenberch,12(14),1122,1,-,-,-,0.9,83.4,0.4,-,6.49,"Liverpool,",22
+Dean Henderson,18,1620,-,-,2,-,-,53.7,0.3,-,6.49,"Crystal Palace,",27
+Jóhann Gudmundsson,12(14),1194,1,3,2,-,0.6,78.3,0.5,-,6.49,"Burnley,",33
+Christopher Nkunku,2(9),437,3,-,-,-,1.5,89.3,0.9,-,6.49,"Chelsea,",26
+Giovani Lo Celso,4(18),498,2,2,2,-,0.6,91.5,-,1,6.49,"Tottenham,",28
+Evan Ferguson,15(12),1366,6,-,1,-,1.2,81.3,0.5,1,6.49,"Brighton,",19
+Reece James,5(5),421,-,2,-,2,0.7,84.3,0.8,-,6.49,"Chelsea,",24
+Chris Mepham,6(4),615,-,1,2,-,0.1,82.8,3,-,6.49,"Bournemouth,",26
+Mads Andersen,4(4),399,1,-,1,-,0.4,73.9,1.4,-,6.48,"Luton,",26
+Neal Maupay,13(16),1317,6,3,8,-,1.3,72.8,0.5,2,6.48,"Brentford,",27
+Saïd Benrahma,5(8),617,-,1,1,-,1.5,79.8,0.1,-,6.48,"West Ham,",28
+Lorenz Assignon,15,1240,1,2,3,1,0.6,75.6,0.9,1,6.48,"Burnley,",23
+Jeffrey Schlupp,17(12),1357,2,2,1,-,0.7,75.9,0.8,1,6.48,"Crystal Palace,",31
+Jacob Ramsey,8(8),852,1,1,2,-,1.2,81.9,0.3,-,6.48,"Aston Villa,",23
+Benoît Badiashile,15(3),1338,-,1,3,-,0.3,90.9,1.6,-,6.48,"Chelsea,",23
+Facundo Buonanotte,17(10),1370,3,1,7,-,0.8,85.3,0.2,-,6.47,"Brighton,",19
+Adam Webster,13(2),1144,-,-,2,-,0.5,91.3,2.2,-,6.47,"Brighton,",29
+Ben Chilwell,9(4),758,-,1,5,-,0.9,80.2,0.9,-,6.47,"Chelsea,",27
+Keane Lewis-Potter,15(15),1442,3,1,-,-,1.4,77.4,0.5,-,6.47,"Brentford,",23
+Davinson Sánchez,0(1),76,-,-,1,-,1,90.5,3,-,6.47,"Tottenham,",27
+Emil Krafth,8(9),910,-,-,2,-,0.2,85.1,0.8,-,6.47,"Newcastle,",29
+Philip Billing,13(16),1393,2,2,3,1,1,78.4,1.2,-,6.47,"Bournemouth,",27
+Curtis Jones,14(9),1168,1,1,3,1,0.8,91.5,0.3,-,6.47,"Liverpool,",23
+Jayden Bogle,32(2),2795,3,-,9,-,0.9,69.7,1.5,-,6.47,"Sheff Utd,",23
+Charlie Taylor,25(3),2332,1,1,8,-,0.4,78.9,1.5,-,6.47,"Burnley,",30
+Matt Turner,18,1531,-,-,2,-,-,63.6,0.3,-,6.47,"Nottingham Forest,",29
+Maxime Esteve,15(1),1312,-,-,6,-,0.4,84.4,1.7,-,6.46,"Burnley,",22
+Alex Scott,11(12),1013,1,1,3,-,0.7,81,0.7,1,6.46,"Bournemouth,",20
+Calvin Bassey,25(4),2302,1,-,4,1,0.2,86.2,1,-,6.46,"Fulham,",24
+Álex Moreno,11(10),1031,2,-,2,-,0.4,83.3,0.2,-,6.46,"Aston Villa,",30
+Oscar Bobb,2(12),295,1,1,-,-,0.3,88.1,0.1,-,6.46,"Man City,",20
+Orel Mangala,19(1),1571,1,-,6,-,0.5,88.6,0.5,-,6.45,"Nottingham Forest,",26
+Gonzalo Montiel,8(6),802,-,2,5,-,0.2,78.9,0.9,-,6.45,"Nottingham Forest,",27
+Wes Foderingham,29(1),2648,-,-,2,-,-,52.6,0.2,1,6.45,"Sheff Utd,",33
+Joe Willock,5(4),419,1,-,-,-,0.8,86.3,0.1,-,6.45,"Newcastle,",24
+Jacob Brown,12(7),1020,2,-,4,-,1.4,56.3,2.3,1,6.45,"Luton,",26
+Luca Koleosho,13(2),984,1,1,-,-,1.5,76,0.1,-,6.45,"Burnley,",19
+Jacob Bruun Larsen,16(16),1252,6,-,1,-,1.4,76.8,0.4,-,6.45,"Burnley,",25
+Joel Ward,23(3),1982,-,1,4,-,0.4,75.7,1.8,-,6.45,"Crystal Palace,",34
+Sam Johnstone,20,1797,-,-,1,-,-,52.9,0.1,2,6.44,"Crystal Palace,",31
+Mads Roerslev,22(12),1985,1,2,1,-,0.2,68.9,0.4,1,6.44,"Brentford,",24
+Jurriën Timber,1(1),71,-,-,2,-,-,89.6,0.5,-,6.43,"Arsenal,",22
+Frank Onyeka,11(15),1157,1,2,8,-,0.8,77.6,0.4,-,6.43,"Brentford,",26
+Jorginho,10(14),920,-,2,1,-,0.2,90.2,0.3,-,6.41,"Arsenal,",32
+Nathan Patterson,9(11),1000,-,2,4,-,0.2,73,0.4,-,6.41,"Everton,",22
+Ashley Young,27(4),2291,-,-,5,1,0.4,72.4,0.6,-,6.4,"Everton,",38
+Lloyd Kelly,17(6),1558,-,1,2,-,0.2,77.6,1.2,-,6.4,"Bournemouth,",25
+Fábio Vieira,2(9),292,1,2,-,1,0.6,88.8,0.1,-,6.4,"Arsenal,",24
+Billy Gilmour,24(6),2126,-,1,8,1,0.8,92.2,0.4,-,6.39,"Brighton,",22
+Hannibal Mejbri,1(4),130,1,-,1,-,0.2,83.8,0.4,-,6.39,"Man Utd,",21
+Radu Dragusin,4(5),425,-,-,1,-,0.1,88.1,1,-,6.39,"Tottenham,",22
+Lisandro Martínez,8(3),649,-,1,3,-,-,93,0.4,-,6.39,"Man Utd,",26
+Rodrigo Bentancur,13(10),1010,1,1,7,-,0.8,85.5,0.6,-,6.39,"Tottenham,",26
+Adama Traoré,1(16),365,2,3,2,-,0.6,81.1,0.5,-,6.39,"Fulham,",28
+Séamus Coleman,7(5),664,-,-,-,-,-,67.3,0.1,-,6.36,"Everton,",35
+Sasa Lukic,13(11),1120,1,-,3,-,0.5,87.5,0.5,-,6.36,"Fulham,",27
+Enes Ünal,2(14),321,2,2,1,-,1.4,76.4,0.6,-,6.36,"Bournemouth,",27
+Matheus Nunes,7(10),656,-,2,-,-,0.5,86.7,0.3,-,6.35,"Man City,",25
+Giovanni Reyna,2(7),231,-,1,-,-,0.6,89.1,0.8,-,6.35,"Nottingham Forest,",21
+Shandon Baptiste,2(8),225,1,1,1,-,0.2,73.3,0.3,-,6.35,"Brentford,",26
+Owen Beck,0(1),7,-,-,-,-,-,75,-,-,6.35,"Liverpool,",21
+Emile Smith Rowe,3(10),347,-,1,-,-,1.2,88.6,0.2,-,6.35,"Arsenal,",23
+Nuno Tavares,5(3),455,-,-,2,-,0.9,78.9,0.4,-,6.35,"Nottingham Forest,",24
+Sasa Kalajdzic,1(10),159,2,-,1,-,0.4,64.4,0.7,-,6.35,"Wolves,",26
+Kevin Schade,3(8),331,2,1,-,-,0.7,63.6,1.5,-,6.35,"Brentford,",22
+Chris Basham,3(5),319,-,-,1,-,0.3,76.2,1,-,6.35,"Sheff Utd,",35
+Tahith Chong,20(13),1987,4,-,4,-,0.9,81.8,0.3,-,6.34,"Luton,",24
+Auston Trusty,28(4),2573,-,-,4,-,0.3,79,2,-,6.34,"Sheff Utd,",25
+Harrison Reed,15(12),1325,-,2,6,-,0.3,85.3,0.4,-,6.34,"Fulham,",29
+Andros Townsend,14(13),1210,1,3,1,-,0.7,80.2,-,-,6.34,"Luton,",32
+Max Lowe,4(6),501,-,1,1,-,0.2,65.4,0.5,-,6.34,"Sheff Utd,",27
+Carlos Baleba,15(12),1324,-,-,7,-,0.8,92.2,0.9,-,6.33,"Brighton,",20
+George Earthy,0(3),33,1,-,-,-,0.3,94.1,-,-,6.33,"West Ham,",19
+Armando Broja,6(7),455,1,-,-,-,1,89.2,0.3,-,6.32,"Chelsea,",22
+Jhon Durán,3(20),463,5,-,5,-,0.9,71.1,0.9,1,6.32,"Aston Villa,",20
+Felipe,5(3),376,-,-,4,-,0.4,85.4,1.8,-,6.32,"Nottingham Forest,",35
+Pierre-Emile Højbjerg,8(28),1294,-,-,4,-,0.5,88.6,0.2,-,6.32,"Tottenham,",28
+Jean-Ricner Bellegarde,10(12),953,2,1,-,1,0.7,84.3,0.4,1,6.32,"Wolves,",25
+Beto,9(21),939,3,-,2,-,1.4,61.5,1.6,1,6.32,"Everton,",26
+Anthony Martial,5(8),445,1,-,-,-,0.5,79.6,0.6,-,6.32,"Man Utd,",28
+Tariq Lamptey,10(9),916,-,3,3,-,0.3,87.9,0.2,-,6.32,"Brighton,",23
+Mason Mount,5(9),513,1,-,2,-,0.4,85.2,0.4,-,6.32,"Man Utd,",25
+Brennan Johnson,3,240,-,-,-,-,1,81,0.3,-,6.32,"Nottingham Forest,",23
+Mahmoud Dahoud,6(3),454,-,1,1,1,0.7,87.1,-,-,6.32,"Brighton,",28
+Angelo Ogbonna,7(4),635,-,-,1,-,0.1,79.9,1.1,-,6.31,"West Ham,",36
+Oliver Norwood,16(11),1433,1,-,8,-,0.6,72.2,0.5,-,6.31,"Sheff Utd,",33
+Aaron Hickey,9,720,-,-,5,-,0.8,89.3,0.2,-,6.31,"Brentford,",21
+Facundo Pellistri,1(8),165,-,1,-,-,0.4,81.1,0.7,-,6.31,"Man Utd,",22
+James Hill,1(4),76,-,-,-,-,-,70.6,0.8,-,6.31,"Bournemouth,",22
+James Shea,0(1),14,-,-,-,-,-,62.5,-,-,6.31,"Luton,",32
+Vitinho,26(6),2320,-,2,1,-,0.8,77.1,0.6,-,6.31,"Burnley,",24
+Jesurun Rak-Sakyi,0(6),133,-,-,-,-,0.8,78.7,0.5,-,6.31,"Crystal Palace,",21
+Michael Obafemi,0(2),19,-,-,-,-,1,80,-,-,6.31,"Burnley,",23
+Tommy Doyle,11(15),1216,-,-,2,-,0.5,86.4,-,-,6.3,"Wolves,",22
+Santiago Bueno,9(3),821,-,-,1,-,-,89.3,1.3,-,6.3,"Wolves,",25
+Hamed Traorè,0(3),45,-,-,-,-,1,75,0.3,-,6.3,"Bournemouth,",24
+Matz Sels,16,1440,-,-,1,-,-,65.2,0.3,-,6.3,"Nottingham Forest,",32
+Jay Rodríguez,7(14),815,2,1,-,-,1,66,1,-,6.29,"Burnley,",34
+Andrew Omobamidele,8(3),782,-,-,2,-,0.1,87.4,0.7,-,6.29,"Nottingham Forest,",21
+Loris Karius,1,90,-,-,-,-,-,51.6,-,-,6.29,"Newcastle,",30
+Joe Worrall,5(2),440,-,-,-,1,0.3,84.5,1.7,-,6.28,"Nottingham Forest,",27
+Anel Ahmedhodzic,29(2),2650,2,-,9,1,0.6,75.6,1.6,1,6.28,"Sheff Utd,",25
+David Brooks,2(11),273,1,1,1,-,1,76.8,0.1,-,6.28,"Bournemouth,",26
+Ryan Giles,5(6),501,-,-,-,-,0.2,73.4,0.3,-,6.28,"Luton,",24
+Kalvin Phillips,0(4),89,-,-,-,-,0.5,89.7,-,-,6.27,"Man City,",28
+Hjalmar Ekdal,5(3),440,-,-,2,-,0.3,88,0.5,-,6.27,"Burnley,",25
+Carney Chukwuemeka,2(7),224,1,1,2,-,0.3,86.5,0.1,-,6.27,"Chelsea,",20
+Ivo Grbic,9,772,-,-,1,-,-,45.8,0.8,-,6.27,"Sheff Utd,",28
+Yehor Yarmoliuk,6(21),676,-,-,2,-,0.4,77.3,0.3,-,6.27,"Brentford,",20
+Cauley Woodrow,2(22),411,1,1,2,-,0.7,74.8,0.5,-,6.26,"Luton,",29
+Lewis Dobbin,1(11),227,1,-,1,-,0.4,75.9,0.2,-,6.26,"Everton,",21
+Luke Thomas,11(1),920,-,-,3,-,0.5,73.5,0.8,-,6.26,"Sheff Utd,",22
+Aaron Ramsdale,6,540,-,-,-,-,-,65.2,-,-,6.26,"Arsenal,",26
+Josh Acheampong,0(1),5,-,-,-,-,-,-,-,-,6.26,"Chelsea,",18
+Roméo Lavia,0(1),32,-,-,-,-,-,81.5,-,-,6.26,"Chelsea,",20
+Ansu Fati,3(16),514,2,-,2,-,1.4,87.3,0.1,-,6.26,"Brighton,",21
+Max Aarons,13(7),1233,-,1,1,-,0.1,76.7,0.3,-,6.25,"Bournemouth,",24
+Jadon Sancho,0(3),77,-,-,-,-,-,82.9,-,-,6.25,"Man Utd,",24
+Odysseas Vlachodimos,5,450,-,-,-,-,-,79.1,-,-,6.25,"Nottingham Forest,",30
+Sofyan Amrabat,10(11),933,-,-,6,-,0.1,88.1,0.2,-,6.24,"Man Utd,",27
+Saman Ghoddos,7(12),730,1,-,5,-,0.5,76.4,0.2,-,6.24,"Brentford,",30
+Sergio Gómez,0(6),49,-,1,-,-,0.3,89.8,-,-,6.24,"Man City,",23
+Hugo Bueno,7(15),731,-,-,1,-,0.2,80.6,0.4,-,6.24,"Wolves,",21
+Nicolò Zaniolo,9(16),831,2,-,7,-,1.1,71.6,0.3,-,6.24,"Aston Villa,",24
+Michael Keane,4(5),438,1,-,2,-,0.7,77.7,1.8,-,6.24,"Everton,",31
+Arnaut Danjuma,5(9),589,1,-,-,-,1.8,72.1,0.2,-,6.23,"Everton,",27
+Ben Johnson,4(10),538,-,-,1,-,0.4,82.1,0.5,-,6.23,"West Ham,",24
+Pablo Fornals,4(11),420,-,-,-,-,0.5,79.5,0.2,-,6.23,"West Ham,",28
+Jakub Moder,6(11),613,-,-,2,-,0.6,82,0.2,-,6.23,"Brighton,",25
+Matheus França,1(9),225,-,1,1,-,0.8,73.8,0.1,-,6.22,"Crystal Palace,",20
+Ethan Nwaneri,0(1),13,-,-,-,-,-,83.3,1,-,6.22,"Arsenal,",17
+André Gomes,3(9),505,1,-,4,-,0.7,83.4,0.1,-,6.22,"Everton,",30
+Luke Berry,2(15),311,2,1,1,-,0.5,69.7,0.4,-,6.22,"Luton,",31
+Leander Dendoncker,1(7),118,1,-,-,-,0.3,80.4,0.5,-,6.21,"Aston Villa,",29
+Divock Origi,6(14),601,-,1,1,-,0.7,67.9,0.6,-,6.21,"Nottingham Forest,",29
+Carlos Vinícius,2(11),307,2,-,2,-,0.7,75.4,0.3,-,6.21,"Fulham,",29
+Fodé Ballo-Touré,0(6),67,-,-,1,-,-,78.2,-,-,6.21,"Fulham,",27
+Dan Bentley,3(2),382,-,-,-,-,-,64.4,0.4,-,6.21,"Wolves,",30
+Kieffer Moore,0(8),100,1,-,-,-,0.8,70,0.8,-,6.21,"Bournemouth,",31
+Oliver Skipp,5(16),695,-,-,3,-,0.2,91.7,0.2,-,6.2,"Tottenham,",23
+Jason Steele,17,1530,-,-,-,-,-,83.2,0.1,-,6.2,"Brighton,",33
+Lesley Ugochukwu,3(9),298,-,-,2,-,-,84.7,0.8,-,6.2,"Chelsea,",20
+Valentín Barco,3(3),308,-,-,1,-,0.7,86.1,0.2,-,6.2,"Brighton,",19
+Omari Forson,1(3),68,-,1,-,-,0.3,90.9,-,-,6.18,"Man Utd,",19
+Adam Lallana,13(12),854,-,1,2,-,0.4,90,0.1,-,6.17,"Brighton,",36
+Stefan Bajcetic,0(1),26,-,-,-,-,-,70,-,-,6.17,"Liverpool,",19
+Ben Osborn,14(10),1363,-,2,3,-,0.2,77.7,0.3,-,6.17,"Sheff Utd,",29
+Mohamed Elneny,0(3),25,-,-,-,-,0.7,97.5,0.3,-,6.16,"Arsenal,",31
+Jairo Riedewald,2(7),229,-,-,-,-,0.1,80.6,0.3,-,6.16,"Crystal Palace,",27
+Maxwel Cornet,1(6),111,1,-,-,-,0.6,75,-,-,6.16,"West Ham,",27
+John Egan,6,484,-,-,2,-,0.5,69.9,2.3,-,6.16,"Sheff Utd,",31
+Mike Trésor,3(13),413,-,-,-,-,0.3,77.4,0.1,-,6.16,"Burnley,",25
+Alejo Véliz,0(8),45,1,-,1,-,0.3,50,0.1,-,6.15,"Tottenham,",20
+Joe Rothwell,3(8),383,-,-,-,-,0.2,87.6,-,-,6.14,"Bournemouth,",29
+Odeluga Offiah,1(3),127,-,-,-,-,-,82.1,0.3,-,6.14,"Brighton,",21
+Bryan Gil,2(9),203,-,-,-,-,0.4,85.4,-,-,6.14,"Tottenham,",23
+Aaron Cresswell,4(7),433,-,-,1,-,-,83.4,0.5,-,6.13,"West Ham,",34
+David Ozoh,0(9),149,-,-,1,-,-,94.1,0.3,-,6.12,"Crystal Palace,",19
+Ameen Al Dakhil,12(1),1056,1,-,1,-,0.6,85.6,1.1,-,6.11,"Burnley,",22
+Youssef Chermiti,1(17),197,-,-,3,-,0.4,60.3,0.8,-,6.11,"Everton,",20
+Josh Dasilva,0(3),23,-,-,-,-,-,69.2,-,-,6.11,"Brentford,",25
+Daiki Hashioka,6(4),595,-,-,-,-,0.2,82.4,1.3,-,6.11,"Luton,",25
+Fred Onyedinma,4(4),407,-,-,1,-,0.6,76.5,1,-,6.11,"Luton,",27
+Bobby Clark,1(4),87,-,-,-,-,0.4,77.6,-,-,6.1,"Liverpool,",19
+Remi Matthews,0(1),3,-,-,-,-,-,-,1,-,6.08,"Crystal Palace,",30
+Tyrone Mings,1,31,-,-,-,-,1,100,1,-,6.08,"Aston Villa,",31
+Leon Chiwome,2(1),176,-,-,-,-,0.7,86.4,0.7,-,6.08,"Wolves,",18
+Pelly Ruddock Mpanzu,11(16),1094,-,-,1,-,0.4,74.9,0.4,-,6.08,"Luton,",30
+Matt Ritchie,0(13),120,1,-,1,-,0.5,81.4,-,-,6.07,"Newcastle,",34
+Michael Olakigbe,0(8),51,-,-,-,-,0.4,81.3,0.1,-,6.06,"Brentford,",20
+Han-Noah Massengo,0(3),14,-,-,-,-,-,55.6,-,-,6.06,"Burnley,",22
+Aaron Ramsey,5(9),526,-,-,1,-,0.4,79.5,0.3,-,6.06,"Burnley,",21
+Armando Broja,0(8),83,-,1,-,-,-,73.1,0.8,-,6.05,"Fulham,",22
+Jonny Otto,0(1),4,-,-,-,-,-,-,-,-,6.05,"Wolves,",30
+Divin Mubama,0(5),76,-,-,-,-,0.2,72.7,0.8,-,6.04,"West Ham,",19
+Ethan Wheatley,0(3),13,-,-,-,-,-,-,-,-,6.04,"Man Utd,",18
+James Tomkins,0(4),7,-,-,-,-,-,85.7,0.5,-,6.04,"Crystal Palace,",35
+Sydie Peck,0(1),9,-,-,-,-,-,100,-,-,6.04,"Sheff Utd,",19
+Fábio Silva,3(5),261,-,-,2,-,0.9,80,0.3,-,6.04,"Wolves,",21
+Jack Cork,0(4),25,-,-,-,-,-,78.1,-,-,6.04,"Burnley,",34
+Romain Faivre,0(5),37,-,-,1,-,0.4,82.6,-,-,6.03,"Bournemouth,",25
+Deivid Washington,0(2),11,-,-,-,-,0.5,100,-,-,6.03,"Chelsea,",18
+Jayden Danns,0(2),7,-,-,1,-,-,71.4,-,-,6.03,"Liverpool,",18
+Joe White,0(4),12,-,-,1,-,-,91.7,-,-,6.03,"Newcastle,",21
+Zack Nelson,0(2),5,-,-,-,-,-,100,-,-,6.03,"Luton,",19
+Jaidon Anthony,2(1),154,-,-,1,-,0.7,69.8,0.3,-,6.03,"Bournemouth,",24
+James McConnell,0(3),3,-,-,-,-,-,83.3,-,-,6.02,"Liverpool,",19
+Donny van de Beek,0(1),2,-,-,-,-,1,100,-,-,6.02,"Man Utd,",27
+Dane Scarlett,0(4),20,-,-,-,-,-,66.7,-,-,6.02,"Tottenham,",20
+Rodrigo Ribeiro,0(4),14,-,-,-,-,-,75,0.5,-,6.01,"Nottingham Forest,",19
+Connor Roberts,8(6),819,-,1,3,1,-,84.4,0.5,-,6.01,"Burnley,",28
+Bénie Traoré,3(5),387,-,-,-,-,0.1,80.6,0.3,-,6.01,"Sheff Utd,",21
+Benicio Baker-Boaitey,0(5),37,-,-,1,-,0.2,68.4,-,-,6.01,"Brighton,",20
+Anis Ben Slimane,4(11),413,-,-,2,-,0.5,67.6,0.5,-,6.01,"Sheff Utd,",23
+Thilo Kehrer,0(4),19,-,-,2,-,-,100,0.3,-,6.01,"West Ham,",27
+William Osula,9(12),785,-,-,4,-,1,53.3,1.1,-,6.0,"Sheff Utd,",20
+Alex Matos,0(1),1,-,-,-,-,-,-,-,-,6.0,"Chelsea,",19
+Amadou Diallo,0(1),1,-,-,-,-,-,100,-,-,6.0,"Newcastle,",21
+Daniel Gore,0(1),1,-,-,-,-,-,-,-,-,6.0,"Man Utd,",19
+Dominic Sadi,0(1),1,-,-,-,-,-,-,-,-,6.0,"Bournemouth,",20
+Enso González,0(1),1,-,-,-,-,-,100,-,-,6.0,"Wolves,",19
+Finley Munroe,0(1),3,-,-,-,-,-,100,-,-,6.0,"Aston Villa,",19
+James McAtee,0(1),1,-,-,-,-,-,-,-,-,6.0,"Man City,",21
+Tyler Onyango,0(1),1,-,-,-,-,-,-,-,-,6.0,"Everton,",21
+Myles Peart-Harris,0(3),11,-,-,-,-,-,71.4,-,-,6.0,"Brentford,",21
+Willy Kambwala,3(5),327,-,-,1,-,-,84.8,0.8,-,6.0,"Man Utd,",19
+Cole Palmer,0(1),10,-,-,-,-,-,80,-,-,5.99,"Man City,",22
+Neal Maupay,1(1),112,-,-,-,-,2.5,84.6,-,-,5.99,"Everton,",27
+Mikey Moore,0(2),3,-,-,-,-,-,80,-,-,5.99,"Tottenham,",16
+Andrey Santos,0(1),7,-,-,-,-,2,100,-,-,5.98,"Nottingham Forest,",20
+Bertrand Traoré,0(2),10,-,-,-,-,-,66.7,-,-,5.98,"Aston Villa,",28
+John Fleck,1(3),90,-,-,1,-,-,72.5,0.5,-,5.98,"Sheff Utd,",32
+Mark O’Mahony,1(2),63,-,-,1,-,0.3,81.3,0.3,-,5.95,"Brighton,",19
+Ben Doak,0(1),13,-,-,-,-,-,100,-,-,5.95,"Liverpool,",18
+Mason Burstow,0(2),8,-,-,-,-,-,75,-,-,5.95,"Chelsea,",20
+Sam Curtis,0(1),27,-,-,-,-,-,57.1,-,-,5.95,"Sheff Utd,",18
+Tom Davies,2(7),217,-,-,2,-,0.4,72.8,0.3,-,5.95,"Sheff Utd,",25
+Omari Kellyman,0(2),35,-,-,-,-,0.5,85.7,-,-,5.94,"Aston Villa,",18
+Rhys Norrington-Davies,2(3),111,-,-,1,-,-,72.2,0.2,-,5.94,"Sheff Utd,",25
+Rhian Brewster,3(10),342,-,-,-,1,0.5,71.2,0.3,-,5.93,"Sheff Utd,",24
+Paul Dummett,0(5),18,-,-,-,-,0.2,90.9,0.2,-,5.92,"Newcastle,",32
+Antwoine Hackford,0(2),11,-,-,-,-,-,100,-,-,5.92,"Sheff Utd,",20
+Jaden Philogene,0(1),3,-,-,-,-,-,75,-,-,5.91,"Aston Villa,",22
+Matt Targett,1(2),78,-,-,1,-,-,86.8,-,-,5.91,"Newcastle,",28
+Kalvin Phillips,3(5),309,-,-,1,1,0.4,80,0.9,-,5.89,"West Ham,",28
+Ben Parkinson,0(1),24,-,-,-,-,-,33.3,-,-,5.89,"Newcastle,",19
+Brandon Aguilera,0(1),4,-,-,-,-,-,50,-,-,5.89,"Nottingham Forest,",20
+Cameron Archer,0(1),5,-,-,1,-,-,83.3,-,-,5.89,"Aston Villa,",22
+Daniel Jebbison,0(1),20,-,-,-,-,-,33.3,-,-,5.89,"Sheff Utd,",20
+Thiago Alcântara,0(1),5,-,-,-,-,-,70,-,-,5.89,"Liverpool,",33
+Anass Zaroury,1(5),149,-,-,-,1,0.5,67.8,-,-,5.85,"Burnley,",23
+Ryan Oné,0(1),7,-,-,-,-,-,100,-,-,5.81,"Sheff Utd,",17
+Joe Johnson,0(2),75,-,-,1,-,-,88.2,-,-,5.79,"Luton,",18
+Luke Harris,0(1),74,-,-,-,-,1,78.6,-,-,5.73,"Fulham,",19
+Andrei Radu,2,180,-,-,-,-,-,79.3,-,-,5.7,"Bournemouth,",27
