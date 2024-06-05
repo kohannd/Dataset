@@ -1,0 +1,362 @@
+player,apps,mins,goals,assists,yellow,red,spg,ps,aerialswon,motm,rating,club,position,age,marketvalue,g/a
+Bukayo Saka,35,2937,16,9,4,0,3.1,83.0,0.7,6,7.67,Big 6,Wing Forward,22,140000000,25
+Rodri,34,2937,8,9,8,1,1.8,92.5,1.6,5,7.62,Big 6,Defensive Midfield,27,120000000,17
+Michael Olise,19,1277,10,6,0,0,3.0,83.1,0.4,6,7.61,Non Big 6,Wing Forward,22,55000000,16
+Kevin De Bruyne,18,1228,4,10,2,0,2.4,83.8,0.3,2,7.6,Big 6,Attacking Midfield,32,50000000,14
+Phil Foden,35,2869,19,8,2,0,3.0,89.1,0.2,10,7.55,Big 6,Wing Forward,24,150000000,27
+Cole Palmer,33,2618,22,11,7,0,3.3,83.3,0.0,5,7.48,Big 6,Attacking Midfield,22,80000000,33
+Eberechi Eze,27,2064,11,4,3,0,3.1,83.7,0.4,5,7.45,Non Big 6,Attacking Midfield,25,55000000,15
+Solly March,7,559,3,1,1,0,2.0,81.4,0.9,1,7.43,Non Big 6,Wing Forward,29,18000000,4
+Erling Haaland,31,2559,27,5,1,0,3.9,77.4,1.3,6,7.4,Big 6,Centre-Forward,23,180000000,32
+Bruno Fernandes,35,3120,10,8,9,0,2.7,79.4,0.6,6,7.39,Big 6,Attacking Midfield,29,70000000,18
+Declan Rice,38,3232,7,8,5,0,1.5,90.7,1.0,5,7.38,Big 6,Defensive Midfield,25,120000000,15
+Bruno Guimarães,37,3269,7,8,9,0,1.3,85.0,0.5,6,7.37,Non Big 6,Defensive Midfield,26,85000000,15
+Martin Ødegaard,35,3104,8,10,2,0,2.2,86.8,0.1,5,7.37,Big 6,Attacking Midfield,25,110000000,18
+Arijanet Muric,10,900,0,0,0,0,0.0,67.5,0.4,1,7.34,Non Big 6,Goalkeeper,25,7000000,0
+Anthony Gordon,35,2906,11,10,10,1,2.3,81.8,0.3,4,7.29,Non Big 6,Wing Forward,23,60000000,21
+Ollie Watkins,37,3227,19,13,4,0,2.9,76.8,1.4,7,7.27,Non Big 6,Centre-Forward,28,65000000,32
+Jérémy Doku,29,1596,3,8,3,0,1.9,86.0,0.1,5,7.24,Big 6,Wing Forward,22,65000000,11
+Mohamed Salah,32,2536,18,10,2,0,3.6,75.7,0.2,4,7.24,Big 6,Wing Forward,31,55000000,28
+Mohammed Kudus,33,2488,8,6,6,0,2.0,84.5,0.5,6,7.23,Non Big 6,Attacking Midfield,23,50000000,14
+James Maddison,28,2155,4,9,5,0,2.1,87.4,0.1,1,7.17,Big 6,Attacking Midfield,27,70000000,13
+Kai Havertz,37,2641,13,7,11,0,1.9,81.1,2.8,3,7.16,Big 6,Attacking Midfield,24,70000000,20
+Bernardo Silva,33,2582,6,9,8,0,1.0,89.4,0.1,2,7.15,Big 6,Attacking Midfield,29,70000000,15
+Virgil van Dijk,36,3178,2,2,3,1,1.3,91.5,3.9,1,7.15,Big 6,Centre-Back,32,30000000,4
+Alexander Isak,30,2267,21,2,1,0,2.6,80.0,0.3,3,7.14,Non Big 6,Centre-Forward,24,75000000,23
+Pascal Groß,36,3114,4,10,7,0,1.5,90.2,0.4,6,7.13,Non Big 6,Central Midfield,32,8000000,14
+Conor Gallagher,37,3137,5,7,7,1,1.3,91.5,0.7,1,7.13,Big 6,Central Midfield,24,50000000,12
+Matheus Cunha,32,2454,12,7,9,0,2.3,81.6,0.5,5,7.13,Non Big 6,Centre-Forward,25,45000000,19
+Trent Alexander-Arnold,28,2161,3,4,6,0,1.7,79.6,0.3,3,7.12,Big 6,Wing Back,25,70000000,7
+Julián Álvarez,36,2660,11,9,2,0,2.7,87.9,0.1,1,7.1,Big 6,Centre-Forward,24,90000000,20
+Jarrod Bowen,34,3021,16,6,2,0,2.5,75.1,1.0,2,7.1,Non Big 6,Wing Forward,27,50000000,22
+Diogo Jota,21,1151,10,3,1,1,2.0,74.5,0.9,1,7.09,Big 6,Wing Forward,27,50000000,13
+Alexis Mac Allister,33,2612,5,5,7,1,1.3,87.8,0.9,2,7.09,Big 6,Central Midfield,25,75000000,10
+Luis Díaz,37,2646,8,5,3,0,2.5,85.3,0.7,3,7.09,Big 6,Wing Forward,27,75000000,13
+James Tarkowski,38,3420,1,1,11,0,0.7,77.8,3.8,5,7.08,Non Big 6,Centre-Back,31,13000000,2
+Nicolas Jackson,35,2810,14,5,10,0,2.3,78.0,1.0,3,7.07,Big 6,Centre-Forward,22,35000000,19
+Kieran Trippier,28,2240,1,10,5,0,0.3,79.7,1.1,3,7.07,Non Big 6,Wing Back,33,10000000,11
+Thomas Strakosha,2,135,0,0,0,0,0.0,71.2,0.5,0,7.05,Non Big 6,Goalkeeper,29,3000000,0
+Manor Solomon,5,198,0,2,1,0,1.4,90.6,0.0,0,7.05,Big 6,Wing Forward,24,13000000,2
+Ross Barkley,32,2622,5,4,6,0,2.1,84.5,1.4,1,7.05,Non Big 6,Central Midfield,30,8000000,9
+Lucas Paquetá,31,2638,4,6,10,0,1.4,75.2,2.0,0,7.04,Non Big 6,Attacking Midfield,26,65000000,10
+Pedro Porro,35,3093,3,7,3,0,1.5,79.6,0.5,3,7.04,Big 6,Wing Back,24,45000000,10
+João Palhinha,33,2711,4,1,13,0,1.4,83.0,1.2,2,7.04,Non Big 6,Defensive Midfield,28,55000000,5
+Dominic Solanke,38,3333,19,3,3,0,2.9,73.7,2.6,3,7.03,Non Big 6,Centre-Forward,26,40000000,22
+Josko Gvardiol,28,2330,4,1,3,0,1.1,88.3,1.1,1,7.03,Big 6,Wing Back,22,75000000,5
+Cristian Romero,33,2793,5,0,7,1,0.7,91.9,2.7,1,7.03,Big 6,Centre-Back,26,60000000,5
+Alphonse Areola,31,2702,0,0,1,0,0.0,59.3,0.4,4,6.96,Non Big 6,Goalkeeper,31,10000000,0
+Diogo Dalot,36,3174,2,3,4,1,0.8,83.8,0.9,1,6.96,Big 6,Wing Back,25,35000000,5
+Douglas Luiz,35,3003,9,5,12,0,1.4,89.4,0.7,3,6.95,Non Big 6,Central Midfield,26,70000000,14
+Dan Burn,33,2733,2,2,4,0,0.7,81.1,3.1,1,6.94,Non Big 6,Wing Back,32,8000000,4
+João Pedro,31,2046,9,3,2,0,2.4,82.7,1.3,3,6.93,Non Big 6,Centre-Forward,22,45000000,12
+Ben White,37,2995,4,4,8,0,0.4,86.7,1.0,0,6.93,Big 6,Wing Back,26,55000000,8
+Adam Wharton,16,1305,0,3,2,0,0.6,81.1,0.5,0,6.93,Non Big 6,Central Midfield,20,30000000,3
+Antonee Robinson,37,3269,0,6,6,0,0.4,75.9,1.1,1,6.92,Non Big 6,Wing Back,26,25000000,6
+Jarrad Branthwaite,35,3117,3,0,8,0,0.4,80.1,2.7,0,6.9,Non Big 6,Centre-Back,21,42000000,3
+Gabriel Jesus,27,1482,4,5,6,0,2.0,81.0,0.6,2,6.89,Big 6,Centre-Forward,27,65000000,9
+Gabriel Martinelli,35,2031,6,4,1,0,1.7,85.0,0.5,1,6.89,Big 6,Wing Forward,22,70000000,10
+Ivan Toney,17,1449,4,2,5,0,3.0,55.7,3.2,2,6.89,Non Big 6,Centre-Forward,28,50000000,6
+Darwin Núñez,36,2050,11,8,9,0,3.0,71.6,0.9,0,6.89,Big 6,Centre-Forward,24,70000000,19
+Kaoru Mitoma,19,1488,3,4,4,0,1.8,83.4,0.6,1,6.88,Non Big 6,Wing Forward,27,45000000,7
+Jean-Philippe Mateta,35,2285,16,5,3,0,1.3,73.8,1.4,2,6.88,Non Big 6,Centre-Forward,26,20000000,21
+Antoine Semenyo,33,2113,8,2,6,0,2.1,74.3,1.6,3,6.88,Non Big 6,Wing Forward,24,10000000,10
+Joachim Andersen,38,3418,2,3,7,0,0.6,79.5,2.4,4,6.88,Non Big 6,Centre-Back,28,35000000,5
+Yoane Wissa,34,2509,12,3,7,0,2.0,73.2,1.1,2,6.87,Non Big 6,Wing Forward,27,28000000,15
+Cody Gakpo,35,1646,8,5,1,0,1.9,79.3,0.9,2,6.87,Big 6,Wing Forward,25,50000000,13
+Harry Maguire,22,1651,2,2,4,0,0.9,83.4,3.1,0,6.87,Big 6,Centre-Back,31,18000000,4
+Cheick Doucouré,11,922,0,0,2,0,0.5,87.2,0.5,0,6.87,Non Big 6,Defensive Midfield,24,35000000,0
+Marcus Tavernier,30,2134,3,4,3,0,1.8,79.3,0.4,1,6.86,Non Big 6,Wing Forward,25,20000000,7
+Simon Adingra,31,2233,6,1,3,0,1.7,81.1,0.3,3,6.86,Non Big 6,Wing Forward,22,30000000,7
+Mario Lemina,35,2976,4,1,10,1,1.4,86.7,1.0,2,6.85,Non Big 6,Defensive Midfield,30,10000000,5
+Sergio Reguilón,16,1122,0,4,4,1,0.8,71.8,0.9,1,6.85,Non Big 6,Wing Back,27,12000000,4
+Moisés Caicedo,35,2875,1,3,11,0,0.4,90.8,0.9,2,6.85,Big 6,Defensive Midfield,22,75000000,4
+William Saliba,38,3420,2,1,4,0,0.3,92.6,1.9,2,6.85,Big 6,Centre-Back,23,80000000,3
+Jordan Ayew,35,2551,4,7,7,1,1.4,80.6,1.0,3,6.85,Non Big 6,Centre-Forward,32,4000000,11
+André Onana,38,3420,0,0,5,0,0.0,70.4,0.4,2,6.84,Big 6,Goalkeeper,28,35000000,0
+Noni Madueke,23,1057,5,2,2,0,1.4,88.5,0.3,2,6.84,Big 6,Wing Forward,22,28000000,7
+James Garner,37,3006,1,2,7,0,1.1,82.8,0.7,0,6.84,Non Big 6,Defensive Midfield,23,22000000,3
+Ibrahima Konaté,22,1571,0,0,3,1,0.5,88.0,3.5,0,6.84,Big 6,Centre-Back,25,45000000,0
+Richarlison,28,1493,11,4,3,0,2.2,70.9,0.9,1,6.83,Big 6,Centre-Forward,27,38000000,15
+Rúben Dias,30,2558,0,0,0,0,0.7,94.1,1.6,0,6.83,Big 6,Centre-Back,27,80000000,0
+Idrissa Gueye,25,1896,4,0,8,0,1.0,85.6,0.6,1,6.83,Non Big 6,Central Midfield,34,3000000,4
+Lewis Cook,33,2792,0,3,5,1,0.4,81.2,1.3,2,6.83,Non Big 6,Central Midfield,27,12000000,3
+Martin Dúbravka,23,1984,0,0,1,0,0.0,74.9,0.2,2,6.83,Non Big 6,Goalkeeper,35,1000000,0
+Alfie Doughty,37,2938,2,8,5,0,0.7,75.2,0.6,2,6.83,Non Big 6,Wing Forward,24,10000000,10
+Leandro Trossard,34,1647,12,1,2,0,1.8,78.7,0.2,1,6.82,Big 6,Wing Forward,29,35000000,13
+Jefferson Lerma,28,2404,1,1,8,0,1.2,82.4,2.5,1,6.82,Non Big 6,Defensive Midfield,29,20000000,2
+Levi Colwill,23,1800,1,1,2,0,0.5,83.4,1.9,2,6.82,Big 6,Centre-Back,21,50000000,2
+Mark Travers,4,360,0,0,0,0,0.0,51.4,0.5,0,6.82,Non Big 6,Goalkeeper,25,3500000,0
+Marc Cucurella,21,1786,0,2,10,0,0.4,86.7,1.2,0,6.81,Big 6,Wing Back,25,25000000,2
+Dominik Szoboszlai,33,2110,3,2,1,0,1.8,87.3,0.4,1,6.81,Big 6,Central Midfield,23,75000000,5
+Oleksandr Zinchenko,27,1727,1,2,2,0,0.6,89.4,1.0,3,6.81,Big 6,Wing Back,27,38000000,3
+Raheem Sterling,31,1983,8,4,7,0,1.6,79.3,0.1,2,6.8,Big 6,Wing Forward,29,35000000,12
+Tosin Adarabioyo,20,1617,2,0,2,0,0.7,84.7,2.9,0,6.8,Non Big 6,Centre-Back,26,20000000,2
+Kobbie Mainoo,24,1942,3,1,3,0,0.5,86.7,0.8,0,6.8,Big 6,Central Midfield,19,50000000,4
+Matheus Nunes,2,180,0,0,0,1,0.5,84.0,1.0,0,6.8,Non Big 6,Central Midfield,25,50000000,0
+Marcos Senesi,31,2248,4,5,13,0,0.4,78.5,1.3,1,6.8,Non Big 6,Centre-Back,27,22000000,9
+Christian Nørgaard,31,2513,2,1,8,0,1.1,81.2,1.3,1,6.8,Non Big 6,Defensive Midfield,30,18000000,3
+Caoimhín Kelleher,10,900,0,0,0,0,0.0,79.3,0.4,0,6.8,Big 6,Goalkeeper,25,20000000,0
+Boubacar Kamara,20,1662,0,1,7,1,0.3,89.3,1.0,0,6.79,Non Big 6,Defensive Midfield,24,38000000,1
+Micky van de Ven,27,2344,3,0,5,0,0.3,94.3,1.4,1,6.79,Big 6,Centre-Back,23,55000000,3
+Rodrigo Muniz,26,1598,9,1,1,0,2.8,62.1,2.9,2,6.79,Non Big 6,Centre-Forward,23,20000000,10
+Callum Hudson-Odoi,29,1856,8,1,0,0,1.3,85.3,0.1,3,6.79,Non Big 6,Wing Forward,23,18000000,9
+Dominic Calvert-Lewin,32,2189,7,2,2,0,2.3,56.9,4.4,2,6.79,Non Big 6,Centre-Forward,27,22000000,9
+Manuel Akanji,30,2514,2,0,2,1,0.5,93.8,0.9,0,6.78,Big 6,Centre-Back,28,45000000,2
+Carlton Morris,38,2867,11,4,4,0,1.9,66.8,3.5,1,6.78,Non Big 6,Centre-Forward,28,13000000,15
+Tyrick Mitchell,37,3209,2,3,6,0,0.3,74.2,0.6,0,6.78,Non Big 6,Wing Back,24,25000000,5
+Albert Sambi Lokonga,17,1310,1,3,4,0,0.5,89.2,0.9,0,6.78,Non Big 6,Central Midfield,24,15000000,4
+Robin Olsen,5,405,0,0,0,0,0.0,79.3,0.6,0,6.78,Non Big 6,Goalkeeper,34,1500000,0
+Thiago Silva,31,2528,3,1,4,0,0.5,94.9,1.7,0,6.77,Big 6,Centre-Back,39,1000000,4
+Alex Iwobi,30,2205,5,2,2,0,1.7,81.8,0.2,2,6.77,Non Big 6,Attacking Midfield,28,25000000,7
+Chiedozie Ogbene,30,1994,4,1,1,0,1.2,81.6,1.0,1,6.76,Non Big 6,Wing Forward,27,8000000,5
+Brennan Johnson,32,2093,5,10,3,0,1.6,76.2,0.2,0,6.76,Big 6,Wing Forward,23,48000000,15
+Jarell Quansah,17,1190,2,0,1,0,0.4,88.8,2.6,1,6.76,Big 6,Centre-Back,21,22000000,2
+Alejandro Garnacho,36,2578,7,4,4,0,2.8,79.4,0.2,2,6.76,Big 6,Wing Forward,19,45000000,11
+Rayan Aït-Nouri,33,2347,2,1,7,0,0.7,86.6,0.6,1,6.76,Non Big 6,Wing Back,22,35000000,3
+Ben Godfrey,15,1123,0,0,2,0,1.0,70.8,1.7,0,6.76,Non Big 6,Centre-Back,26,10000000,0
+Edson Álvarez,31,2385,1,1,11,0,0.5,86.1,1.0,0,6.76,Non Big 6,Defensive Midfield,26,35000000,2
+Enzo Fernández,28,2215,3,2,7,0,1.7,86.9,0.8,1,6.75,Big 6,Central Midfield,23,75000000,5
+Aaron Wan-Bissaka,22,1782,0,2,4,0,0.1,82.9,1.0,1,6.75,Big 6,Wing Back,26,20000000,2
+Chris Wood,31,1810,14,1,0,0,1.5,64.5,2.4,3,6.75,Non Big 6,Centre-Forward,32,7000000,15
+Andreas Pereira,37,2638,3,7,6,0,1.4,78.8,0.4,2,6.75,Non Big 6,Attacking Midfield,28,20000000,10
+Joelinton,20,1281,2,1,6,0,1.0,83.9,0.9,1,6.75,Non Big 6,Central Midfield,27,40000000,3
+Guglielmo Vicario,38,3420,0,0,2,0,0.0,83.7,0.6,0,6.75,Big 6,Goalkeeper,27,35000000,0
+Malo Gusto,27,1756,0,6,7,1,0.6,89.2,0.3,1,6.74,Big 6,Wing Back,21,35000000,6
+Callum Wilson,20,984,9,1,3,0,1.8,65.2,0.5,0,6.74,Non Big 6,Centre-Forward,32,13000000,10
+Trevoh Chalobah,13,951,1,0,1,0,0.2,89.6,1.5,0,6.74,Big 6,Centre-Back,24,13000000,1
+Morgan Rogers,11,640,3,1,3,0,1.0,77.1,0.6,0,6.73,Non Big 6,Wing Forward,21,15000000,4
+Nathan Aké,29,2044,2,2,0,0,0.7,92.8,1.6,0,6.73,Big 6,Centre-Back,29,40000000,4
+Neto,32,2880,0,0,5,0,0.0,60.2,0.3,2,6.73,Non Big 6,Goalkeeper,34,2500000,0
+Pervis Estupiñán,19,1248,2,3,4,0,0.6,88.7,0.6,1,6.73,Non Big 6,Wing Back,26,30000000,5
+Jan Paul van Hecke,28,2368,0,0,4,0,0.5,92.5,2.4,1,6.72,Non Big 6,Centre-Back,23,18000000,0
+Jordan Beyer,15,1239,0,1,6,0,0.3,89.1,1.9,0,6.72,Non Big 6,Centre-Back,24,13000000,1
+Chris Richards,26,2092,1,1,3,0,0.4,83.3,2.4,0,6.72,Non Big 6,Centre-Back,24,12000000,2
+Pablo Sarabia,30,1752,4,7,5,0,1.5,77.1,0.2,1,6.72,Non Big 6,Wing Forward,32,10000000,11
+Willian,31,2061,4,2,1,0,1.5,85.5,0.3,1,6.72,Non Big 6,Wing Forward,35,3000000,6
+Jack Grealish,20,1004,3,1,7,0,1.1,87.7,0.2,0,6.72,Big 6,Wing Forward,28,60000000,4
+Rico Henry,5,402,0,1,1,0,0.4,84.6,0.8,0,6.72,Non Big 6,Wing Back,26,20000000,1
+José Sá,35,3039,0,1,1,0,0.0,59.2,0.4,1,6.72,Non Big 6,Goalkeeper,31,14000000,1
+Yves Bissouma,28,2088,0,0,9,2,0.9,91.9,0.5,0,6.72,Big 6,Defensive Midfield,27,35000000,0
+Mathias Jensen,32,2220,3,3,5,0,0.4,78.6,0.2,1,6.71,Non Big 6,Central Midfield,28,28000000,6
+Scott McTominay,32,1893,7,1,2,0,1.4,81.5,1.2,2,6.71,Big 6,Defensive Midfield,27,32000000,8
+Destiny Udogie,28,2398,2,3,5,1,0.3,87.5,0.8,0,6.71,Big 6,Wing Back,21,45000000,5
+Amadou Onana,30,2094,2,0,5,0,1.0,84.9,1.8,1,6.71,Non Big 6,Defensive Midfield,22,50000000,2
+Jordan Pickford,38,3420,0,0,5,0,0.0,59.4,0.0,1,6.71,Non Big 6,Goalkeeper,30,22000000,0
+Emiliano Martínez,34,3016,0,0,4,0,0.0,81.4,0.1,0,6.71,Non Big 6,Goalkeeper,31,28000000,0
+Nick Pope,15,1346,0,0,1,0,0.1,71.1,0.2,0,6.71,Non Big 6,Goalkeeper,32,16000000,0
+Harvey Elliott,34,1339,3,6,2,0,1.4,87.7,0.3,2,6.7,Big 6,Attacking Midfield,21,35000000,9
+Rasmus Højlund,30,2172,10,2,2,0,1.3,77.0,0.8,1,6.7,Big 6,Centre-Forward,21,65000000,12
+Murillo,32,2793,0,2,5,0,0.5,77.6,1.2,0,6.69,Non Big 6,Centre-Back,21,35000000,2
+Marcus Rashford,33,2279,7,2,2,0,1.9,79.2,0.5,0,6.69,Big 6,Wing Forward,26,60000000,9
+Lucas Digne,33,2413,1,3,7,0,0.6,81.4,1.3,0,6.68,Non Big 6,Wing Back,30,12000000,4
+Timo Werner,13,815,2,3,1,0,2.2,80.8,0.1,0,6.68,Big 6,Centre-Forward,28,17000000,5
+Bernd Leno,38,3420,0,0,3,0,0.0,77.2,0.3,3,6.68,Non Big 6,Goalkeeper,32,13000000,0
+Vitaly Janelt,38,3072,1,3,8,0,0.6,79.9,0.9,1,6.68,Non Big 6,Defensive Midfield,26,22000000,4
+Luis Sinisterra,20,692,2,2,0,0,1.4,80.1,0.8,1,6.68,Non Big 6,Wing Forward,24,17000000,4
+Amad Diallo,9,388,1,1,1,0,1.1,88.0,0.4,1,6.67,Big 6,Wing Forward,21,18000000,2
+Stefan Ortega,9,632,0,0,0,0,0.0,78.1,0.1,0,6.67,Big 6,Goalkeeper,31,9000000,0
+Thomas Partey,14,790,0,0,3,0,0.6,90.3,0.5,0,6.67,Big 6,Defensive Midfield,30,18000000,0
+Sean Longstaff,35,2748,6,2,7,0,1.2,80.9,0.5,0,6.67,Non Big 6,Central Midfield,26,25000000,8
+Tom Lockyer,14,1173,1,1,4,0,0.5,71.5,2.2,0,6.67,Non Big 6,Centre-Back,29,2500000,2
+João Gomes,34,2660,2,1,11,0,0.8,83.3,0.5,1,6.67,Non Big 6,Central Midfield,23,35000000,3
+Matty Cash,29,2144,2,2,8,0,1.1,84.0,0.5,1,6.66,Non Big 6,Wing Back,26,28000000,4
+Nathan Collins,32,2650,1,1,3,0,0.3,81.5,2.3,0,6.66,Non Big 6,Centre-Back,23,25000000,2
+Neco Williams,26,1634,0,1,4,0,0.6,72.4,1.2,0,6.66,Non Big 6,Wing Back,23,17000000,1
+Dara O'Shea,33,2895,3,4,5,1,0.6,79.7,3.8,0,6.66,Non Big 6,Centre-Back,25,7000000,7
+Lukasz Fabianski,10,721,0,0,0,0,0.0,60.3,0.2,0,6.64,Non Big 6,Goalkeeper,39,700000,0
+Ezri Konsa,35,3074,1,0,5,0,0.5,92.2,0.9,0,6.64,Non Big 6,Centre-Back,26,35000000,1
+Mateo Kovacic,30,1549,1,0,4,0,0.7,94.1,0.1,0,6.63,Big 6,Central Midfield,30,30000000,1
+Jack Hinshelwood,12,871,3,0,1,0,1.2,84.4,0.6,1,6.63,Non Big 6,Defensive Midfield,19,16000000,3
+Abdoulaye Doucouré,32,2643,7,2,7,0,1.5,78.5,0.8,0,6.63,Non Big 6,Central Midfield,31,10000000,9
+Ederson,33,2789,0,0,5,0,0.0,85.9,0.3,0,6.63,Big 6,Goalkeeper,30,35000000,0
+Timothy Castagne,34,2634,1,3,3,0,0.4,81.3,1.0,0,6.63,Non Big 6,Wing Back,28,17000000,4
+Youri Tielemans,32,1622,2,6,3,0,0.4,86.0,0.4,1,6.63,Non Big 6,Central Midfield,27,25000000,8
+Ben Davies,17,1086,1,0,2,0,0.7,91.3,1.7,0,6.62,Big 6,Wing Back,31,10000000,1
+Wilson Odobert,29,2109,3,2,3,0,1.7,79.4,0.3,0,6.62,Non Big 6,Wing Forward,19,10000000,5
+Djordje Petrovic,23,1986,0,0,2,0,0.0,76.4,0.3,0,6.62,Big 6,Goalkeeper,24,20000000,0
+Anthony Elanga,36,2434,5,9,1,0,1.5,75.3,0.5,1,6.62,Non Big 6,Wing Forward,22,22000000,14
+Harvey Barnes,21,795,5,3,2,0,1.3,79.1,0.2,0,6.61,Non Big 6,Wing Forward,26,35000000,8
+Gabriel Osho,21,1848,2,0,3,0,0.5,82.5,1.8,0,6.61,Non Big 6,Centre-Back,25,3000000,2
+Kristoffer Ajer,28,1836,2,1,5,0,0.4,75.9,2.3,0,6.61,Non Big 6,Centre-Back,26,15000000,3
+Josh Brownhill,33,2253,4,2,4,1,0.8,80.3,1.1,1,6.61,Non Big 6,Central Midfield,28,15000000,6
+Nicolás Domínguez,26,1505,2,2,4,0,0.8,85.4,0.8,1,6.61,Non Big 6,Central Midfield,25,17000000,4
+Elijah Adebayo,27,1419,10,0,1,0,1.1,72.6,1.6,1,6.59,Non Big 6,Centre-Forward,26,12000000,10
+Axel Disasi,31,2581,2,0,6,0,0.5,90.6,2.4,1,6.58,Big 6,Centre-Back,26,40000000,2
+Vladimír Coufal,36,3140,0,7,5,1,0.2,73.0,1.1,0,6.58,Non Big 6,Wing Back,31,8000000,7
+Taiwo Awoniyi,20,1047,6,3,2,0,1.1,73.8,1.1,0,6.58,Non Big 6,Centre-Forward,26,28000000,9
+Sander Berge,37,3009,1,2,8,1,0.7,88.8,1.8,1,6.58,Non Big 6,Defensive Midfield,26,20000000,3
+Gustavo Hamer,36,2924,4,6,9,0,1.4,73.5,0.2,0,6.58,Non Big 6,Central Midfield,26,15000000,10
+Danny Welbeck,29,1707,5,1,4,0,1.4,83.2,0.6,0,6.58,Non Big 6,Centre-Forward,33,5000000,6
+Justin Kluivert,32,1937,7,1,5,0,1.8,72.4,0.4,0,6.55,Non Big 6,Wing Forward,25,14000000,8
+Danilo,29,1801,2,2,4,0,0.8,80.6,0.5,0,6.55,Non Big 6,Central Midfield,23,28000000,4
+Lewis Hall,18,777,1,0,2,0,0.6,83.1,0.6,0,6.55,Non Big 6,Wing Back,19,18000000,1
+Ben Mee,16,1276,2,0,1,1,0.6,76.4,2.2,0,6.54,Non Big 6,Centre-Back,34,1000000,2
+Antony,29,1324,1,1,5,0,1.5,80.0,0.1,1,6.54,Big 6,Wing Forward,24,25000000,2
+Tyler Adams,3,118,0,0,0,0,0.0,84.1,0.7,1,6.54,Non Big 6,Defensive Midfield,25,15000000,0
+David Raya,32,2880,0,0,2,0,0.0,70.8,0.2,0,6.54,Big 6,Goalkeeper,28,35000000,0
+Rico Lewis,16,808,2,0,1,0,0.3,91.0,0.0,0,6.54,Big 6,Wing Back,19,38000000,2
+Eddie Nketiah,27,1073,5,2,3,0,1.4,79.9,0.9,1,6.53,Big 6,Centre-Forward,25,30000000,7
+Sandro Tonali,8,439,1,0,2,0,0.4,88.0,0.1,0,6.53,Non Big 6,Defensive Midfield,24,38000000,1
+Oliver Arblaster,12,946,0,0,2,0,0.1,81.5,0.8,0,6.53,Non Big 6,Central Midfield,20,450000,0
+Will Hughes,30,1899,0,1,6,0,0.3,85.1,0.4,0,6.53,Non Big 6,Central Midfield,29,9000000,1
+Harry Wilson,35,1616,4,6,6,0,1.1,79.2,0.1,2,6.52,Non Big 6,Wing Forward,27,17000000,10
+Tom Cairney,34,1480,1,4,3,0,0.5,90.3,0.4,0,6.52,Non Big 6,Central Midfield,33,2000000,5
+Nathaniel Clyne,19,1339,0,0,0,0,0.2,84.2,0.7,0,6.52,Non Big 6,Wing Back,33,1500000,0
+Zanka,14,1087,1,0,4,0,0.6,75.4,1.9,0,6.52,Non Big 6,Centre-Back,34,1000000,1
+Kurt Zouma,33,2841,3,0,3,0,0.5,83.9,1.8,1,6.52,Non Big 6,Centre-Back,29,25000000,3
+Issa Diop,18,1426,0,0,2,1,0.3,88.1,1.4,1,6.51,Non Big 6,Centre-Back,27,20000000,0
+Adam Smith,28,2158,0,2,6,0,0.1,77.1,0.7,0,6.51,Non Big 6,Wing Back,33,1000000,2
+Joël Veltman,27,1583,1,1,4,0,0.2,84.9,1.1,0,6.51,Non Big 6,Wing Back,32,10000000,2
+Zeki Amdouni,34,1972,5,1,2,0,1.4,80.9,0.5,1,6.51,Non Big 6,Centre-Forward,23,12000000,6
+Thomas Kaminski,38,3406,0,0,3,0,0.0,55.0,0.1,0,6.51,Non Big 6,Goalkeeper,31,3000000,0
+David Datro Fofana,15,880,4,1,1,0,1.3,69.0,0.9,2,6.51,Non Big 6,Centre-Forward,21,12000000,5
+Harry Toffolo,23,1456,1,3,3,0,0.3,76.2,1.1,0,6.5,Non Big 6,Wing Back,28,5000000,4
+Ibrahim Sangaré,17,1040,0,0,6,0,0.5,80.7,0.5,0,6.5,Non Big 6,Defensive Midfield,26,30000000,0
+Tino Livramento,26,1306,1,0,1,0,0.2,86.8,0.5,0,6.5,Non Big 6,Wing Back,21,35000000,1
+Amari'i Bell,21,1722,0,0,0,0,0.1,79.6,1.0,0,6.5,Non Big 6,Wing Back,30,2500000,0
+Julio Enciso,12,475,0,2,2,0,2.3,77.2,0.1,0,6.5,Non Big 6,Attacking Midfield,20,22000000,2
+Ryan Gravenberch,26,1122,1,0,0,0,0.9,83.4,0.4,0,6.49,Big 6,Central Midfield,22,35000000,1
+Dean Henderson,18,1620,0,0,2,0,0.0,53.7,0.3,0,6.49,Non Big 6,Goalkeeper,27,12000000,0
+Christopher Nkunku,11,437,3,0,0,0,1.5,89.3,0.9,0,6.49,Big 6,Attacking Midfield,26,65000000,3
+Giovani Lo Celso,22,498,2,2,2,0,0.6,91.5,0.0,1,6.49,Big 6,Attacking Midfield,28,16000000,4
+Evan Ferguson,27,1366,6,0,1,0,1.2,81.3,0.5,1,6.49,Non Big 6,Centre-Forward,19,50000000,6
+Reece James,10,421,0,2,0,2,0.7,84.3,0.8,0,6.49,Big 6,Wing Back,24,40000000,2
+Chris Mepham,10,615,0,1,2,0,0.1,82.8,3.0,0,6.49,Non Big 6,Centre-Back,26,6000000,1
+Mads Andersen,8,399,1,0,1,0,0.4,73.9,1.4,0,6.48,Non Big 6,Centre-Back,26,3000000,1
+Neal Maupay,29,1317,6,3,8,0,1.3,72.8,0.5,2,6.48,Non Big 6,Centre-Forward,27,12000000,9
+Jeffrey Schlupp,29,1357,2,2,1,0,0.7,75.9,0.8,1,6.48,Non Big 6,Wing Forward,31,7000000,4
+Jacob Ramsey,16,852,1,1,2,0,1.2,81.9,0.3,0,6.48,Non Big 6,Attacking Midfield,23,35000000,2
+Benoît Badiashile,18,1338,0,1,3,0,0.3,90.9,1.6,0,6.48,Big 6,Centre-Back,23,30000000,1
+Facundo Buonanotte,27,1370,3,1,7,0,0.8,85.3,0.2,0,6.47,Non Big 6,Attacking Midfield,19,18000000,4
+Adam Webster,15,1144,0,0,2,0,0.5,91.3,2.2,0,6.47,Non Big 6,Centre-Back,29,20000000,0
+Ben Chilwell,13,758,0,1,5,0,0.9,80.2,0.9,0,6.47,Big 6,Wing Back,27,28000000,1
+Emil Krafth,17,910,0,0,2,0,0.2,85.1,0.8,0,6.47,Non Big 6,Wing Back,29,2500000,0
+Philip Billing,29,1393,2,2,3,1,1.0,78.4,1.2,0,6.47,Non Big 6,Central Midfield,27,22000000,4
+Curtis Jones,23,1168,1,1,3,1,0.8,91.5,0.3,0,6.47,Big 6,Central Midfield,23,35000000,2
+Jayden Bogle,34,2795,3,0,9,0,0.9,69.7,1.5,0,6.47,Non Big 6,Wing Back,23,3800000,3
+Charlie Taylor,28,2332,1,1,8,0,0.4,78.9,1.5,0,6.47,Non Big 6,Wing Back,30,3000000,2
+Matt Turner,18,1531,0,0,2,0,0.0,63.6,0.3,0,6.47,Non Big 6,Goalkeeper,29,7000000,0
+Alex Scott,23,1013,1,1,3,0,0.7,81.0,0.7,1,6.46,Non Big 6,Central Midfield,20,20000000,2
+Calvin Bassey,29,2302,1,0,4,1,0.2,86.2,1.0,0,6.46,Non Big 6,Centre-Back,24,16000000,1
+Álex Moreno,21,1031,2,0,2,0,0.4,83.3,0.2,0,6.46,Non Big 6,Wing Back,30,13000000,2
+Oscar Bobb,14,295,1,1,0,0,0.3,88.1,0.1,0,6.46,Big 6,Wing Forward,20,25000000,2
+Gonzalo Montiel,14,802,0,2,5,0,0.2,78.9,0.9,0,6.45,Non Big 6,Wing Back,27,10000000,2
+Wes Foderingham,30,2648,0,0,2,0,0.0,52.6,0.2,1,6.45,Non Big 6,Goalkeeper,33,900000,0
+Jacob Brown,19,1020,2,0,4,0,1.4,56.3,2.3,1,6.45,Non Big 6,Centre-Forward,26,4000000,2
+Luca Koleosho,15,984,1,1,0,0,1.5,76.0,0.1,0,6.45,Non Big 6,Wing Forward,19,7000000,2
+Jacob Bruun Larsen,32,1252,6,0,1,0,1.4,76.8,0.4,0,6.45,Non Big 6,Wing Forward,25,8000000,6
+Joel Ward,26,1982,0,1,4,0,0.4,75.7,1.8,0,6.45,Non Big 6,Wing Back,34,1000000,1
+Sam Johnstone,20,1797,0,0,1,0,0.0,52.9,0.1,2,6.44,Non Big 6,Goalkeeper,31,10000000,0
+Mads Roerslev,34,1985,1,2,1,0,0.2,68.9,0.4,1,6.44,Non Big 6,Wing Back,24,10000000,3
+Frank Onyeka,26,1157,1,2,8,0,0.8,77.6,0.4,0,6.43,Non Big 6,Central Midfield,26,9000000,3
+Jorginho,24,920,0,2,1,0,0.2,90.2,0.3,0,6.41,Big 6,Defensive Midfield,32,12000000,2
+Nathan Patterson,20,1000,0,2,4,0,0.2,73.0,0.4,0,6.41,Non Big 6,Wing Back,22,15000000,2
+Lloyd Kelly,23,1558,0,1,2,0,0.2,77.6,1.2,0,6.4,Non Big 6,Centre-Back,25,18000000,1
+Fábio Vieira,11,292,1,2,0,1,0.6,88.8,0.1,0,6.4,Big 6,Attacking Midfield,24,22000000,3
+Billy Gilmour,30,2126,0,1,8,1,0.8,92.2,0.4,0,6.39,Non Big 6,Defensive Midfield,22,18000000,1
+Lisandro Martínez,11,649,0,1,3,0,0.0,93.0,0.4,0,6.39,Big 6,Centre-Back,26,45000000,1
+Rodrigo Bentancur,23,1010,1,1,7,0,0.8,85.5,0.6,0,6.39,Big 6,Central Midfield,26,35000000,2
+Adama Traoré,17,365,2,3,2,0,0.6,81.1,0.5,0,6.39,Non Big 6,Wing Forward,28,9000000,5
+Giovanni Reyna,9,231,0,1,0,0,0.6,89.1,0.8,0,6.35,Non Big 6,Attacking Midfield,21,18000000,1
+Shandon Baptiste,10,225,1,1,1,0,0.2,73.3,0.3,0,6.35,Non Big 6,Central Midfield,26,2500000,2
+Emile Smith Rowe,13,347,0,1,0,0,1.2,88.6,0.2,0,6.35,Big 6,Attacking Midfield,23,22000000,1
+Nuno Tavares,8,455,0,0,2,0,0.9,78.9,0.4,0,6.35,Non Big 6,Wing Back,24,15000000,0
+Kevin Schade,11,331,2,1,0,0,0.7,63.6,1.5,0,6.35,Non Big 6,Wing Forward,22,22000000,3
+Chris Basham,8,319,0,0,1,0,0.3,76.2,1.0,0,6.35,Non Big 6,Centre-Back,35,300000,0
+Tahith Chong,33,1987,4,0,4,0,0.9,81.8,0.3,0,6.34,Non Big 6,Wing Forward,24,6000000,4
+Auston Trusty,32,2573,0,0,4,0,0.3,79.0,2.0,0,6.34,Non Big 6,Centre-Back,25,7000000,0
+Harrison Reed,27,1325,0,2,6,0,0.3,85.3,0.4,0,6.34,Non Big 6,Central Midfield,29,15000000,2
+Andros Townsend,27,1210,1,3,1,0,0.7,80.2,0.0,0,6.34,Non Big 6,Wing Forward,32,1800000,4
+Max Lowe,10,501,0,1,1,0,0.2,65.4,0.5,0,6.34,Non Big 6,Wing Back,27,2500000,1
+Carlos Baleba,27,1324,0,0,7,0,0.8,92.2,0.9,0,6.33,Non Big 6,Defensive Midfield,20,22000000,0
+Armando Broja,13,455,1,0,0,0,1.0,89.2,0.3,0,6.32,Big 6,Centre-Forward,22,22000000,1
+Jhon Durán,23,463,5,0,5,0,0.9,71.1,0.9,1,6.32,Non Big 6,Centre-Forward,20,20000000,5
+Felipe,8,376,0,0,4,0,0.4,85.4,1.8,0,6.32,Non Big 6,Centre-Back,35,1500000,0
+Pierre-Emile Højbjerg,36,1294,0,0,4,0,0.5,88.6,0.2,0,6.32,Big 6,Defensive Midfield,28,18000000,0
+Jean-Ricner Bellegarde,22,953,2,1,0,1,0.7,84.3,0.4,1,6.32,Non Big 6,Central Midfield,25,15000000,3
+Beto,30,939,3,0,2,0,1.4,61.5,1.6,1,6.32,Non Big 6,Centre-Forward,26,20000000,3
+Anthony Martial,13,445,1,0,0,0,0.5,79.6,0.6,0,6.32,Big 6,Centre-Forward,28,10000000,1
+Tariq Lamptey,19,916,0,3,3,0,0.3,87.9,0.2,0,6.32,Non Big 6,Wing Back,23,12000000,3
+Mason Mount,14,513,1,0,2,0,0.4,85.2,0.4,0,6.32,Big 6,Attacking Midfield,25,35000000,1
+Angelo Ogbonna,11,635,0,0,1,0,0.1,79.9,1.1,0,6.31,Non Big 6,Centre-Back,36,700000,0
+Oliver Norwood,27,1433,1,0,8,0,0.6,72.2,0.5,0,6.31,Non Big 6,Central Midfield,33,1000000,1
+Aaron Hickey,9,720,0,0,5,0,0.8,89.3,0.2,0,6.31,Non Big 6,Wing Back,21,28000000,0
+James Hill,5,76,0,0,0,0,0.0,70.6,0.8,0,6.31,Non Big 6,Centre-Back,22,2000000,0
+James Shea,1,14,0,0,0,0,0.0,62.5,0.0,0,6.31,Non Big 6,Goalkeeper,32,200000,0
+Vitinho,32,2320,0,2,1,0,0.8,77.1,0.6,0,6.31,Non Big 6,Wing Back,24,5000000,2
+Jesurun Rak-Sakyi,6,133,0,0,0,0,0.8,78.7,0.5,0,6.31,Non Big 6,Wing Forward,21,2000000,0
+Michael Obafemi,2,19,0,0,0,0,1.0,80.0,0.0,0,6.31,Non Big 6,Centre-Forward,23,2200000,0
+Santiago Bueno,12,821,0,0,1,0,0.0,89.3,1.3,0,6.3,Non Big 6,Centre-Back,25,8000000,0
+Matz Sels,16,1440,0,0,1,0,0.0,65.2,0.3,0,6.3,Non Big 6,Goalkeeper,32,7000000,0
+Jay Rodríguez,21,815,2,1,0,0,1.0,66.0,1.0,0,6.29,Non Big 6,Centre-Forward,34,1000000,3
+Andrew Omobamidele,11,782,0,0,2,0,0.1,87.4,0.7,0,6.29,Non Big 6,Centre-Back,21,11000000,0
+Anel Ahmedhodzic,31,2650,2,0,9,1,0.6,75.6,1.6,1,6.28,Non Big 6,Centre-Back,25,18000000,2
+David Brooks,13,273,1,1,1,0,1.0,76.8,0.1,0,6.28,Non Big 6,Wing Forward,26,8000000,2
+Ryan Giles,11,501,0,0,0,0,0.2,73.4,0.3,0,6.28,Non Big 6,Wing Back,24,4500000,0
+Kalvin Phillips,4,89,0,0,0,0,0.5,89.7,0.0,0,6.27,Big 6,Defensive Midfield,28,25000000,0
+Hjalmar Ekdal,8,440,0,0,2,0,0.3,88.0,0.5,0,6.27,Non Big 6,Centre-Back,25,7000000,0
+Carney Chukwuemeka,9,224,1,1,2,0,0.3,86.5,0.1,0,6.27,Big 6,Central Midfield,20,15000000,2
+Ivo Grbic,9,772,0,0,1,0,0.0,45.8,0.8,0,6.27,Non Big 6,Goalkeeper,28,3500000,0
+Cauley Woodrow,24,411,1,1,2,0,0.7,74.8,0.5,0,6.26,Non Big 6,Centre-Forward,29,1000000,2
+Lewis Dobbin,12,227,1,0,1,0,0.4,75.9,0.2,0,6.26,Non Big 6,Wing Forward,21,2500000,1
+Aaron Ramsdale,6,540,0,0,0,0,0.0,65.2,0.0,0,6.26,Big 6,Goalkeeper,26,25000000,0
+Roméo Lavia,1,32,0,0,0,0,0.0,81.5,0.0,0,6.26,Big 6,Defensive Midfield,20,35000000,0
+Ansu Fati,19,514,2,0,2,0,1.4,87.3,0.1,0,6.26,Non Big 6,Wing Forward,21,25000000,2
+Max Aarons,20,1233,0,1,1,0,0.1,76.7,0.3,0,6.25,Non Big 6,Wing Back,24,16000000,1
+Odysseas Vlachodimos,5,450,0,0,0,0,0.0,79.1,0.0,0,6.25,Non Big 6,Goalkeeper,30,7000000,0
+Sofyan Amrabat,21,933,0,0,6,0,0.1,88.1,0.2,0,6.24,Big 6,Defensive Midfield,27,22000000,0
+Saman Ghoddos,19,730,1,0,5,0,0.5,76.4,0.2,0,6.24,Non Big 6,Attacking Midfield,30,2000000,1
+Hugo Bueno,22,731,0,0,1,0,0.2,80.6,0.4,0,6.24,Non Big 6,Wing Back,21,6000000,0
+Nicolò Zaniolo,25,831,2,0,7,0,1.1,71.6,0.3,0,6.24,Non Big 6,Attacking Midfield,24,20000000,2
+Michael Keane,9,438,1,0,2,0,0.7,77.7,1.8,0,6.24,Non Big 6,Centre-Back,31,6000000,1
+Ben Johnson,14,538,0,0,1,0,0.4,82.1,0.5,0,6.23,Non Big 6,Wing Back,24,8000000,0
+Jakub Moder,17,613,0,0,2,0,0.6,82.0,0.2,0,6.23,Non Big 6,Central Midfield,25,10000000,0
+Matheus França,10,225,0,1,1,0,0.8,73.8,0.1,0,6.22,Non Big 6,Attacking Midfield,20,15000000,1
+Luke Berry,17,311,2,1,1,0,0.5,69.7,0.4,0,6.22,Non Big 6,Central Midfield,31,400000,3
+Divock Origi,20,601,0,1,1,0,0.7,67.9,0.6,0,6.21,Non Big 6,Centre-Forward,29,5000000,1
+Fodé Ballo-Touré,6,67,0,0,1,0,0.0,78.2,0.0,0,6.21,Non Big 6,Wing Back,27,3000000,0
+Kieffer Moore,8,100,1,0,0,0,0.8,70.0,0.8,0,6.21,Non Big 6,Centre-Forward,31,2000000,1
+Jason Steele,17,1530,0,0,0,0,0.0,83.2,0.1,0,6.2,Non Big 6,Goalkeeper,33,3500000,0
+Lesley Ugochukwu,12,298,0,0,2,0,0.0,84.7,0.8,0,6.2,Big 6,Defensive Midfield,20,25000000,0
+Valentín Barco,6,308,0,0,1,0,0.7,86.1,0.2,0,6.2,Non Big 6,Wing Back,19,13000000,0
+Adam Lallana,25,854,0,1,2,0,0.4,90.0,0.1,0,6.17,Non Big 6,Attacking Midfield,36,1000000,1
+Stefan Bajcetic,1,26,0,0,0,0,0.0,70.0,0.0,0,6.17,Big 6,Defensive Midfield,19,11000000,0
+Ben Osborn,24,1363,0,2,3,0,0.2,77.7,0.3,0,6.17,Non Big 6,Central Midfield,29,1000000,2
+Mohamed Elneny,3,25,0,0,0,0,0.7,97.5,0.3,0,6.16,Big 6,Defensive Midfield,31,3500000,0
+Jairo Riedewald,9,229,0,0,0,0,0.1,80.6,0.3,0,6.16,Non Big 6,Defensive Midfield,27,3000000,0
+Maxwel Cornet,7,111,1,0,0,0,0.6,75.0,0.0,0,6.16,Non Big 6,Wing Forward,27,9000000,1
+John Egan,6,484,0,0,2,0,0.5,69.9,2.3,0,6.16,Non Big 6,Centre-Back,31,4000000,0
+Mike Trésor,16,413,0,0,0,0,0.3,77.4,0.1,0,6.16,Non Big 6,Wing Forward,25,12000000,0
+Joe Rothwell,11,383,0,0,0,0,0.2,87.6,0.0,0,6.14,Non Big 6,Central Midfield,29,2500000,0
+Bryan Gil,11,203,0,0,0,0,0.4,85.4,0.0,0,6.14,Big 6,Wing Forward,23,14000000,0
+Aaron Cresswell,11,433,0,0,1,0,0.0,83.4,0.5,0,6.13,Non Big 6,Wing Back,34,900000,0
+Josh Dasilva,3,23,0,0,0,0,0.0,69.2,0.0,0,6.11,Non Big 6,Central Midfield,25,10000000,0
+Daiki Hashioka,10,595,0,0,0,0,0.2,82.4,1.3,0,6.11,Non Big 6,Wing Back,25,2000000,0
+Fred Onyedinma,8,407,0,0,1,0,0.6,76.5,1.0,0,6.11,Non Big 6,Attacking Midfield,27,500000,0
+Bobby Clark,5,87,0,0,0,0,0.4,77.6,0.0,0,6.1,Big 6,Central Midfield,19,1000000,0
+Remi Matthews,1,3,0,0,0,0,0.0,0.0,1.0,0,6.08,Non Big 6,Goalkeeper,30,500000,0
+Tyrone Mings,1,31,0,0,0,0,1.0,100.0,1.0,0,6.08,Non Big 6,Centre-Back,31,13000000,0
+Leon Chiwome,3,176,0,0,0,0,0.7,86.4,0.7,0,6.08,Non Big 6,Centre-Forward,18,1000000,0
+Pelly Ruddock Mpanzu,27,1094,0,0,1,0,0.4,74.9,0.4,0,6.08,Non Big 6,Defensive Midfield,30,1500000,0
+Matt Ritchie,13,120,1,0,1,0,0.5,81.4,0.0,0,6.07,Non Big 6,Wing Forward,34,1000000,1
+Han-Noah Massengo,3,14,0,0,0,0,0.0,55.6,0.0,0,6.06,Non Big 6,Defensive Midfield,22,4000000,0
+Aaron Ramsey,14,526,0,0,1,0,0.4,79.5,0.3,0,6.06,Non Big 6,Attacking Midfield,21,15000000,0
+Divin Mubama,5,76,0,0,0,0,0.2,72.7,0.8,0,6.04,Non Big 6,Centre-Forward,19,1000000,0
+James Tomkins,4,7,0,0,0,0,0.0,85.7,0.5,0,6.04,Non Big 6,Centre-Back,35,700000,0
+Jack Cork,4,25,0,0,0,0,0.0,78.1,0.0,0,6.04,Non Big 6,Defensive Midfield,34,800000,0
+Romain Faivre,5,37,0,0,1,0,0.4,82.6,0.0,0,6.03,Non Big 6,Wing Forward,25,15000000,0
+Deivid Washington,2,11,0,0,0,0,0.5,100.0,0.0,0,6.03,Big 6,Centre-Forward,18,9000000,0
+Jaidon Anthony,3,154,0,0,1,0,0.7,69.8,0.3,0,6.03,Non Big 6,Wing Forward,24,6000000,0
+Rodrigo Ribeiro,4,14,0,0,0,0,0.0,75.0,0.5,0,6.01,Non Big 6,Centre-Forward,19,3000000,0
+Connor Roberts,14,819,0,1,3,1,0.0,84.4,0.5,0,6.01,Non Big 6,Wing Back,28,7000000,1
+William Osula,21,785,0,0,4,0,1.0,53.3,1.1,0,6.0,Non Big 6,Centre-Forward,20,3000000,0
+James McAtee,1,1,0,0,0,0,0.0,0.0,0.0,0,6.0,Big 6,Central Midfield,21,12000000,0
+Willy Kambwala,8,327,0,0,1,0,0.0,84.8,0.8,0,6.0,Big 6,Centre-Back,19,5000000,0
+Tom Davies,9,217,0,0,2,0,0.4,72.8,0.3,0,5.95,Non Big 6,Central Midfield,25,5000000,0
+Rhys Norrington-Davies,5,111,0,0,1,0,0.0,72.2,0.2,0,5.94,Non Big 6,Wing Back,25,2500000,0
+Rhian Brewster,13,342,0,0,0,1,0.5,71.2,0.3,0,5.93,Non Big 6,Centre-Forward,24,3000000,0
+Paul Dummett,5,18,0,0,0,0,0.2,90.9,0.2,0,5.92,Non Big 6,Centre-Back,32,900000,0
+Cameron Archer,1,5,0,0,1,0,0.0,83.3,0.0,0,5.89,Non Big 6,Centre-Forward,22,13000000,0
+Daniel Jebbison,1,20,0,0,0,0,0.0,33.3,0.0,0,5.89,Non Big 6,Centre-Forward,20,1000000,0
+Anass Zaroury,6,149,0,0,0,1,0.5,67.8,0.0,0,5.85,Non Big 6,Wing Forward,23,9000000,0
+Andrei Radu,2,180,0,0,0,0,0.0,79.3,0.0,0,5.7,Non Big 6,Goalkeeper,27,3000000,0
